@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202009051758插入B站视频.md",
+            "file": "09 碎记/202009051733.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202009051758插入B站视频.md"
+                "file": "09 碎记/202009051733.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202009051758插入B站视频.md"
+                "file": "09 碎记/202009051733.md"
               }
             }
           },
@@ -102,10 +102,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "09 碎记/202009051758.md",
-    "Attachment/Pasted image.png",
+    "09 碎记/202009051733.md",
     "11 高阶教程/如何插入iframe.md",
-    "Evan Lee.md",
-    "09 碎记/202009041459利用WGestures达到专注写作 by ABC.md"
+    "00 新手入门/00.09 石墨文档迁移计划.md",
+    "00 新手入门/00.05 本人对新手的建议.md",
+    "00 新手入门/00.03 关于本文档的说明.md"
   ]
 }
