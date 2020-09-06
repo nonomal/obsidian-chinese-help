@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202009051758插入B站视频.md",
+            "file": "00 新手入门/00.10 obsidian帮助文档.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "5e3347f9281de212",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "09 碎记/202009061928中文帮助.md",
             "mode": "source"
           }
         }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neuron"
+                "query": "简睿"
               }
             }
           },
@@ -52,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -72,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202009051758插入B站视频.md"
+                "file": "00 新手入门/00.10 obsidian帮助文档.md"
               }
             }
           },
@@ -82,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202009051758插入B站视频.md"
+                "file": "00 新手入门/00.10 obsidian帮助文档.md"
               }
             }
           },
@@ -98,14 +110,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "lastOpenFiles": [
-    "09 碎记/202009051758.md",
-    "Attachment/Pasted image.png",
-    "11 高阶教程/如何插入iframe.md",
-    "Evan Lee.md",
-    "09 碎记/202009041459利用WGestures达到专注写作 by ABC.md"
+    "00 新手入门/00.10 obsidian帮助文档.md",
+    "09 碎记/202009061928中文帮助.md",
+    "09 碎记/202009050831ob教程的进展.md",
+    "07 信息源与贡献者/Jackiexiao.md",
+    "09 碎记/202009061928.md"
   ]
 }
