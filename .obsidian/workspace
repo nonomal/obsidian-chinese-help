@@ -6,18 +6,18 @@
       {
         "id": "20931f12b71ef6e0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "00 新手入门/00.10 obsidian帮助文档.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "5e3347f9281de212",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 新手入门/00.10 obsidian帮助文档.md"
+                "file": "09 碎记/202009061928中文帮助.md"
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 新手入门/00.10 obsidian帮助文档.md"
+                "file": "09 碎记/202009061928中文帮助.md"
               }
             }
           },
@@ -113,8 +113,8 @@
     "width": 352
   },
   "lastOpenFiles": [
-    "00 新手入门/00.10 obsidian帮助文档.md",
     "09 碎记/202009061928中文帮助.md",
+    "00 新手入门/00.10 obsidian帮助文档.md",
     "09 碎记/202009050831ob教程的进展.md",
     "07 信息源与贡献者/Jackiexiao.md",
     "09 碎记/202009061928.md"
