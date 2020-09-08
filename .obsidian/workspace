@@ -6,22 +6,11 @@
       {
         "id": "20931f12b71ef6e0",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00 新手入门/00.10 obsidian帮助文档.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5e3347f9281de212",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202009061928中文帮助.md",
+            "file": "02 名词解释/迁移性.md",
             "mode": "source"
           }
         }
@@ -63,8 +52,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202009061928中文帮助.md"
+                "file": "02 名词解释/迁移性.md"
               }
             }
           },
@@ -94,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202009061928中文帮助.md"
+                "file": "02 名词解释/迁移性.md"
               }
             }
           },
@@ -110,13 +98,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "09 碎记/202009061928中文帮助.md",
-    "00 新手入门/00.10 obsidian帮助文档.md",
-    "09 碎记/202009050831ob教程的进展.md",
-    "07 信息源与贡献者/Jackiexiao.md",
-    "09 碎记/202009061928.md"
+    "迁移性.md",
+    "README.md",
+    "Evan Lee.md",
+    "Cerveau.md",
+    "唐小暖.md"
   ]
 }
