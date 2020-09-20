@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "566117d15eb69490",
+        "id": "ca1c98336d006e54",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202009140850标准的卡片.md",
-            "mode": "preview"
+            "file": "MOC-好文推荐.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oss"
+                "query": "检索"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202009140850标准的卡片.md"
+                "file": "MOC-好文推荐.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202009140850标准的卡片.md"
+                "file": "MOC-好文推荐.md"
               }
             }
           },
@@ -102,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "09 碎记/202009140850.md",
-    "09 碎记/202009131353卡片法的践行者-姚雪垠.md",
-    "09 碎记/202009132131.md",
-    "11 高阶教程/图床教程.md",
-    "09 碎记/202008061350阿里云oss搭建图床 by 落山鸡.md",
-    "09 碎记/202008061354picgo图床的设置 by 翰墨水木.md",
-    "11 高阶教程/如何与检索软件连用.md",
-    "09 碎记/202009131331卡片法的践行者-吴晗.md",
-    "09 碎记/202009131356.md",
-    "09 碎记/202009131331.md"
+    "MOC-好文推荐.md",
+    "为什么双链内为绝对路径而不是简介模式.md",
+    "vnote.md",
+    "东流.md",
+    "梦剑情天.md",
+    "Nvivo.md",
+    "flying fly flies.md",
+    "Gavin.H.md",
+    "04 资源/04.02 文字资源.md",
+    "04 资源/04 资源.md"
   ]
 }
