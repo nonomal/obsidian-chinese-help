@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC-好文推荐.md",
+            "file": "09 碎记/202009061155推荐了专注笔记 by 咩咩.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "检索"
+                "query": "电子化"
               }
             }
           },
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 159
   },
   "right": {
     "id": "698094dcc944becf",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC-好文推荐.md"
+                "file": "09 碎记/202009061155推荐了专注笔记 by 咩咩.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC-好文推荐.md"
+                "file": "09 碎记/202009061155推荐了专注笔记 by 咩咩.md"
               }
             }
           },
@@ -102,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MOC-好文推荐.md",
-    "为什么双链内为绝对路径而不是简介模式.md",
-    "vnote.md",
-    "东流.md",
-    "梦剑情天.md",
-    "Nvivo.md",
-    "flying fly flies.md",
-    "Gavin.H.md",
-    "04 资源/04.02 文字资源.md",
-    "04 资源/04 资源.md"
+    "09 碎记/202009061155推荐了专注笔记 by 咩咩.md",
+    "09 碎记/202009231215正则表达式资源.md",
+    "09 碎记/202009231215.md",
+    "09 碎记/202009230932.md",
+    "09 碎记/202009230927.md",
+    "09 碎记/202009220906图谱增强——增加筛选功能.md",
+    "Attachment/Pasted image 20200922091120.png",
+    "Attachment/Pasted image 20200922090914.png",
+    "09 碎记/202009212220标题css样式 by flying fly flies.md",
+    "README.md"
   ]
 }
