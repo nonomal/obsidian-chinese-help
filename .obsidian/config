@@ -15,7 +15,8 @@
     "custom-css": true,
     "open-with-default-app": true,
     "tag-pane": true,
-    "page-preview": true
+    "page-preview": true,
+    "publish": true
   },
   "alwaysUpdateLinks": true,
   "newFileLocation": "root",
