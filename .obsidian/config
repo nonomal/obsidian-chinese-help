@@ -16,11 +16,13 @@
     "open-with-default-app": true,
     "tag-pane": true,
     "page-preview": true,
-    "publish": true
+    "publish": true,
+    "templates": true
   },
   "alwaysUpdateLinks": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "Attachment",
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "enabledPlugins": []
 }
