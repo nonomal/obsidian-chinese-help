@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ca1c98336d006e54",
+        "id": "8628724ee71df0e1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 笔记方法/01.02 ob使用心得.md",
-            "mode": "source"
+            "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "学习骇客"
+                "query": "python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -52,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -72,7 +78,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 笔记方法/01.02 ob使用心得.md"
+                "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -82,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 笔记方法/01.02 ob使用心得.md"
+                "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md"
               }
             }
           },
@@ -98,18 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181
+    "width": 181,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "01 笔记方法/01.02 ob使用心得.md",
-    "04 资源/How to take smart note翻译版.md",
-    "07 信息源与贡献者/学习骇客.md",
-    "11 高阶教程/如何插入脚注.md",
-    "07 信息源与贡献者/亨利咔咔.md",
-    "10 工具/双链软件.md",
-    "kevin.md",
-    "03 教程/如何让ob不读取库内某个文件夹.md",
-    "如何让ob不读取库内某个文件夹.md",
-    "09 碎记/202010230944anki的用法心得 by 十五.md"
+    "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
+    "为什么编辑模式和浏览模式的行高不一样.md",
+    "shaosen.md",
+    "09 碎记/202011222202.md",
+    "09 碎记/202011201102纸质卡片的心得 by lemy.md",
+    "09 碎记/202011211636中文帮助文件翻译者Kitta.md",
+    "12 笔记模板/12.03 每日日记 by DemoChen.md",
+    "12 笔记模板/12 笔记模板.md",
+    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
+    "12 笔记模板/12.02 quickTemplate by boninall.md"
   ]
 }
