@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8628724ee71df0e1",
+        "id": "f09240414c7a3aca",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
-            "mode": "preview"
+            "file": "如何使用别名（aliases）.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "information kn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
+                "file": "如何使用别名（aliases）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202011222202用python来维护ob笔记 by shaosen.md"
+                "file": "如何使用别名（aliases）.md"
               }
             }
           },
@@ -102,26 +101,27 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 181,
-    "collapsed": true
+    "width": 295.5
   },
   "lastOpenFiles": [
-    "09 碎记/202011222202用python来维护ob笔记 by shaosen.md",
-    "为什么编辑模式和浏览模式的行高不一样.md",
-    "shaosen.md",
-    "09 碎记/202011222202.md",
-    "09 碎记/202011201102纸质卡片的心得 by lemy.md",
-    "09 碎记/202011211636中文帮助文件翻译者Kitta.md",
-    "12 笔记模板/12.03 每日日记 by DemoChen.md",
-    "12 笔记模板/12 笔记模板.md",
-    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
-    "12 笔记模板/12.02 quickTemplate by boninall.md"
+    "如何使用别名.md",
+    "03 教程/03 教程.md",
+    "09 碎记/202011260922增加了别名功能.md",
+    "01 笔记方法/01.03 ZK.md",
+    "02 名词解释/zk笔记法.md",
+    "09 碎记/202011272342espanso.md",
+    "Bill.md",
+    "09 碎记/202011272342.md",
+    "03 教程/obsidian的插件.md",
+    "09 碎记/202011272145插件Templater.md"
   ]
 }
