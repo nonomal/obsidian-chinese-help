@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 教程/如何将网页web转md.md",
-            "mode": "source"
+            "file": "17 插件演示/dataview的演示.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "群友",
+                "query": "latex ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 211
   },
   "right": {
     "id": "698094dcc944becf",
     "type": "split",
     "children": [
+      {
+        "id": "f3ede192f508ecf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66f828085daadaf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "bd88125c318cdce6",
         "type": "tabs",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 教程/如何将网页web转md.md",
+                "file": "17 插件演示/dataview的演示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 教程/如何将网页web转md.md"
+                "file": "17 插件演示/dataview的演示.md"
               }
             }
           },
@@ -102,7 +116,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -110,19 +125,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "lastOpenFiles": [
-    "03 教程/如何将网页web转md.md",
-    "00 新手入门/00 新手入门.md",
-    "09 碎记/202012291543使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案.md",
-    "Kenshin.md",
-    "09 碎记/202012291543.md",
-    "09 碎记/202012291542.md",
-    "07 信息源与贡献者/群友.md",
-    "04 资源/04.01 视频资源.md",
-    "09 碎记/202010142017IMF4.0.md",
-    "09 碎记/202009140933Obsidian入门视频教程 by 蚕子.md"
+    "17 插件演示/dataview的演示.md",
+    "17 插件演示/17 插件演示.md",
+    "17 插件演示/dataview的演示5.md",
+    "17 插件演示/dataview的演示4.md",
+    "17 插件演示/dataview的演示2.md",
+    "17 插件演示/dataview的演示3.md",
+    "dataview的演示2.md",
+    "dataview的演示5.md",
+    "dataview的演示4.md",
+    "dataview的演示3.md"
   ]
 }
