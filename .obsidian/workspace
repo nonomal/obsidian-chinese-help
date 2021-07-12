@@ -4,14 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "964e896750287038",
+        "id": "8b57dc29bfe388bc",
         "type": "leaf",
-        "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "17 插件演示/dataview的演示.md",
-            "mode": "preview"
+            "file": "01 2021新教程/2021年新教程.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "9462b761e24c8cac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 名词解释/obsidian插件列表（MOC）.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "895c00c2193a884c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 2021新教程/obsidian视频资源（MOC）.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex ",
+                "query": "b站",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,21 +84,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 311
   },
   "right": {
     "id": "698094dcc944becf",
     "type": "split",
     "children": [
       {
-        "id": "f3ede192f508ecf8",
+        "id": "1a84b4b41067b2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e66f828085daadaf",
+            "id": "91ff0b5b689cafdb",
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3f21787ce945e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46e5936cc66c881",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -91,10 +128,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17 插件演示/dataview的演示.md",
+                "file": "01 2021新教程/2021年新教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17 插件演示/dataview的演示.md"
+                "file": "01 2021新教程/2021年新教程.md"
               }
             }
           },
@@ -125,18 +164,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 379
   },
+  "active": "8b57dc29bfe388bc",
   "lastOpenFiles": [
-    "17 插件演示/dataview的演示.md",
-    "17 插件演示/17 插件演示.md",
-    "17 插件演示/dataview的演示5.md",
-    "17 插件演示/dataview的演示4.md",
-    "17 插件演示/dataview的演示2.md",
-    "17 插件演示/dataview的演示3.md",
-    "dataview的演示2.md",
-    "dataview的演示5.md",
-    "dataview的演示4.md",
-    "dataview的演示3.md"
+    "01 2021新教程/2021年新教程.md",
+    "02 名词解释/obsidian插件列表（MOC）.md",
+    "02 名词解释/02 名词解释.md",
+    "Media Extended.md",
+    "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md",
+    "05 常见问题/05 常见问题.md",
+    "06 ob官方帮助文档（节选）/未命名.md",
+    "12 笔记模板/笔记模板 by Borber.md",
+    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
+    "12 笔记模板/12.01.01 笔记模板 by Borber.md"
   ]
 }
