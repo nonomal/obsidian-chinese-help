@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8b57dc29bfe388bc",
+        "id": "58e2d6c955ad82c9",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -17,23 +17,12 @@
         }
       },
       {
-        "id": "9462b761e24c8cac",
+        "id": "528badfb7c7539b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 名词解释/obsidian插件列表（MOC）.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "895c00c2193a884c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01 2021新教程/obsidian视频资源（MOC）.md",
+            "file": "00 新手入门/00 新手入门.md",
             "mode": "source"
           }
         }
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/2021年新教程.md",
+                "file": "00 新手入门/00 新手入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/2021年新教程.md"
+                "file": "00 新手入门/00 新手入门.md"
               }
             }
           },
@@ -166,17 +155,17 @@
     "direction": "horizontal",
     "width": 379
   },
-  "active": "8b57dc29bfe388bc",
+  "active": "528badfb7c7539b0",
   "lastOpenFiles": [
+    "00 新手入门/00 新手入门.md",
+    "00 新手入门/00.05 本人对新手的建议.md",
+    "00 新手入门/00.04 使用须知.md",
     "01 2021新教程/2021年新教程.md",
-    "02 名词解释/obsidian插件列表（MOC）.md",
-    "02 名词解释/02 名词解释.md",
-    "Media Extended.md",
-    "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md",
-    "05 常见问题/05 常见问题.md",
-    "06 ob官方帮助文档（节选）/未命名.md",
-    "12 笔记模板/笔记模板 by Borber.md",
-    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
-    "12 笔记模板/12.01.01 笔记模板 by Borber.md"
+    "00 新手入门/00.11.03 QQ群里有开发者吗.md",
+    "01 2021新教程/爱好者QQ群.md",
+    "01 2021新教程/obsidian（MOC）.md",
+    "04 长文教程/obsidian插件教程（MOC）.md",
+    "02 名词解释/obsidian.md",
+    "00 新手入门/00.12 关于obsidian的一些信息.md"
   ]
 }

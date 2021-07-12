@@ -1,8 +1,172 @@
 {
   "recentFiles": [
     {
+      "basename": "00 新手入门",
+      "path": "00 新手入门/00 新手入门.md"
+    },
+    {
+      "basename": "00.05 本人对新手的建议",
+      "path": "00 新手入门/00.05 本人对新手的建议.md"
+    },
+    {
+      "basename": "00.04 使用须知",
+      "path": "00 新手入门/00.04 使用须知.md"
+    },
+    {
       "basename": "2021年新教程",
       "path": "01 2021新教程/2021年新教程.md"
+    },
+    {
+      "basename": "QQ群里有开发者吗",
+      "path": "01 2021新教程/QQ群里有开发者吗.md"
+    },
+    {
+      "basename": "爱好者QQ群",
+      "path": "01 2021新教程/爱好者QQ群.md"
+    },
+    {
+      "basename": "obsidian（MOC）",
+      "path": "01 2021新教程/obsidian（MOC）.md"
+    },
+    {
+      "basename": "obsidian插件教程（MOC）",
+      "path": "04 长文教程/obsidian插件教程（MOC）.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "02 名词解释/obsidian.md"
+    },
+    {
+      "basename": "00.12 关于obsidian的一些信息",
+      "path": "00 新手入门/00.12 关于obsidian的一些信息.md"
+    },
+    {
+      "basename": "提问的艺术",
+      "path": "01 2021新教程/提问的艺术.md"
+    },
+    {
+      "basename": "关于QQ群踢人的说明",
+      "path": "01 2021新教程/关于QQ群踢人的说明.md"
+    },
+    {
+      "basename": "obsidian中文教程",
+      "path": "01 2021新教程/obsidian中文教程.md"
+    },
+    {
+      "basename": "00.14 如果软件不适合你",
+      "path": "00 新手入门/00.14 如果软件不适合你.md"
+    },
+    {
+      "basename": "00.02 版权申明",
+      "path": "00 新手入门/00.02 版权申明.md"
+    },
+    {
+      "basename": "00.10 obsidian帮助文档",
+      "path": "00 新手入门/00.10 obsidian帮助文档.md"
+    },
+    {
+      "basename": "obsidian开发路线图",
+      "path": "01 2021新教程/obsidian开发路线图.md"
+    },
+    {
+      "basename": "如何成为insider（内测者）",
+      "path": "01 2021新教程/如何成为insider（内测者）.md"
+    },
+    {
+      "basename": "购买obsidian的服务",
+      "path": "01 2021新教程/购买obsidian的服务.md"
+    },
+    {
+      "basename": "关于教程的更新",
+      "path": "01 2021新教程/关于教程的更新.md"
+    },
+    {
+      "basename": "Q群资源分享渠道",
+      "path": "01 2021新教程/Q群资源分享渠道.md"
+    },
+    {
+      "basename": "软通达",
+      "path": "01 2021新教程/软通达.md"
+    },
+    {
+      "basename": "移动端同步",
+      "path": "01 2021新教程/移动端同步.md"
+    },
+    {
+      "basename": "obsidian移动端（MOC）",
+      "path": "01 2021新教程/obsidian移动端（MOC）.md"
+    },
+    {
+      "basename": "00.08 简单的问答（Q&A）",
+      "path": "00 新手入门/00.08 简单的问答（Q&A）.md"
+    },
+    {
+      "basename": "最近更新（commits插件）",
+      "path": "00 新手入门/最近更新（commits插件）.md"
+    },
+    {
+      "basename": "06 大讨论（废弃）",
+      "path": "09 碎记/06 大讨论（废弃）.md"
+    },
+    {
+      "basename": "202008271353石墨文档迁移计划",
+      "path": "09 碎记/202008271353石墨文档迁移计划.md"
+    },
+    {
+      "basename": "obsidian视频资源（MOC）",
+      "path": "01 2021新教程/obsidian视频资源（MOC）.md"
+    },
+    {
+      "basename": "dataview的演示",
+      "path": "10 演示文件夹/dataview插件演示/dataview的演示.md"
+    },
+    {
+      "basename": "11 高阶教程",
+      "path": "11 高阶教程/11 高阶教程.md"
+    },
+    {
+      "basename": "dataview的演示2",
+      "path": "10 演示文件夹/dataview插件演示/dataview的演示2.md"
+    },
+    {
+      "basename": "dataview的演示3",
+      "path": "10 演示文件夹/dataview插件演示/dataview的演示3.md"
+    },
+    {
+      "basename": "功能演示（MOC）",
+      "path": "10 演示文件夹/功能演示（MOC）.md"
+    },
+    {
+      "basename": "latex的块引用",
+      "path": "10 演示文件夹/块引用/latex的块引用.md"
+    },
+    {
+      "basename": "块引用不用手动给ID",
+      "path": "10 演示文件夹/块引用/块引用不用手动给ID.md"
+    },
+    {
+      "basename": "ob中的块引用",
+      "path": "10 演示文件夹/块引用/ob中的块引用.md"
+    },
+    {
+      "basename": "测试文档-块引用",
+      "path": "10 演示文件夹/块引用/测试文档-块引用.md"
+    },
+    {
+      "basename": "202008271038",
+      "path": "Attachment/202008271038.png"
+    },
+    {
+      "basename": "202008271035",
+      "path": "Attachment/202008271035.png"
+    },
+    {
+      "basename": "0一般模板",
+      "path": "98 模板/0一般模板.md"
+    },
+    {
+      "basename": "ob官方帮助文档（MOC）",
+      "path": "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md"
     },
     {
       "basename": "obsidian插件列表（MOC）",
@@ -15,10 +179,6 @@
     {
       "basename": "Media Extended",
       "path": "02 名词解释/Media Extended.md"
-    },
-    {
-      "basename": "ob官方帮助文档（MOC）",
-      "path": "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md"
     },
     {
       "basename": "05 常见问题",
@@ -39,166 +199,6 @@
     {
       "basename": "每日日记 by DemoChen",
       "path": "01 2021新教程/每日日记 by DemoChen.md"
-    },
-    {
-      "basename": "笔记模板（MOC）",
-      "path": "01 2021新教程/笔记模板（MOC）.md"
-    },
-    {
-      "basename": "obsidian使用心得（MOC）",
-      "path": "01 2021新教程/obsidian使用心得（MOC）.md"
-    },
-    {
-      "basename": "obsidian视频资源（MOC）",
-      "path": "01 2021新教程/obsidian视频资源（MOC）.md"
-    },
-    {
-      "basename": "关于笔记方法的视频资源",
-      "path": "01 2021新教程/关于笔记方法的视频资源.md"
-    },
-    {
-      "basename": "视频UP主",
-      "path": "02 名词解释/视频UP主.md"
-    },
-    {
-      "basename": "How to take smart note翻译版",
-      "path": "01 2021新教程/How to take smart note翻译版.md"
-    },
-    {
-      "basename": "Html和CSS的入门网站",
-      "path": "01 2021新教程/Html和CSS的入门网站.md"
-    },
-    {
-      "basename": "obsidian官方平台",
-      "path": "01 2021新教程/obsidian官方平台.md"
-    },
-    {
-      "basename": "笔记方法论（MOC）",
-      "path": "01 2021新教程/笔记方法论（MOC）.md"
-    },
-    {
-      "basename": "思考（MOC）",
-      "path": "01 2021新教程/思考（MOC）.md"
-    },
-    {
-      "basename": "Obsidian Tabs",
-      "path": "Obsidian Tabs.md"
-    },
-    {
-      "basename": "重点文章",
-      "path": "重点文章.md"
-    },
-    {
-      "basename": "葫芦笔记",
-      "path": "02 名词解释/葫芦笔记.md"
-    },
-    {
-      "basename": "移动端语言设置",
-      "path": "01 2021新教程/移动端语言设置.md"
-    },
-    {
-      "basename": "幕布",
-      "path": "02 名词解释/幕布.md"
-    },
-    {
-      "basename": "CSS主题（MOC）",
-      "path": "01 2021新教程/CSS主题（MOC）.md"
-    },
-    {
-      "basename": "202009302012blue topaz by flying fly flies",
-      "path": "09 碎记/202009302012blue topaz by flying fly flies.md"
-    },
-    {
-      "basename": "202009112323赛博朋克风 by boninall",
-      "path": "09 碎记/202009112323赛博朋克风 by boninall.md"
-    },
-    {
-      "basename": "202009011439专注色彩2 by ABC",
-      "path": "09 碎记/202009011439专注色彩2 by ABC.md"
-    },
-    {
-      "basename": "202009011438专注色彩 by ABC",
-      "path": "09 碎记/202009011438专注色彩 by ABC.md"
-    },
-    {
-      "basename": "202008312112修改后的CSS by M",
-      "path": "09 碎记/202008312112修改后的CSS by M.md"
-    },
-    {
-      "basename": "obsidian的移动端",
-      "path": "01 2021新教程/obsidian的移动端.md"
-    },
-    {
-      "basename": "obsidian未来努力的方向",
-      "path": "01 2021新教程/obsidian未来努力的方向.md"
-    },
-    {
-      "basename": "02.01 常见的名词缩写",
-      "path": "02 名词解释/02.01 常见的名词缩写.md"
-    },
-    {
-      "basename": "传统笔记软件",
-      "path": "02 名词解释/传统笔记软件.md"
-    },
-    {
-      "basename": "软件工具（MOC）",
-      "path": "02 名词解释/软件工具（MOC）.md"
-    },
-    {
-      "basename": "Markdown实现块级引用双向链接的探索 by D",
-      "path": "Zettelkasten/Markdown实现块级引用双向链接的探索 by D.md"
-    },
-    {
-      "basename": "Obsidian笔记中的那些MD语法",
-      "path": "04 长文教程/Obsidian笔记中的那些MD语法.md"
-    },
-    {
-      "basename": "obsidian超链接语法详述",
-      "path": "04 长文教程/obsidian超链接语法详述.md"
-    },
-    {
-      "basename": "支持知识卡片",
-      "path": "Zettelkasten/支持知识卡片.md"
-    },
-    {
-      "basename": "批判知识卡片",
-      "path": "Zettelkasten/批判知识卡片.md"
-    },
-    {
-      "basename": "一词多意",
-      "path": "02 名词解释/一词多意.md"
-    },
-    {
-      "basename": "对知识卡片的反思",
-      "path": "Zettelkasten/对知识卡片的反思.md"
-    },
-    {
-      "basename": "块引用需不需要",
-      "path": "Zettelkasten/块引用需不需要.md"
-    },
-    {
-      "basename": "06 大讨论（废弃）",
-      "path": "Zettelkasten/06 大讨论（废弃）.md"
-    },
-    {
-      "basename": "可以添加word为附件吗",
-      "path": "03 教程/可以添加word为附件吗.md"
-    },
-    {
-      "basename": "03 教程",
-      "path": "03 教程/03 教程.md"
-    },
-    {
-      "basename": "如何显示行号",
-      "path": "03 教程/如何显示行号.md"
-    },
-    {
-      "basename": "Innos Note",
-      "path": "02 名词解释/Innos Note.md"
-    },
-    {
-      "basename": "测试文档-Latex的块引用",
-      "path": "16 块引用/测试文档-Latex的块引用.md"
     }
   ],
   "omittedPaths": [],
