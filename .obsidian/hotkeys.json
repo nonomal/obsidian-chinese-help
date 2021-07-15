@@ -6,5 +6,18 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "app:go-back": [],
+  "editor:follow-link": [],
+  "editor:delete-paragraph": [],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
