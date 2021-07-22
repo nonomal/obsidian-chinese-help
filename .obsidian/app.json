@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoConvertHtml": false
 }
