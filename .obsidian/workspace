@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "22776fb0ee1e4c79",
+        "id": "3695a22314c4063b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 名词解释/obsidian插件列表与教程（MOC）.md",
-            "mode": "preview"
+            "file": "01 2021新教程/下载ob中文教程.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "本文的判断obsidian插件和主题无法加载的前提有以下3点",
+                "query": "ozntel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 名词解释/obsidian插件列表与教程（MOC）.md",
+                "file": "01 2021新教程/下载ob中文教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 名词解释/obsidian插件列表与教程（MOC）.md"
+                "file": "01 2021新教程/下载ob中文教程.md"
               }
             }
           },
@@ -126,20 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379,
-    "collapsed": true
+    "width": 286
   },
-  "active": "22776fb0ee1e4c79",
+  "active": "3695a22314c4063b",
   "lastOpenFiles": [
-    "02 名词解释/obsidian插件列表与教程（MOC）.md",
-    "02 名词解释/210604_111749 dataview入门教程 by 无名.md",
-    "02 名词解释/Dataview Advanced queries by blacksmithgu.md",
-    "02 名词解释/Obsidian 插件之 Dataview by Bon.md",
-    "02 名词解释/obsidian增强展示（dataview插件介绍） by 软达通.md",
-    "09 碎记/202107211920obsidian使用python脚本 by 宏沉一笑.md",
-    "09 碎记/202107211920.md",
-    "01 2021新教程/本人对obsidian新手的建议.md",
-    "01 2021新教程/什么主题适配了移动端.md",
-    "01 2021新教程/california coast（加州海岸）.md"
+    "01 2021新教程/下载本教程.md",
+    "01 2021新教程/2021年新教程.md",
+    "01 2021新教程/关于本文档的说明.md",
+    "02 名词解释/Activity loggger.md",
+    "02 名词解释/Obsidian插件列表与教程（MOC）.md",
+    "02 名词解释/LaTeX.md",
+    "06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md",
+    "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC） by ob官方.md",
+    "06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md",
+    "06 ob官方帮助文档（节选）/第三方插件.md"
   ]
 }

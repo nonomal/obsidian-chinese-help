@@ -1,6 +1,8 @@
 {
   "theme": "moonstone",
-  "obsidianCss": false,
   "baseFontSize": 14,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "首行缩进"
+  ]
 }

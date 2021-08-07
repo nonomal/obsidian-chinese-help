@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "obsidian",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.48713235294118,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4505081176757851,
-  "close": false
+  "scale": 0.22920135941749498,
+  "close": true
 }
