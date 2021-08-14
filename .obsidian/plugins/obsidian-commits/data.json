@@ -1464,146 +1464,6 @@
       "tags": 0,
       "links": 3
     },
-    "02 名词解释/道器术.md": {
-      "size": 835,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/迁移性.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/知识卡片.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/转义符.md": {
-      "size": 334,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/正则表达式.md": {
-      "size": 49,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/时间戳.md": {
-      "size": 189,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/常青笔记.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/块引用.md": {
-      "size": 90,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/双链.md": {
-      "size": 82,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/双向链接.md": {
-      "size": 476,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/卢曼笔记法.md": {
-      "size": 49,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/卢曼序号.md": {
-      "size": 264,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/卡片写作.md": {
-      "size": 55,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/个人偏见.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/zk笔记法.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/TOC.md": {
-      "size": 248,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/PKM.md": {
-      "size": 86,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/PIM.md": {
-      "size": 69,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/PARA.md": {
-      "size": 206,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/obsidian.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/Markdown.md": {
-      "size": 361,
-      "tags": 0,
-      "links": 7
-    },
-    "02 名词解释/MOC.md": {
-      "size": 431,
-      "tags": 0,
-      "links": 8
-    },
-    "02 名词解释/LaTeX.md": {
-      "size": 84,
-      "tags": 0,
-      "links": 3
-    },
-    "02 名词解释/html.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Evergreen notes.md": {
-      "size": 281,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/electron.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/02.01 常见的名词缩写.md": {
-      "size": 76,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/02 名词解释.md": {
-      "size": 31,
-      "tags": 0,
-      "links": 3
-    },
     "09 碎记/202104222253目前的同步方案.md": {
       "size": 0,
       "tags": 0,
@@ -1639,30 +1499,10 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/How to takes smart notes.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Dynalist.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/obsidian移动端（MOC）.md": {
       "size": 0,
       "tags": 0,
       "links": 4
-    },
-    "02 名词解释/Total Commander.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Innos Note.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "01 2021新教程/思考（MOC）.md": {
       "size": 0,
@@ -1678,191 +1518,6 @@
       "size": 32,
       "tags": 0,
       "links": 0
-    },
-    "02 名词解释/一词多意.md": {
-      "size": 823,
-      "tags": 0,
-      "links": 10
-    },
-    "02 名词解释/传统笔记软件.md": {
-      "size": 65,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/大纲软件.md": {
-      "size": 57,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/简悦.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/卡片写作软件.md": {
-      "size": 30,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/链滴笔记.md": {
-      "size": 174,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/软件工具（MOC）.md": {
-      "size": 167,
-      "tags": 0,
-      "links": 7
-    },
-    "02 名词解释/双链软件.md": {
-      "size": 857,
-      "tags": 0,
-      "links": 22
-    },
-    "02 名词解释/双向连接类软件.md": {
-      "size": 134,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/思源笔记.md": {
-      "size": 87,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/图床工具.md": {
-      "size": 722,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/文献管理软件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/我来（Wolai）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/易码.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/印象笔记.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/anki.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Cerveau.md": {
-      "size": 196,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/drafts.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Foam.md": {
-      "size": 261,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/getliner.md": {
-      "size": 64,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/Gingko.md": {
-      "size": 171,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/github.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/infranodus.md": {
-      "size": 49,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/logseq.md": {
-      "size": 125,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Notion.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Nvivo.md": {
-      "size": 12,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/picgo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/quicker.md": {
-      "size": 133,
-      "tags": 0,
-      "links": 3
-    },
-    "02 名词解释/Remnote.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Roamedit.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/RoamResearch.md": {
-      "size": 21,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Tiddlywiki.md": {
-      "size": 78,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/vnote.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/vscode.md": {
-      "size": 18,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/zettlr.md": {
-      "size": 12,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/zk软件.md": {
-      "size": 248,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/zotero.md": {
-      "size": 142,
-      "tags": 0,
-      "links": 4
     },
     "01 2021新教程/obsidian的移动端.md": {
       "size": 203,
@@ -1894,16 +1549,6 @@
       "tags": 0,
       "links": 18
     },
-    "02 名词解释/幕布.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/葫芦笔记.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/移动端语言设置.md": {
       "size": 0,
       "tags": 0,
@@ -1918,11 +1563,6 @@
       "size": 1330,
       "tags": 0,
       "links": 3
-    },
-    "02 名词解释/视频UP主.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "01 2021新教程/关于笔记方法的视频资源.md": {
       "size": 139,
@@ -1963,11 +1603,6 @@
       "size": 286,
       "tags": 0,
       "links": 3
-    },
-    "02 名词解释/Media Extended.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "10 演示文件夹/功能演示（MOC）.md": {
       "size": 0,
@@ -2254,11 +1889,6 @@
       "tags": 0,
       "links": 5
     },
-    "02 名词解释/OneDrive.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "09 碎记/如何以微信购买obsidian的同步、发布服务和insider.md": {
       "size": 388,
       "tags": 0,
@@ -2266,36 +1896,6 @@
     },
     "01 2021新教程/obsidian官网、社区和邮箱.md": {
       "size": 125,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Syncthing（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/Syncthing中转服务器 by 淳帅二代.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/LYT笔记法.md": {
-      "size": 1050,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/Nick Milo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Syncthing（同步软件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/CSS.md": {
-      "size": 0,
       "tags": 0,
       "links": 0
     },
@@ -2318,16 +1918,6 @@
       "size": 0,
       "tags": 0,
       "links": 4
-    },
-    "02 名词解释/Dataview.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/锋华.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
     },
     "09 碎记/Ono-Sendai_obsdn（赛博朋克）.md": {
       "size": 297,
@@ -2369,11 +1959,6 @@
       "tags": 0,
       "links": 1
     },
-    "02 名词解释/Encrypt（加密插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/购买obsidian的服务.md": {
       "size": 2011,
       "tags": 0,
@@ -2384,50 +1969,10 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/obsidian超级模板插件Templater使用效果试玩 by Lillian Who.md": {
-      "size": 168,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Syncthing忽略模式 by 淳帅二代.md": {
-      "size": 2823,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/SyncTrayzor.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Citation插件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Admonition插件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 Admonition by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "09 碎记/mind map（思维导图插件）.md": {
       "size": 185,
       "tags": 0,
       "links": 3
-    },
-    "02 名词解释/Obsidian 插件推荐 by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "01 2021新教程/什么主题适配了移动端.md": {
       "size": 0,
@@ -2444,26 +1989,6 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/obsidian增强展示（dataview插件介绍） by 软达通.md": {
-      "size": 5375,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/Dataview Advanced queries by blacksmithgu.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 Dataview by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/210604_111749 dataview入门教程 by 无名.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "09 碎记/202107221945wiki链接和md链接互转 by 蚕子.md": {
       "size": 0,
       "tags": 0,
@@ -2473,11 +1998,6 @@
       "size": 0,
       "tags": 0,
       "links": 1
-    },
-    "02 名词解释/毛线剪藏.md": {
-      "size": 282,
-      "tags": 0,
-      "links": 2
     },
     "01 2021新教程/Obsidian自定义样式修改教程 by 韦钧培.md": {
       "size": 0,
@@ -2544,11 +2064,6 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/cMenu（悬浮工具栏插件）.md": {
-      "size": 112,
-      "tags": 0,
-      "links": 0
-    },
     "07 信息源与贡献者/Quick Cut.md": {
       "size": 0,
       "tags": 0,
@@ -2594,41 +2109,6 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/目的驱动的分类（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 10
-    },
-    "02 名词解释/oz's image in editor（所见即所得插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/悬浮工具栏 （cMenu插件介绍） by 软达通.md": {
-      "size": 913,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/ob中提升编辑体验的插件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 9
-    },
-    "02 名词解释/在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通.md": {
-      "size": 2301,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Markdown Formatting Assistant（md格式插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/CSS片段（MOC）.md": {
       "size": 0,
       "tags": 0,
@@ -2648,31 +2128,6 @@
       "size": 2897,
       "tags": 0,
       "links": 3
-    },
-    "02 名词解释/Obsidian插件列表与教程（MOC）.md": {
-      "size": 3817,
-      "tags": 0,
-      "links": 73
-    },
-    "02 名词解释/图片所见即所得（oz's image in editor插件介绍） by 软通达.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "02 名词解释/Image auto upload Plugin （图片自动上传到图床插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 Dice Roller by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 Excalidraw by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "07 信息源与贡献者/Obsidian 使用篇一：使用 markdown-clipper 全文保存网页 by einverne.md": {
       "size": 0,
@@ -2694,170 +2149,15 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/我的 Obsidian 笔记跨设备同步方案 by einverne.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "03 教程/如何同步obsidian文件（MOC）.md": {
       "size": 46,
       "tags": 0,
       "links": 15
     },
-    "02 名词解释/Quick Add.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 QuickAdd 使用教程 by Houmann.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/QuickAdd插件介绍1（Template Choice） by 软通达.md": {
-      "size": 5329,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/QuickAdd插件介绍2（Capture Choice） by 软通达.md": {
-      "size": 4538,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Obsidian 插件之 QuickAdd by Bon.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Find unlinked files（寻找孤立文件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/如何删除冗余的图片（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/Clear unused images（清除不使用的图片）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/清除不使用的图片（Clear unused images插件介绍） by 软达通.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 4
-    },
-    "02 名词解释/如何快速替换文字（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
-    "02 名词解释/使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/EM.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Emeditor (文本编辑器).md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Juggl（图谱插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Windows下文件夹映射的实现（将文件夹从一个盘映射到另一个盘） by hangge.md": {
-      "size": 112,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/如何双开ob.md": {
-      "size": 161,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/寻找孤立文件（Find unlinked files插件介绍）by 软通达.md": {
-      "size": 2563,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/git.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/如何备份ob文件（版本控制）（MOC）.md": {
-      "size": 2088,
-      "tags": 0,
-      "links": 14
-    },
-    "02 名词解释/Obsidian Git （版本控制插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达.md": {
-      "size": 4299,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/坚果云.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/seafile.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Goodsync.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Acronis True Image.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Iperius Backup.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/使用QucikAdd便捷创建日记 by Borber.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/双向连接(moc).md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "09 碎记/双向链接的意义 by雪映.md": {
       "size": 477,
       "tags": 0,
       "links": 0
-    },
-    "02 名词解释/我们需要什么样的双向链接 by 和燕燕.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/双向连接的论述（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
     },
     "07 信息源与贡献者/Struggle with me.md": {
       "size": 77,
@@ -2914,36 +2214,6 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/LYT笔记法汉化版 by lioyeah.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/LYT笔记法（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
-    "02 名词解释/LYT笔记法有汉化版了 by 软通达.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
-    "02 名词解释/Icon Swapper（手动添加图标插件）.md": {
-      "size": 62,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Icon-Swapper 手动添加图标支持 by Borber.md": {
-      "size": 125,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/魔改Icon-Swapper插件 by Borber.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "09 碎记/202108030109使用正则导入幕布文件.md": {
       "size": 0,
       "tags": 0,
@@ -2974,31 +2244,6 @@
       "tags": 0,
       "links": 2
     },
-    "02 名词解释/Dictionary（字典插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/Wordnet（插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/待研究插件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/LanguageTool.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/使用ob进行英语学习（MOC）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 4
-    },
     "06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md": {
       "size": 10139,
       "tags": 1,
@@ -3009,18 +2254,8 @@
       "tags": 0,
       "links": 4
     },
-    "02 名词解释/Activity loggger.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "01 2021新教程/下载ob中文教程.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/Longform（长文写作插件）.md": {
-      "size": 116,
       "tags": 0,
       "links": 1
     },
@@ -3033,21 +2268,6 @@
       "size": 0,
       "tags": 0,
       "links": 3
-    },
-    "02 名词解释/obsidian插件之dataview入门 by  Lillian.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/MarkDown超级教程 by 成雙醬.md": {
-      "size": 42687,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/成雙醬.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
     },
     "01 2021新教程/obsidian内置文件恢复（File Recovery功能介绍） by 软通达.md": {
       "size": 1564,
@@ -3189,37 +2409,12 @@
       "tags": 0,
       "links": 0
     },
-    "02 名词解释/Readwise（稍后阅读插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/魔改 budget-wysiwyg 插件 by  Borber.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/budget wysiwyg（插件）.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "02 名词解释/QuickAdd 提取表格列 by Borber.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "03 教程/通过webdav同步OBsidian资料库 by Azlith.md": {
       "size": 0,
       "tags": 0,
       "links": 1
     },
     "03 教程/南笙北执.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "02 名词解释/Admonition：生来多彩 By LillianWho.md": {
       "size": 0,
       "tags": 0,
       "links": 1
@@ -3239,17 +2434,842 @@
       "tags": 0,
       "links": 1
     },
-    "02 名词解释/使用ob进行论文阅读与科研（MOC）.md": {
+    "01 2021新教程/Activity loggger.md": {
+      "size": 81,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Admonition：生来多彩 By LillianWho.md": {
+      "size": 105,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Admonition插件.md": {
       "size": 0,
       "tags": 0,
-      "links": 3
+      "links": 0
+    },
+    "01 2021新教程/anki.md": {
+      "size": 86,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/budget wysiwyg（插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Cerveau.md": {
+      "size": 196,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Citation插件.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md": {
+      "size": 105,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Clear unused images（清除不使用的图片）.md": {
+      "size": 119,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/cMenu（悬浮工具栏插件）.md": {
+      "size": 112,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/CSS.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Dataview Advanced queries by blacksmithgu.md": {
+      "size": 186,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Dataview.md": {
+      "size": 230,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Dictionary（字典插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/drafts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Dynalist.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/electron.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/EM.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Emeditor (文本编辑器).md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Encrypt（加密插件）.md": {
+      "size": 186,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Evergreen notes.md": {
+      "size": 281,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Find unlinked files（寻找孤立文件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Foam.md": {
+      "size": 261,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/getliner.md": {
+      "size": 64,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Gingko.md": {
+      "size": 171,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/git.md": {
+      "size": 86,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/github.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Goodsync.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/How to takes smart notes.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/html.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Icon Swapper（手动添加图标插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Icon-Swapper 手动添加图标支持 by Borber.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Image auto upload Plugin （图片自动上传到图床插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/infranodus.md": {
+      "size": 49,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Innos Note.md": {
+      "size": 17,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Iperius Backup.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Juggl（图谱插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LanguageTool.md": {
+      "size": 140,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LaTeX.md": {
+      "size": 273,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/logseq.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Longform（长文写作插件）.md": {
+      "size": 116,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LYT笔记法（MOC）.md": {
+      "size": 182,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LYT笔记法.md": {
+      "size": 1210,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LYT笔记法汉化版 by lioyeah.md": {
+      "size": 128,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/LYT笔记法有汉化版了 by 软通达.md": {
+      "size": 1478,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Markdown Formatting Assistant（md格式插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Markdown.md": {
+      "size": 492,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/MarkDown超级教程 by 成雙醬.md": {
+      "size": 47773,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Media Extended.md": {
+      "size": 280,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/MOC.md": {
+      "size": 431,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Nick Milo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Notion.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Nvivo.md": {
+      "size": 12,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian Git （版本控制插件）.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件推荐 by Bon.md": {
+      "size": 73,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 Admonition by Bon.md": {
+      "size": 154,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 Dataview by Bon.md": {
+      "size": 101,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 Dice Roller by Bon.md": {
+      "size": 100,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 Excalidraw by Bon.md": {
+      "size": 100,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 QuickAdd by Bon.md": {
+      "size": 100,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian 插件之 QuickAdd 使用教程 by Houmann.md": {
+      "size": 105,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian.md": {
+      "size": 209,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian插件列表与教程（MOC）.md": {
+      "size": 3992,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian插件之dataview入门 by  Lillian.md": {
+      "size": 111,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian超级模板插件Templater使用效果试玩 by Lillian Who.md": {
+      "size": 168,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达.md": {
+      "size": 4299,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian增强展示（dataview插件介绍） by 软达通.md": {
+      "size": 5375,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/ob中提升编辑体验的插件.md": {
+      "size": 578,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/OneDrive.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/oz's image in editor（所见即所得插件）.md": {
+      "size": 158,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/PARA.md": {
+      "size": 206,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/picgo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/PIM.md": {
+      "size": 69,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/PKM.md": {
+      "size": 86,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Quick Add.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/QuickAdd 提取表格列 by Borber.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/QuickAdd插件介绍1（Template Choice） by 软通达.md": {
+      "size": 5329,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/QuickAdd插件介绍2（Capture Choice） by 软通达.md": {
+      "size": 4538,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/quicker.md": {
+      "size": 133,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Readwise（稍后阅读插件）.md": {
+      "size": 130,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Remnote.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Roamedit.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/RoamResearch.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/seafile.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing P2P文件同步工具 by 寒三石.md": {
+      "size": 99,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing（MOC）.md": {
+      "size": 370,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing（同步软件）.md": {
+      "size": 84,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing的安装与使用 From liangqihui.md": {
+      "size": 112,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing忽略模式 by 淳帅二代.md": {
+      "size": 2823,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Syncthing中转服务器 by 淳帅二代.md": {
+      "size": 557,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/SyncTrayzor.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Tiddlywiki.md": {
+      "size": 64,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/TOC.md": {
+      "size": 260,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Total Commander.md": {
+      "size": 188,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/vnote.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/vscode.md": {
+      "size": 18,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Windows下文件夹映射的实现（将文件夹从一个盘映射到另一个盘） by hangge.md": {
+      "size": 112,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Wordnet（插件）.md": {
+      "size": 81,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zettlr.md": {
+      "size": 12,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zk笔记法.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zk软件.md": {
+      "size": 248,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md": {
+      "size": 150,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zotero.md": {
+      "size": 142,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat.md": {
+      "size": 246,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/常青笔记.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/成雙醬.md": {
+      "size": 73,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/传统笔记软件.md": {
+      "size": 65,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/大纲软件.md": {
+      "size": 57,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/待研究插件.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/道器术.md": {
+      "size": 844,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/锋华.md": {
+      "size": 73,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/个人偏见.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/葫芦笔记.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/坚果云.md": {
+      "size": 80,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/简悦.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/卡片写作.md": {
+      "size": 55,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/卡片写作软件.md": {
+      "size": 30,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/块引用.md": {
+      "size": 90,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/链滴笔记.md": {
+      "size": 174,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/卢曼笔记法.md": {
+      "size": 49,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/卢曼序号.md": {
+      "size": 269,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/毛线剪藏.md": {
+      "size": 344,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/魔改 budget-wysiwyg 插件 by  Borber.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/魔改Icon-Swapper插件 by Borber.md": {
+      "size": 126,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/目的驱动的分类（MOC）.md": {
+      "size": 450,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/幕布.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/迁移性.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/清除不使用的图片（Clear unused images插件介绍） by 软达通.md": {
+      "size": 1679,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何备份ob文件（版本控制）（MOC）.md": {
+      "size": 2144,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何快速替换文字（MOC）.md": {
+      "size": 294,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何删除冗余的图片（MOC）.md": {
+      "size": 368,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何双开ob.md": {
+      "size": 161,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/软件工具（MOC）.md": {
+      "size": 313,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/时间戳.md": {
+      "size": 189,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀.md": {
+      "size": 105,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/使用ob进行论文阅读与科研（MOC）.md": {
+      "size": 205,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/使用ob进行英语学习（MOC）.md": {
+      "size": 229,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/使用QucikAdd便捷创建日记 by Borber.md": {
+      "size": 171,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/视频UP主.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双链.md": {
+      "size": 99,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双链软件.md": {
+      "size": 1283,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双向连接(moc).md": {
+      "size": 98,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双向连接的论述（MOC）.md": {
+      "size": 150,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双向连接类软件.md": {
+      "size": 134,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/双向链接.md": {
+      "size": 562,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/思源笔记.md": {
+      "size": 87,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/图床工具.md": {
+      "size": 722,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/图片所见即所得（oz's image in editor插件介绍） by 软通达.md": {
+      "size": 1311,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/文献管理软件.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/我的 Obsidian 笔记跨设备同步方案 by einverne.md": {
+      "size": 144,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/我来（Wolai）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/我们需要什么样的双向链接 by 和燕燕.md": {
+      "size": 90,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/悬浮工具栏 （cMenu插件介绍） by 软达通.md": {
+      "size": 913,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/寻找孤立文件（Find unlinked files插件介绍）by 软通达.md": {
+      "size": 2569,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/一词多意.md": {
+      "size": 823,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/易码.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/印象笔记.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通.md": {
+      "size": 2301,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/正则表达式.md": {
+      "size": 49,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/知识卡片.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/转义符.md": {
+      "size": 334,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/02 名词解释.md": {
+      "size": 102,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/02.01 常见的名词缩写.md": {
+      "size": 61,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/210604_111749 dataview入门教程 by 无名.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Acronis True Image.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Advanced uri.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 453,
-      "Create": 238,
-      "Link": 318,
+      "Refactor": 619,
+      "Create": 408,
+      "Link": 320,
       "Expand": 31
     }
   },
@@ -3275,7 +3295,7 @@
       "17": 90,
       "18": 33,
       "19": 127,
-      "20": 110,
+      "20": 448,
       "21": 91,
       "22": 150,
       "23": 82
@@ -3289,7 +3309,7 @@
       "Thu": 111,
       "Fri": 89,
       "Sat": 0,
-      "Sun": 250
+      "Sun": 588
     }
   },
   "recentCommits": {
@@ -3328,57 +3348,57 @@
         "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"05 常见问题/使用quicker更新和下载ob插件.md\"> 使用quicker更新和下载ob插件 </a>",
-        "<a class=\"internal-link\" href=\"05 常见问题/使用quicker更新和下载ob插件.md\"> 使用quicker更新和下载ob插件 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Admonition：生来多彩 By LillianWho.md\"> Admonition：生来多彩 By LillianWho </a>",
-        "<a class=\"internal-link\" href=\"03 教程/南笙北执.md\"> 南笙北执 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/通过webdav同步OBsidian资料库 by Azlith.md\"> 通过webdav同步OBsidian资料库 by Azlith </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/bu.md\"> bu </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/budget wysiwyg（插件）.md\"> budget wysiwyg（插件） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/魔改 budget-wysiwyg 插件 by  Borber.md\"> 魔改 budget-wysiwyg 插件 by  Borber </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Readwise（稍后阅读插件）.md\"> Readwise（稍后阅读插件） </a>",
-        "<a class=\"internal-link\" href=\"03 教程/如何将印象笔记（EverNote）导入obsidian.md\"> 如何将印象笔记（EverNote）导入obsidian </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/猫老大.md\"> 猫老大 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/重点文章.md\"> 重点文章 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob进行视频学习.md\"> 使用ob进行视频学习 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob发布服务的站点.md\"> 使用ob发布服务的站点 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/猫老大的小站台.md\"> 猫老大的小站台 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Working copy.md\"> Working copy </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Tabs插件.md\"> Tabs插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian配置 by 猫老大.md\"> Obsidian配置 by 猫老大 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian 发布服务.md\"> Obsidian 发布服务 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/MOC-好文推荐.md\"> MOC-好文推荐 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian超链接语法详述.md\"> obsidian超链接语法详述 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian笔记中的那些MD语法 by 蚕子.md\"> Obsidian笔记中的那些MD语法 by 蚕子 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian 新手系列之你不可不知的插件 by LillianWho.md\"> Obsidian 新手系列之你不可不知的插件 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian 入门：从第一个文档开始 by LillianWho.md\"> Obsidian 入门：从第一个文档开始 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian 的 YAML Front matter 介绍 by Bon.md\"> Obsidian 的 YAML Front matter 介绍 by Bon </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Keith Wang.md\"> Keith Wang </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/为什么无法加载插件（Failed to load plugin）.md\"> 为什么无法加载插件（Failed to load plugin） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/如何安装obsdiain插件.md\"> 如何安装obsdiain插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/YAML（MOC）.md\"> YAML（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Tables of contents插件.md\"> Tables of contents插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian主题设置.md\"> obsidian主题设置 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian图谱增强-多重筛选.md\"> obsidian图谱增强-多重筛选 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian是什么以及它能用来做什么 by LillianWho.md\"> Obsidian是什么以及它能用来做什么 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian软件本体操作教程.md\"> Obsidian软件本体操作教程 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian内置文件恢复（File Recovery功能介绍） by 软通达.md\"> obsidian内置文件恢复（File Recovery功能介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/成雙醬.md\"> 成雙醬 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/MarkDown超级教程 by 成雙醬.md\"> MarkDown超级教程 by 成雙醬 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/obsidian插件之dataview入门 by  Lillian.md\"> obsidian插件之dataview入门 by  Lillian </a>",
-        "<a class=\"internal-link\" href=\"03 教程/ob与表格的那些事.md\"> ob与表格的那些事 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Longform（长文写作插件）.md\"> Longform（长文写作插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/下载本教程.md\"> 下载本教程 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Activity loggger.md\"> Activity loggger </a>",
-        "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md\"> 格式化你的笔记 by ob官方 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/LanguageTool.md\"> LanguageTool </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/待研究插件.md\"> 待研究插件 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Wordnet（插件）.md\"> Wordnet（插件） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Dictionary（字典插件）.md\"> Dictionary（字典插件） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行英语学习.md\"> 使用ob进行英语学习 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/从其他软件导入obsidian（MOC）.md\"> 从其他软件导入obsidian（MOC） </a>",
-        "<a class=\"internal-link\" href=\"03 教程/table extended（表格增强）.md\"> table extended（表格增强） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/找不到具体的群友，欢迎认领.md\"> 找不到具体的群友，欢迎认领 </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/Advanced uri.md\"> Advanced uri </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Acronis True Image.md\"> Acronis True Image </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/210604_111749 dataview入门教程 by 无名.md\"> 210604_111749 dataview入门教程 by 无名 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/02.01 常见的名词缩写.md\"> 02.01 常见的名词缩写 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/02 名词解释.md\"> 02 名词解释 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/转义符.md\"> 转义符 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/知识卡片.md\"> 知识卡片 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/正则表达式.md\"> 正则表达式 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通.md\"> 在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/印象笔记.md\"> 印象笔记 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/易码.md\"> 易码 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/一词多意.md\"> 一词多意 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/寻找孤立文件（Find unlinked files插件介绍）by 软通达.md\"> 寻找孤立文件（Find unlinked files插件介绍）by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/悬浮工具栏 （cMenu插件介绍） by 软达通.md\"> 悬浮工具栏 （cMenu插件介绍） by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/我们需要什么样的双向链接 by 和燕燕.md\"> 我们需要什么样的双向链接 by 和燕燕 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/我来（Wolai）.md\"> 我来（Wolai） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/我的 Obsidian 笔记跨设备同步方案 by einverne.md\"> 我的 Obsidian 笔记跨设备同步方案 by einverne </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/文献管理软件.md\"> 文献管理软件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/图片所见即所得（oz's image in editor插件介绍） by 软通达.md\"> 图片所见即所得（oz's image in editor插件介绍） by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/图床工具.md\"> 图床工具 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/思源笔记.md\"> 思源笔记 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双向链接.md\"> 双向链接 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双向连接类软件.md\"> 双向连接类软件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双向连接的论述（MOC）.md\"> 双向连接的论述（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双向连接(moc).md\"> 双向连接(moc) </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双链软件.md\"> 双链软件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/双链.md\"> 双链 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/视频UP主.md\"> 视频UP主 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/使用QucikAdd便捷创建日记 by Borber.md\"> 使用QucikAdd便捷创建日记 by Borber </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob进行英语学习（MOC）.md\"> 使用ob进行英语学习（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob进行论文阅读与科研（MOC）.md\"> 使用ob进行论文阅读与科研（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀.md\"> 使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/时间戳.md\"> 时间戳 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/软件工具（MOC）.md\"> 软件工具（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何双开ob.md\"> 如何双开ob </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何删除冗余的图片（MOC）.md\"> 如何删除冗余的图片（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何快速替换文字（MOC）.md\"> 如何快速替换文字（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何备份ob文件（版本控制）（MOC）.md\"> 如何备份ob文件（版本控制）（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/清除不使用的图片（Clear unused images插件介绍） by 软达通.md\"> 清除不使用的图片（Clear unused images插件介绍） by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/迁移性.md\"> 迁移性 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/幕布.md\"> 幕布 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/魔改Icon-Swapper插件 by Borber.md\"> 魔改Icon-Swapper插件 by Borber </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/魔改 budget-wysiwyg 插件 by  Borber.md\"> 魔改 budget-wysiwyg 插件 by  Borber </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/毛线剪藏.md\"> 毛线剪藏 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/卢曼序号.md\"> 卢曼序号 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/卢曼笔记法.md\"> 卢曼笔记法 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/链滴笔记.md\"> 链滴笔记 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/块引用.md\"> 块引用 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/卡片写作软件.md\"> 卡片写作软件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/卡片写作.md\"> 卡片写作 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行论文阅读与科研（MOC）.md\"> 使用ob进行论文阅读与科研（MOC） </a>",
@@ -3441,59 +3461,61 @@
       ],
       "Refactored": [],
       "Deleted": [
-        "<a class=\"internal-link\" href=\"05 常见问题/使用quicker更新和下载ob插件.md\"> 使用quicker更新和下载ob插件 </a>",
-        "<a class=\"internal-link\" href=\"猫老大.md\"> 猫老大 </a>",
-        "<a class=\"internal-link\" href=\"重点文章.md\"> 重点文章 </a>",
-        "<a class=\"internal-link\" href=\"使用ob进行视频学习.md\"> 使用ob进行视频学习 </a>",
-        "<a class=\"internal-link\" href=\"使用ob发布服务的站点.md\"> 使用ob发布服务的站点 </a>",
-        "<a class=\"internal-link\" href=\"猫老大的小站台.md\"> 猫老大的小站台 </a>",
-        "<a class=\"internal-link\" href=\"Working copy.md\"> Working copy </a>",
-        "<a class=\"internal-link\" href=\"Tabs插件.md\"> Tabs插件 </a>",
-        "<a class=\"internal-link\" href=\"Obsidian配置 by 猫老大.md\"> Obsidian配置 by 猫老大 </a>",
-        "<a class=\"internal-link\" href=\"18 obsidian插件/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/00.11.04 关于群满员的尝试-知识星球.md\"> 00.11.04 关于群满员的尝试-知识星球 </a>",
-        "<a class=\"internal-link\" href=\"08 文章/08 文章.md\"> 08 文章 </a>",
-        "<a class=\"internal-link\" href=\"13 obsidian/13 obsidian.md\"> 13 obsidian </a>",
-        "<a class=\"internal-link\" href=\"04 资源/obsidian使用心得2.md\"> obsidian使用心得2 </a>",
-        "<a class=\"internal-link\" href=\"04 资源/04.03 网站资源.md\"> 04.03 网站资源 </a>",
-        "<a class=\"internal-link\" href=\"04 资源/04.04 论文资源.md\"> 04.04 论文资源 </a>",
-        "<a class=\"internal-link\" href=\"04 资源/04.02 文字资源.md\"> 04.02 文字资源 </a>",
-        "<a class=\"internal-link\" href=\"04 资源/04 资源.md\"> 04 资源 </a>",
-        "<a class=\"internal-link\" href=\"dataview插件演示/17 插件演示.md\"> 17 插件演示 </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/00.17笔记方法.md\"> 00.17笔记方法 </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/ob官方帮助文档（MOC）2.md\"> ob官方帮助文档（MOC）2 </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/00.12 关于obsidian的一些信息.md\"> 00.12 关于obsidian的一些信息 </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/最近更新（commits插件）.md\"> 最近更新（commits插件） </a>",
-        "<a class=\"internal-link\" href=\"00 新手入门/00.01 新手入门的高阶内容.md\"> 00.01 新手入门的高阶内容 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Cybertron.md\"> Cybertron </a>",
-        "<a class=\"internal-link\" href=\"03 教程/如何给obsidian更换主题（CSS文件的应用）.md\"> 如何给obsidian更换主题（CSS文件的应用） </a>",
-        "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/Obsidian 同步服务.md\"> Obsidian 同步服务 </a>",
-        "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/ob官方帮助文档.md\"> ob官方帮助文档 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/obsidian同步服务（体验篇）.md\"> obsidian同步服务（体验篇） </a>",
-        "<a class=\"internal-link\" href=\"03 教程/obsidian同步服务（设置篇）.md\"> obsidian同步服务（设置篇） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Encrypt.md\"> Encrypt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/购买obsidian的服务.md\"> 购买obsidian的服务 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/购买obsidian的服务.md\"> 购买obsidian的服务 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/购买obsidian的服务.md\"> 购买obsidian的服务 </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202107172318.md\"> 202107172318 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/obsidian插件列表与教程（MOC）.md\"> obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Obsidian Tabs.md\"> Obsidian Tabs </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Tabs.md\"> Tabs </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/如何进行同步（MOC）.md\"> 如何进行同步（MOC） </a>",
-        "<a class=\"internal-link\" href=\"unlinked files output.md\"> unlinked files output </a>",
-        "<a class=\"internal-link\" href=\"unresolved links output.md\"> unresolved links output </a>",
-        "<a class=\"internal-link\" href=\"unlinked files output.md\"> unlinked files output </a>",
-        "<a class=\"internal-link\" href=\"unresolved links output.md\"> unresolved links output </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/obsidian内置文件恢复（File Recovery功能介绍） by 软通达.md\"> obsidian内置文件恢复（File Recovery功能介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/Obsidian软件本体操作教程.md\"> Obsidian软件本体操作教程 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/Obsidian是什么以及它能用来做什么 by LillianWho.md\"> Obsidian是什么以及它能用来做什么 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/obsidian图谱增强-多重筛选.md\"> obsidian图谱增强-多重筛选 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/obsidian主题设置.md\"> obsidian主题设置 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/Tables of contents插件.md\"> Tables of contents插件 </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/YAML（MOC）.md\"> YAML（MOC） </a>",
-        "<a class=\"internal-link\" href=\"04 长文教程/如何安装obsdiain插件.md\"> 如何安装obsdiain插件 </a>"
+        "<a class=\"internal-link\" href=\"Advanced uri.md\"> Advanced uri </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/Acronis True Image.md\"> Acronis True Image </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/210604_111749 dataview入门教程 by 无名.md\"> 210604_111749 dataview入门教程 by 无名 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/02.01 常见的名词缩写.md\"> 02.01 常见的名词缩写 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/02 名词解释.md\"> 02 名词解释 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/转义符.md\"> 转义符 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/知识卡片.md\"> 知识卡片 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/正则表达式.md\"> 正则表达式 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通.md\"> 在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/印象笔记.md\"> 印象笔记 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/易码.md\"> 易码 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/一词多意.md\"> 一词多意 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/寻找孤立文件（Find unlinked files插件介绍）by 软通达.md\"> 寻找孤立文件（Find unlinked files插件介绍）by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/悬浮工具栏 （cMenu插件介绍） by 软达通.md\"> 悬浮工具栏 （cMenu插件介绍） by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/我们需要什么样的双向链接 by 和燕燕.md\"> 我们需要什么样的双向链接 by 和燕燕 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/我来（Wolai）.md\"> 我来（Wolai） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/我的 Obsidian 笔记跨设备同步方案 by einverne.md\"> 我的 Obsidian 笔记跨设备同步方案 by einverne </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/文献管理软件.md\"> 文献管理软件 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/图片所见即所得（oz's image in editor插件介绍） by 软通达.md\"> 图片所见即所得（oz's image in editor插件介绍） by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/图床工具.md\"> 图床工具 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/思源笔记.md\"> 思源笔记 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双向链接.md\"> 双向链接 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双向连接类软件.md\"> 双向连接类软件 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双向连接的论述（MOC）.md\"> 双向连接的论述（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双向连接(moc).md\"> 双向连接(moc) </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双链软件.md\"> 双链软件 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/双链.md\"> 双链 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/视频UP主.md\"> 视频UP主 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/使用QucikAdd便捷创建日记 by Borber.md\"> 使用QucikAdd便捷创建日记 by Borber </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行英语学习（MOC）.md\"> 使用ob进行英语学习（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行论文阅读与科研（MOC）.md\"> 使用ob进行论文阅读与科研（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀.md\"> 使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/时间戳.md\"> 时间戳 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/软件工具（MOC）.md\"> 软件工具（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/如何双开ob.md\"> 如何双开ob </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/如何删除冗余的图片（MOC）.md\"> 如何删除冗余的图片（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/如何快速替换文字（MOC）.md\"> 如何快速替换文字（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/如何备份ob文件（版本控制）（MOC）.md\"> 如何备份ob文件（版本控制）（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/清除不使用的图片（Clear unused images插件介绍） by 软达通.md\"> 清除不使用的图片（Clear unused images插件介绍） by 软达通 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/迁移性.md\"> 迁移性 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/幕布.md\"> 幕布 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/魔改Icon-Swapper插件 by Borber.md\"> 魔改Icon-Swapper插件 by Borber </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/魔改 budget-wysiwyg 插件 by  Borber.md\"> 魔改 budget-wysiwyg 插件 by  Borber </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/毛线剪藏.md\"> 毛线剪藏 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/卢曼序号.md\"> 卢曼序号 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/卢曼笔记法.md\"> 卢曼笔记法 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/链滴笔记.md\"> 链滴笔记 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/块引用.md\"> 块引用 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/卡片写作软件.md\"> 卡片写作软件 </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/卡片写作.md\"> 卡片写作 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"02 名词解释/Syncthing（MOC）.md\"> Syncthing（MOC） </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行论文阅读与科研（MOC）.md\"> 使用ob进行论文阅读与科研（MOC） </a>",
         "<a class=\"internal-link\" href=\"05 常见问题/为什么无法查看和下载社区插件和主题.md\"> 为什么无法查看和下载社区插件和主题 </a>",
         "<a class=\"internal-link\" href=\"05 常见问题/使用Quicker更新和下载ob插件 by Borber.md\"> 使用Quicker更新和下载ob插件 by Borber </a>",
@@ -3542,9 +3564,7 @@
         "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md\"> 格式化你的笔记 by ob官方 </a>",
         "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md\"> ob官方帮助文档（MOC） </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/LanguageTool.md\"> LanguageTool </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行英语学习（MOC）.md\"> 使用ob进行英语学习（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>"
+        "<a class=\"internal-link\" href=\"02 名词解释/LanguageTool.md\"> LanguageTool </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

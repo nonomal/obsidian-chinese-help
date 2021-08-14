@@ -1,52 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian插件列表与教程（MOC）",
-      "path": "02 名词解释/Obsidian插件列表与教程（MOC）.md"
-    },
-    {
-      "basename": "Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀",
-      "path": "02 名词解释/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md"
-    },
-    {
-      "basename": "Advanced uri",
-      "path": "Advanced uri.md"
-    },
-    {
-      "basename": "Syncthing的安装与使用 From liangqihui",
-      "path": "02 名词解释/Syncthing的安装与使用 From liangqihui.md"
-    },
-    {
-      "basename": "Syncthing（MOC）",
-      "path": "02 名词解释/Syncthing（MOC）.md"
-    },
-    {
-      "basename": "Syncthing P2P文件同步工具 by 寒三石",
-      "path": "02 名词解释/Syncthing P2P文件同步工具 by 寒三石.md"
-    },
-    {
-      "basename": "Syncthing（同步软件）",
-      "path": "02 名词解释/Syncthing（同步软件）.md"
-    },
-    {
       "basename": "如何同步obsidian文件（MOC）",
       "path": "03 教程/如何同步obsidian文件（MOC）.md"
-    },
-    {
-      "basename": "zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸",
-      "path": "02 名词解释/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md"
-    },
-    {
-      "basename": "使用ob进行论文阅读与科研（MOC）",
-      "path": "02 名词解释/使用ob进行论文阅读与科研（MOC）.md"
-    },
-    {
-      "basename": "目的驱动的分类（MOC）",
-      "path": "02 名词解释/目的驱动的分类（MOC）.md"
-    },
-    {
-      "basename": "使用ob进行英语学习（MOC）",
-      "path": "02 名词解释/使用ob进行英语学习（MOC）.md"
     },
     {
       "basename": "使用Quicker更新和下载ob插件 by Borber",
@@ -69,40 +25,12 @@
       "path": "07 信息源与贡献者/LillianWho.md"
     },
     {
-      "basename": "Admonition：生来多彩 By LillianWho",
-      "path": "02 名词解释/Admonition：生来多彩 By LillianWho.md"
-    },
-    {
-      "basename": "MarkDown超级教程 by 成雙醬",
-      "path": "02 名词解释/MarkDown超级教程 by 成雙醬.md"
-    },
-    {
       "basename": "南笙北执",
       "path": "03 教程/南笙北执.md"
     },
     {
       "basename": "通过webdav同步OBsidian资料库 by Azlith",
       "path": "03 教程/通过webdav同步OBsidian资料库 by Azlith.md"
-    },
-    {
-      "basename": "QuickAdd 提取表格列 by Borber",
-      "path": "02 名词解释/QuickAdd 提取表格列 by Borber.md"
-    },
-    {
-      "basename": "obsidian插件之dataview入门 by  Lillian",
-      "path": "02 名词解释/obsidian插件之dataview入门 by  Lillian.md"
-    },
-    {
-      "basename": "budget wysiwyg（插件）",
-      "path": "02 名词解释/budget wysiwyg（插件）.md"
-    },
-    {
-      "basename": "魔改 budget-wysiwyg 插件 by  Borber",
-      "path": "02 名词解释/魔改 budget-wysiwyg 插件 by  Borber.md"
-    },
-    {
-      "basename": "Readwise（稍后阅读插件）",
-      "path": "02 名词解释/Readwise（稍后阅读插件）.md"
     },
     {
       "basename": "如何将印象笔记（EverNote）导入obsidian",
@@ -141,28 +69,12 @@
       "path": "01 2021新教程/obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me.md"
     },
     {
-      "basename": "Markdown",
-      "path": "02 名词解释/Markdown.md"
-    },
-    {
-      "basename": "成雙醬",
-      "path": "02 名词解释/成雙醬.md"
-    },
-    {
-      "basename": "Dataview",
-      "path": "02 名词解释/Dataview.md"
-    },
-    {
       "basename": "ob与表格的那些事",
       "path": "03 教程/ob与表格的那些事.md"
     },
     {
       "basename": "如何将Excel表格转md（MOC）",
       "path": "03 教程/如何将Excel表格转md（MOC）.md"
-    },
-    {
-      "basename": "Longform（长文写作插件）",
-      "path": "02 名词解释/Longform（长文写作插件）.md"
     },
     {
       "basename": "下载ob中文教程",
@@ -175,14 +87,6 @@
     {
       "basename": "关于本文档的说明",
       "path": "01 2021新教程/关于本文档的说明.md"
-    },
-    {
-      "basename": "Activity loggger",
-      "path": "02 名词解释/Activity loggger.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "02 名词解释/LaTeX.md"
     },
     {
       "basename": "格式化你的笔记 by ob官方",
