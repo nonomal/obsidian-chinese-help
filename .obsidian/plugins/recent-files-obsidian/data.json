@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian插件列表与教程（MOC）",
+      "path": "02 名词解释/Obsidian插件列表与教程（MOC）.md"
+    },
+    {
+      "basename": "Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀",
+      "path": "02 名词解释/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md"
+    },
+    {
+      "basename": "Advanced uri",
+      "path": "Advanced uri.md"
+    },
+    {
+      "basename": "Syncthing的安装与使用 From liangqihui",
+      "path": "02 名词解释/Syncthing的安装与使用 From liangqihui.md"
+    },
+    {
+      "basename": "Syncthing（MOC）",
+      "path": "02 名词解释/Syncthing（MOC）.md"
+    },
+    {
+      "basename": "Syncthing P2P文件同步工具 by 寒三石",
+      "path": "02 名词解释/Syncthing P2P文件同步工具 by 寒三石.md"
+    },
+    {
+      "basename": "Syncthing（同步软件）",
+      "path": "02 名词解释/Syncthing（同步软件）.md"
+    },
+    {
+      "basename": "如何同步obsidian文件（MOC）",
+      "path": "03 教程/如何同步obsidian文件（MOC）.md"
+    },
+    {
+      "basename": "zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸",
+      "path": "02 名词解释/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md"
+    },
+    {
+      "basename": "使用ob进行论文阅读与科研（MOC）",
+      "path": "02 名词解释/使用ob进行论文阅读与科研（MOC）.md"
+    },
+    {
+      "basename": "目的驱动的分类（MOC）",
+      "path": "02 名词解释/目的驱动的分类（MOC）.md"
+    },
+    {
+      "basename": "使用ob进行英语学习（MOC）",
+      "path": "02 名词解释/使用ob进行英语学习（MOC）.md"
+    },
+    {
+      "basename": "使用Quicker更新和下载ob插件 by Borber",
+      "path": "05 常见问题/使用Quicker更新和下载ob插件 by Borber.md"
+    },
+    {
+      "basename": "为什么无法查看和下载社区插件和主题",
+      "path": "05 常见问题/为什么无法查看和下载社区插件和主题.md"
+    },
+    {
+      "basename": "解决obsidian插件与主题无法加载的问题 by 软通达",
+      "path": "01 2021新教程/解决obsidian插件与主题无法加载的问题 by 软通达.md"
+    },
+    {
+      "basename": "爱好者QQ群中活跃的贡献者（MOC）",
+      "path": "07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md"
+    },
+    {
+      "basename": "LillianWho",
+      "path": "07 信息源与贡献者/LillianWho.md"
+    },
+    {
+      "basename": "Admonition：生来多彩 By LillianWho",
+      "path": "02 名词解释/Admonition：生来多彩 By LillianWho.md"
+    },
+    {
+      "basename": "MarkDown超级教程 by 成雙醬",
+      "path": "02 名词解释/MarkDown超级教程 by 成雙醬.md"
+    },
+    {
+      "basename": "南笙北执",
+      "path": "03 教程/南笙北执.md"
+    },
+    {
+      "basename": "通过webdav同步OBsidian资料库 by Azlith",
+      "path": "03 教程/通过webdav同步OBsidian资料库 by Azlith.md"
+    },
+    {
+      "basename": "QuickAdd 提取表格列 by Borber",
+      "path": "02 名词解释/QuickAdd 提取表格列 by Borber.md"
+    },
+    {
+      "basename": "obsidian插件之dataview入门 by  Lillian",
+      "path": "02 名词解释/obsidian插件之dataview入门 by  Lillian.md"
+    },
+    {
+      "basename": "budget wysiwyg（插件）",
+      "path": "02 名词解释/budget wysiwyg（插件）.md"
+    },
+    {
+      "basename": "魔改 budget-wysiwyg 插件 by  Borber",
+      "path": "02 名词解释/魔改 budget-wysiwyg 插件 by  Borber.md"
+    },
+    {
+      "basename": "Readwise（稍后阅读插件）",
+      "path": "02 名词解释/Readwise（稍后阅读插件）.md"
+    },
+    {
+      "basename": "如何将印象笔记（EverNote）导入obsidian",
+      "path": "03 教程/如何将印象笔记（EverNote）导入obsidian.md"
+    },
+    {
+      "basename": "从其他软件导入obsidian（MOC）",
+      "path": "03 教程/从其他软件导入obsidian（MOC）.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "为什么obsidian安装失败",
+      "path": "05 常见问题/为什么obsidian安装失败.md"
+    },
+    {
+      "basename": "为什么typora上的md格式在obsidian上不能用",
+      "path": "05 常见问题/为什么typora上的md格式在obsidian上不能用.md"
+    },
+    {
+      "basename": "obsidian使用中常见问题（MOC）",
+      "path": "05 常见问题/obsidian使用中常见问题（MOC）.md"
+    },
+    {
+      "basename": "图床教程",
+      "path": "08 高阶教程/图床教程.md"
+    },
+    {
+      "basename": "高阶教程（MOC）",
+      "path": "08 高阶教程/高阶教程（MOC）.md"
+    },
+    {
+      "basename": "obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me",
+      "path": "01 2021新教程/obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "02 名词解释/Markdown.md"
+    },
+    {
+      "basename": "成雙醬",
+      "path": "02 名词解释/成雙醬.md"
+    },
+    {
+      "basename": "Dataview",
+      "path": "02 名词解释/Dataview.md"
+    },
+    {
+      "basename": "ob与表格的那些事",
+      "path": "03 教程/ob与表格的那些事.md"
+    },
+    {
+      "basename": "如何将Excel表格转md（MOC）",
+      "path": "03 教程/如何将Excel表格转md（MOC）.md"
+    },
+    {
+      "basename": "Longform（长文写作插件）",
+      "path": "02 名词解释/Longform（长文写作插件）.md"
+    },
+    {
       "basename": "下载ob中文教程",
       "path": "01 2021新教程/下载ob中文教程.md"
     },
@@ -15,10 +179,6 @@
     {
       "basename": "Activity loggger",
       "path": "02 名词解释/Activity loggger.md"
-    },
-    {
-      "basename": "Obsidian插件列表与教程（MOC）",
-      "path": "02 名词解释/Obsidian插件列表与教程（MOC）.md"
     },
     {
       "basename": "LaTeX",
@@ -39,166 +199,6 @@
     {
       "basename": "第三方插件",
       "path": "06 ob官方帮助文档（节选）/第三方插件.md"
-    },
-    {
-      "basename": "使用ob进行英语学习（MOC）",
-      "path": "02 名词解释/使用ob进行英语学习（MOC）.md"
-    },
-    {
-      "basename": "LanguageTool",
-      "path": "02 名词解释/LanguageTool.md"
-    },
-    {
-      "basename": "Wordnet（插件）",
-      "path": "02 名词解释/Wordnet（插件）.md"
-    },
-    {
-      "basename": "待研究插件",
-      "path": "02 名词解释/待研究插件.md"
-    },
-    {
-      "basename": "anki",
-      "path": "02 名词解释/anki.md"
-    },
-    {
-      "basename": "Dictionary（字典插件）",
-      "path": "02 名词解释/Dictionary（字典插件）.md"
-    },
-    {
-      "basename": "目的驱动的分类（MOC）",
-      "path": "02 名词解释/目的驱动的分类（MOC）.md"
-    },
-    {
-      "basename": "从其他软件导入obsidian（MOC）",
-      "path": "03 教程/从其他软件导入obsidian（MOC）.md"
-    },
-    {
-      "basename": "如何将RoamResearch导入obsidian",
-      "path": "03 教程/如何将RoamResearch导入obsidian.md"
-    },
-    {
-      "basename": "table extended（表格增强）",
-      "path": "03 教程/table extended（表格增强）.md"
-    },
-    {
-      "basename": "如何插入表格",
-      "path": "03 教程/如何插入表格.md"
-    },
-    {
-      "basename": "初阶教程（MOC）",
-      "path": "03 教程/初阶教程（MOC）.md"
-    },
-    {
-      "basename": "如何将表格转md",
-      "path": "03 教程/如何将表格转md.md"
-    },
-    {
-      "basename": "202108030110图谱没有线条",
-      "path": "09 碎记/202108030110图谱没有线条.md"
-    },
-    {
-      "basename": "找不到具体的群友，欢迎认领",
-      "path": "09 碎记/找不到具体的群友，欢迎认领.md"
-    },
-    {
-      "basename": "202108030109使用正则导入幕布文件",
-      "path": "09 碎记/202108030109使用正则导入幕布文件.md"
-    },
-    {
-      "basename": "魔改Icon-Swapper插件 by Borber",
-      "path": "02 名词解释/魔改Icon-Swapper插件 by Borber.md"
-    },
-    {
-      "basename": "Icon-Swapper 手动添加图标支持 by Borber",
-      "path": "02 名词解释/Icon-Swapper 手动添加图标支持 by Borber.md"
-    },
-    {
-      "basename": "Icon Swapper（手动添加图标插件）",
-      "path": "02 名词解释/Icon Swapper（手动添加图标插件）.md"
-    },
-    {
-      "basename": "LYT笔记法（MOC）",
-      "path": "02 名词解释/LYT笔记法（MOC）.md"
-    },
-    {
-      "basename": "LYT笔记法有汉化版了 by 软通达",
-      "path": "02 名词解释/LYT笔记法有汉化版了 by 软通达.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "02 名词解释/MOC.md"
-    },
-    {
-      "basename": "LYT笔记法",
-      "path": "02 名词解释/LYT笔记法.md"
-    },
-    {
-      "basename": "LYT笔记法汉化版 by lioyeah",
-      "path": "02 名词解释/LYT笔记法汉化版 by lioyeah.md"
-    },
-    {
-      "basename": "Total Commander",
-      "path": "02 名词解释/Total Commander.md"
-    },
-    {
-      "basename": "CSS片段（MOC）",
-      "path": "01 2021新教程/CSS片段（MOC）.md"
-    },
-    {
-      "basename": "Orange（主题） by iEchoxu",
-      "path": "01 2021新教程/Orange（主题） by iEchoxu.md"
-    },
-    {
-      "basename": "CSS主题（MOC）",
-      "path": "01 2021新教程/CSS主题（MOC）.md"
-    },
-    {
-      "basename": "Obsidian-Zoom 标题美化 by Borber",
-      "path": "01 2021新教程/Obsidian-Zoom 标题美化 by Borber.md"
-    },
-    {
-      "basename": "YAML（MOC）",
-      "path": "04 长文教程/YAML（MOC）.md"
-    },
-    {
-      "basename": "YAML在markdown里面可以用来做什么",
-      "path": "09 碎记/YAML在markdown里面可以用来做什么.md"
-    },
-    {
-      "basename": "Keith Wang",
-      "path": "04 长文教程/Keith Wang.md"
-    },
-    {
-      "basename": "Obsidian 的 YAML Front matter 介绍 by Bon",
-      "path": "04 长文教程/Obsidian 的 YAML Front matter 介绍 by Bon.md"
-    },
-    {
-      "basename": "如何同步obsidian文件（MOC）",
-      "path": "03 教程/如何同步obsidian文件（MOC）.md"
-    },
-    {
-      "basename": "Working copy",
-      "path": "Working copy.md"
-    },
-    {
-      "basename": "猫老大的小站台",
-      "path": "猫老大的小站台.md"
-    },
-    {
-      "basename": "Obsidian配置 by 猫老大",
-      "path": "Obsidian配置 by 猫老大.md"
-    },
-    {
-      "basename": "爱好者QQ群中活跃的贡献者（MOC）",
-      "path": "07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md"
-    },
-    {
-      "basename": "Lark云文档 by Borber",
-      "path": "07 信息源与贡献者/Lark云文档 by Borber.md"
-    },
-    {
-      "basename": "Borber",
-      "path": "07 信息源与贡献者/Borber.md"
     }
   ],
   "omittedPaths": [],
