@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "bf741179a93ed395",
+        "id": "45354c1983da1259",
         "type": "leaf",
+        "dimension": 50,
+        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "07 信息源与贡献者/obsidian的信息源（MOC）.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "5f8049ca10128510",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 2021新教程/2021年新教程.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +84,7 @@
       {
         "id": "1a84b4b41067b2d5",
         "type": "tabs",
+        "dimension": 53.98601398601398,
         "children": [
           {
             "id": "91ff0b5b689cafdb",
@@ -80,6 +99,7 @@
       {
         "id": "bd88125c318cdce6",
         "type": "tabs",
+        "dimension": 46.01398601398601,
         "children": [
           {
             "id": "b5332bc8829889cc",
@@ -87,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 2021新教程/2021年新教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 2021新教程/2021年新教程.md"
+              }
             }
           },
           {
@@ -120,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 291
   },
-  "active": "bf741179a93ed395",
+  "active": "5f8049ca10128510",
   "lastOpenFiles": [
-    "02 名词解释/Obsidian插件列表与教程（MOC）.md",
-    "02 名词解释/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md",
-    "Advanced uri.md",
-    "02 名词解释/Syncthing的安装与使用 From liangqihui.md",
-    "02 名词解释/Syncthing（MOC）.md",
-    "02 名词解释/Syncthing P2P文件同步工具 by 寒三石.md",
-    "02 名词解释/Syncthing（同步软件）.md",
-    "03 教程/如何同步obsidian文件（MOC）.md",
-    "02 名词解释/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md",
-    "02 名词解释/使用ob进行论文阅读.md"
+    "01 2021新教程/2021年新教程.md",
+    "07 信息源与贡献者/obsidian的信息源.md",
+    "07 信息源与贡献者/LillianWho.md",
+    "07 信息源与贡献者/简睿（簡睿）.md",
+    "07 信息源与贡献者/八角经刀.md",
+    "01 2021新教程/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md",
+    "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+    "01 2021新教程/Text Expander插件.md",
+    "01 2021新教程/Text expand插件.md",
+    "01 2021新教程/Title index插件.md"
   ]
 }

@@ -1,108 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "如何同步obsidian文件（MOC）",
-      "path": "03 教程/如何同步obsidian文件（MOC）.md"
+      "basename": "2021年新教程",
+      "path": "01 2021新教程/2021年新教程.md"
     },
     {
-      "basename": "使用Quicker更新和下载ob插件 by Borber",
-      "path": "05 常见问题/使用Quicker更新和下载ob插件 by Borber.md"
+      "basename": "obsidian的信息源（MOC）",
+      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
     },
     {
-      "basename": "为什么无法查看和下载社区插件和主题",
-      "path": "05 常见问题/为什么无法查看和下载社区插件和主题.md"
+      "basename": "LillianWho（莉莉安）",
+      "path": "07 信息源与贡献者/LillianWho（莉莉安）.md"
     },
     {
-      "basename": "解决obsidian插件与主题无法加载的问题 by 软通达",
-      "path": "01 2021新教程/解决obsidian插件与主题无法加载的问题 by 软通达.md"
+      "basename": "简睿（簡睿）",
+      "path": "07 信息源与贡献者/简睿（簡睿）.md"
+    },
+    {
+      "basename": "八角经刀",
+      "path": "07 信息源与贡献者/八角经刀.md"
+    },
+    {
+      "basename": "Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀",
+      "path": "01 2021新教程/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md"
+    },
+    {
+      "basename": "Obsidian插件列表与教程（MOC）",
+      "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+    },
+    {
+      "basename": "Text expand插件",
+      "path": "01 2021新教程/Text expand插件.md"
+    },
+    {
+      "basename": "Title index插件",
+      "path": "01 2021新教程/Title index插件.md"
+    },
+    {
+      "basename": "仁暮",
+      "path": "01 2021新教程/仁暮.md"
+    },
+    {
+      "basename": "软通达",
+      "path": "01 2021新教程/软通达.md"
+    },
+    {
+      "basename": "即凉",
+      "path": "07 信息源与贡献者/即凉.md"
+    },
+    {
+      "basename": "我是如何使用Obsidian写作的 by 即凉",
+      "path": "01 2021新教程/我是如何使用Obsidian写作的 by 即凉.md"
+    },
+    {
+      "basename": "闲者时间_王掌柜",
+      "path": "07 信息源与贡献者/闲者时间_王掌柜.md"
+    },
+    {
+      "basename": "一只小胖子",
+      "path": "07 信息源与贡献者/一只小胖子.md"
+    },
+    {
+      "basename": "总结-阅读及笔记工作流程 by 一只小胖子",
+      "path": "01 2021新教程/总结-阅读及笔记工作流程 by 一只小胖子.md"
     },
     {
       "basename": "爱好者QQ群中活跃的贡献者（MOC）",
       "path": "07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md"
     },
     {
-      "basename": "LillianWho",
-      "path": "07 信息源与贡献者/LillianWho.md"
+      "basename": "安装obsidian插件和主题（从Gitee下载） by 软通达",
+      "path": "05 常见问题/安装obsidian插件和主题（从Gitee下载） by 软通达.md"
     },
     {
-      "basename": "南笙北执",
-      "path": "03 教程/南笙北执.md"
+      "basename": "obsidian-plugin in gitee by 宏沉一笑",
+      "path": "05 常见问题/obsidian-plugin in gitee by 宏沉一笑.md"
     },
     {
-      "basename": "通过webdav同步OBsidian资料库 by Azlith",
-      "path": "03 教程/通过webdav同步OBsidian资料库 by Azlith.md"
+      "basename": "为什么无法查看和下载社区插件和主题",
+      "path": "05 常见问题/为什么无法查看和下载社区插件和主题.md"
     },
     {
-      "basename": "如何将印象笔记（EverNote）导入obsidian",
-      "path": "03 教程/如何将印象笔记（EverNote）导入obsidian.md"
+      "basename": "Obsidian 插件介绍篇(二) by 一只小胖子",
+      "path": "01 2021新教程/Obsidian 插件介绍篇(二) by 一只小胖子.md"
     },
     {
-      "basename": "从其他软件导入obsidian（MOC）",
-      "path": "03 教程/从其他软件导入obsidian（MOC）.md"
+      "basename": "Obsidian 插件介绍篇(一) by 一只小胖子",
+      "path": "01 2021新教程/Obsidian 插件介绍篇(一) by 一只小胖子.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Dataview插件",
+      "path": "01 2021新教程/Dataview插件.md"
     },
     {
-      "basename": "为什么obsidian安装失败",
-      "path": "05 常见问题/为什么obsidian安装失败.md"
+      "basename": "vantage（可视化多条件搜索插件）",
+      "path": "01 2021新教程/vantage（可视化多条件搜索插件）.md"
     },
     {
-      "basename": "为什么typora上的md格式在obsidian上不能用",
-      "path": "05 常见问题/为什么typora上的md格式在obsidian上不能用.md"
+      "basename": "以ob为主的工作流（workflow）",
+      "path": "01 2021新教程/以ob为主的工作流（workflow）.md"
     },
     {
-      "basename": "obsidian使用中常见问题（MOC）",
-      "path": "05 常见问题/obsidian使用中常见问题（MOC）.md"
+      "basename": "如何使用ob进行间隔复习",
+      "path": "01 2021新教程/如何使用ob进行间隔复习.md"
     },
     {
-      "basename": "图床教程",
-      "path": "08 高阶教程/图床教程.md"
+      "basename": "实践闭环-Obsidian为中心的-信息-内化-复习  by 一只小胖子",
+      "path": "01 2021新教程/实践闭环-Obsidian为中心的-信息-内化-复习  by 一只小胖子.md"
     },
     {
-      "basename": "高阶教程（MOC）",
-      "path": "08 高阶教程/高阶教程（MOC）.md"
+      "basename": "如何与anki连用",
+      "path": "08 高阶教程/如何与anki连用.md"
     },
     {
-      "basename": "obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me",
-      "path": "01 2021新教程/obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me.md"
+      "basename": "目的驱动的分类（MOC）",
+      "path": "01 2021新教程/目的驱动的分类（MOC）.md"
     },
     {
-      "basename": "ob与表格的那些事",
-      "path": "03 教程/ob与表格的那些事.md"
+      "basename": "Obsidian与SuperMemo联用 by 一只小胖子",
+      "path": "08 高阶教程/Obsidian与SuperMemo联用 by 一只小胖子.md"
     },
     {
-      "basename": "如何将Excel表格转md（MOC）",
-      "path": "03 教程/如何将Excel表格转md（MOC）.md"
+      "basename": "和obsidian连用的软件（MOC）",
+      "path": "08 高阶教程/和obsidian连用的软件（MOC）.md"
     },
     {
-      "basename": "下载ob中文教程",
-      "path": "01 2021新教程/下载ob中文教程.md"
+      "basename": "SuperMemo",
+      "path": "01 2021新教程/SuperMemo.md"
     },
     {
-      "basename": "2021年新教程",
-      "path": "01 2021新教程/2021年新教程.md"
+      "basename": "anki",
+      "path": "01 2021新教程/anki.md"
     },
     {
-      "basename": "关于本文档的说明",
-      "path": "01 2021新教程/关于本文档的说明.md"
+      "basename": "如何使用ob的图谱功能",
+      "path": "01 2021新教程/如何使用ob的图谱功能.md"
     },
     {
-      "basename": "格式化你的笔记 by ob官方",
-      "path": "06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md"
+      "basename": "Obsidian 内容聚合及图谱功能 by 一只小胖子",
+      "path": "01 2021新教程/Obsidian 内容聚合及图谱功能 by 一只小胖子.md"
     },
     {
-      "basename": "ob官方帮助文档（MOC）",
-      "path": "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md"
+      "basename": "TOC",
+      "path": "01 2021新教程/TOC.md"
     },
     {
-      "basename": "Obsidian 同步服务 by ob官方",
-      "path": "06 ob官方帮助文档（节选）/Obsidian 同步服务 by ob官方.md"
+      "basename": "Obsidian 笔记整理及TOC索引 by 一只小胖子",
+      "path": "01 2021新教程/Obsidian 笔记整理及TOC索引 by 一只小胖子.md"
     },
     {
-      "basename": "第三方插件",
-      "path": "06 ob官方帮助文档（节选）/第三方插件.md"
+      "basename": "我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian",
+      "path": "01 2021新教程/我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian.md"
+    },
+    {
+      "basename": "这十多个插件，大幅度改善你的 Obsidian 编辑体验 by 柯帕",
+      "path": "01 2021新教程/这十多个插件，大幅度改善你的 Obsidian 编辑体验 by 柯帕.md"
+    },
+    {
+      "basename": "zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸",
+      "path": "01 2021新教程/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md"
+    },
+    {
+      "basename": "使用ob进行论文阅读与科研（MOC）",
+      "path": "01 2021新教程/使用ob进行论文阅读与科研（MOC）.md"
+    },
+    {
+      "basename": "使用ob发布服务的站点",
+      "path": "01 2021新教程/使用ob发布服务的站点.md"
+    },
+    {
+      "basename": "Commits插件",
+      "path": "01 2021新教程/Commits插件.md"
+    },
+    {
+      "basename": "obsidian插件之dataview入门 by  Lillian",
+      "path": "01 2021新教程/obsidian插件之dataview入门 by  Lillian.md"
+    },
+    {
+      "basename": "QuickAdd-MONO日签 by Borber",
+      "path": "01 2021新教程/QuickAdd-MONO日签 by Borber.md"
+    },
+    {
+      "basename": "Quick Add",
+      "path": "01 2021新教程/Quick Add.md"
+    },
+    {
+      "basename": "MarkDown超级教程 by 成雙醬",
+      "path": "01 2021新教程/MarkDown超级教程 by 成雙醬.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "01 2021新教程/Markdown.md"
+    },
+    {
+      "basename": "成雙醬",
+      "path": "01 2021新教程/成雙醬.md"
+    },
+    {
+      "basename": "Dataview翻译 by 寡人",
+      "path": "01 2021新教程/Dataview翻译 by 寡人.md"
     }
   ],
   "omittedPaths": [],
