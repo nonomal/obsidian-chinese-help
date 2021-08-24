@@ -1,0 +1,9 @@
+{
+  "defaultPriorityMin": 10,
+  "defaultPriorityMax": 50,
+  "queueFolderPath": "99 存档",
+  "queueFileName": "我的写作计划.md",
+  "defaultQueueType": "afactor",
+  "skipAddNoteWindow": false,
+  "autoAddNewNotes": false
+}

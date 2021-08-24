@@ -1,47 +1,37 @@
 {
   "main": {
-    "id": "d1deb2c6512a7001",
+    "id": "6101aedacb9b27b9",
     "type": "split",
     "children": [
       {
-        "id": "45354c1983da1259",
+        "id": "86e0b63cecea5926",
         "type": "leaf",
-        "dimension": 50,
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "07 信息源与贡献者/obsidian的信息源（MOC）.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "5f8049ca10128510",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01 2021新教程/2021年新教程.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f6fdbed03751815c",
+    "id": "dbc55d976855eab5",
     "type": "split",
     "children": [
       {
-        "id": "2cfbca5e02745a8d",
+        "id": "e65c1f80858b074d",
         "type": "tabs",
         "children": [
           {
-            "id": "47bebbd53a5aa096",
+            "id": "4337befee945cf80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3597f79c5b27c9af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +39,12 @@
             }
           },
           {
-            "id": "bc92cc395bea58df",
+            "id": "db7e8c6ccaa604de",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "ozntel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +54,7 @@
             }
           },
           {
-            "id": "f087466c6e4db294",
+            "id": "26d092c2d390f458",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,39 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 300
   },
   "right": {
-    "id": "698094dcc944becf",
+    "id": "d1099c8434716628",
     "type": "split",
     "children": [
       {
-        "id": "1a84b4b41067b2d5",
+        "id": "90e8023c13058471",
         "type": "tabs",
-        "dimension": 53.98601398601398,
         "children": [
           {
-            "id": "91ff0b5b689cafdb",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "bd88125c318cdce6",
-        "type": "tabs",
-        "dimension": 46.01398601398601,
-        "children": [
-          {
-            "id": "b5332bc8829889cc",
+            "id": "88ed39b655f9d3d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/2021年新教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +92,7 @@
             }
           },
           {
-            "id": "a1eb2025c1ab29ad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01 2021新教程/2021年新教程.md"
-              }
-            }
-          },
-          {
-            "id": "36520312dc394c05",
+            "id": "1f3df5a973f22523",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,24 +101,22 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "db51fe1a0df17835",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5f8049ca10128510",
-  "lastOpenFiles": [
-    "01 2021新教程/2021年新教程.md",
-    "07 信息源与贡献者/obsidian的信息源.md",
-    "07 信息源与贡献者/LillianWho.md",
-    "07 信息源与贡献者/简睿（簡睿）.md",
-    "07 信息源与贡献者/八角经刀.md",
-    "01 2021新教程/Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀.md",
-    "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/Text Expander插件.md",
-    "01 2021新教程/Text expand插件.md",
-    "01 2021新教程/Title index插件.md"
-  ]
+  "active": "86e0b63cecea5926",
+  "lastOpenFiles": []
 }
