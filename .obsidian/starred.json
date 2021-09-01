@@ -7,6 +7,11 @@
     },
     {
       "type": "file",
+      "title": "2021年新教程",
+      "path": "01 2021新教程/2021年新教程.md"
+    },
+    {
+      "type": "file",
       "title": "CSS主题（MOC）",
       "path": "01 2021新教程/CSS主题（MOC）.md"
     },
@@ -19,6 +24,21 @@
       "type": "file",
       "title": "Obsidian插件列表与教程（MOC）",
       "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+    },
+    {
+      "type": "file",
+      "title": "目的驱动的分类（MOC）",
+      "path": "01 2021新教程/目的驱动的分类（MOC）.md"
+    },
+    {
+      "type": "file",
+      "title": "以ob为主的工作流（MOC）",
+      "path": "01 2021新教程/以ob为主的工作流（MOC）.md"
+    },
+    {
+      "type": "file",
+      "title": "ob插件全列表",
+      "path": "05 常见问题/ob插件全列表.md"
     }
   ]
 }

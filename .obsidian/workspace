@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "86e0b63cecea5926",
+        "id": "97fd88da6c36e178",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -22,14 +25,6 @@
         "id": "e65c1f80858b074d",
         "type": "tabs",
         "children": [
-          {
-            "id": "4337befee945cf80",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "3597f79c5b27c9af",
             "type": "leaf",
@@ -61,16 +56,44 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 195,
+    "collapsed": true
   },
   "right": {
     "id": "d1099c8434716628",
     "type": "split",
     "children": [
+      {
+        "id": "7eba79828c876cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4337befee945cf80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "412338f7fb295d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "90e8023c13058471",
         "type": "tabs",
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,16 +131,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 2021新教程/Quick explorer（面包屑插件）.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 280
   },
-  "active": "86e0b63cecea5926",
-  "lastOpenFiles": []
+  "active": "97fd88da6c36e178",
+  "lastOpenFiles": [
+    "01 2021新教程/Quick explorer（面包屑插件）.md",
+    "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+    "01 2021新教程/Dynamic Toc（TOC插件）.md",
+    "01 2021新教程/iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球.md",
+    "01 2021新教程/一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀.md",
+    "01 2021新教程/以ob为主的工作流（MOC）.md",
+    "01 2021新教程/玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜.md",
+    "07 信息源与贡献者/如何进行网页剪藏（MOC）.md",
+    "07 信息源与贡献者/Roam highlighter（Chrome扩展）.md",
+    "01 2021新教程/毛线剪藏.md"
+  ]
 }

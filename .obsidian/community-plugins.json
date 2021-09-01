@@ -6,5 +6,7 @@
   "oz-image-plugin",
   "find-unlinked-files",
   "table-extended",
-  "obsidian-incremental-writing"
+  "obsidian-incremental-writing",
+  "obsidian-annotator",
+  "obsidian-activity-logger"
 ]
