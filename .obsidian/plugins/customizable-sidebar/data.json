@@ -1,0 +1,11 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-incremental-writing:next-iw-repetition",
+      "name": "Incremental Writing: Next repetition.",
+      "hotkeys": [],
+      "icon": "any-key"
+    }
+  ],
+  "hiddenCommands": []
+}

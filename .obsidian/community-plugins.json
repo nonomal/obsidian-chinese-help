@@ -8,5 +8,9 @@
   "table-extended",
   "obsidian-incremental-writing",
   "obsidian-annotator",
-  "obsidian-activity-logger"
+  "obsidian-activity-logger",
+  "customizable-sidebar",
+  "cm-chs-patch",
+  "obsidian-plugin-toc",
+  "obsidian-checklist-plugin"
 ]

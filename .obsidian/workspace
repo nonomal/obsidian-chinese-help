@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "97fd88da6c36e178",
+        "id": "9a7d92e72bb456b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
+            "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
             "mode": "source"
           }
         }
@@ -86,10 +86,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "62e8c70dff594082",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -104,14 +112,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/Quick explorer（面包屑插件）.md",
-                "collapseAll": false,
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,28 +140,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/Quick explorer（面包屑插件）.md"
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 283
   },
-  "active": "97fd88da6c36e178",
+  "active": "9a7d92e72bb456b2",
   "lastOpenFiles": [
-    "01 2021新教程/Quick explorer（面包屑插件）.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/Dynamic Toc（TOC插件）.md",
-    "01 2021新教程/iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球.md",
-    "01 2021新教程/一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀.md",
+    "01 2021新教程/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md",
+    "01 2021新教程/Citation插件.md",
+    "01 2021新教程/增量写作插件Incremental Writing的使用步骤 by LillianWho.md",
+    "01 2021新教程/Pasted image 20210821163017.png.md",
     "01 2021新教程/以ob为主的工作流（MOC）.md",
-    "01 2021新教程/玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜.md",
-    "07 信息源与贡献者/如何进行网页剪藏（MOC）.md",
-    "07 信息源与贡献者/Roam highlighter（Chrome扩展）.md",
-    "01 2021新教程/毛线剪藏.md"
+    "01 2021新教程/My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian.md",
+    "01 2021新教程/用 Notion 实践卡片盒笔记法 by stevesun.md",
+    "01 2021新教程/ZK笔记法（MOC）.md",
+    "01 2021新教程/知识卡片.md"
   ]
 }
