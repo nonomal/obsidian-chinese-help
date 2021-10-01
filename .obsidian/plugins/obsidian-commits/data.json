@@ -1447,12 +1447,12 @@
     "01 2021新教程/2021年新教程.md": {
       "size": 2142,
       "tags": 0,
-      "links": 19
+      "links": 20
     },
     "01 2021新教程/笔记方法论（MOC）.md": {
       "size": 705,
       "tags": 0,
-      "links": 7
+      "links": 8
     },
     "01 2021新教程/我个人的文章（MOC）.md": {
       "size": 1875,
@@ -1962,7 +1962,7 @@
     "07 信息源与贡献者/如何进行网页剪藏（MOC）.md": {
       "size": 0,
       "tags": 0,
-      "links": 17
+      "links": 19
     },
     "07 信息源与贡献者/Obsidian 图片本地化 by Borber.md": {
       "size": 0,
@@ -2062,7 +2062,7 @@
     "03 教程/如何同步obsidian文件（MOC）.md": {
       "size": 46,
       "tags": 0,
-      "links": 18
+      "links": 20
     },
     "09 碎记/双向链接的意义 by雪映.md": {
       "size": 477,
@@ -2107,7 +2107,7 @@
     "07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md": {
       "size": 465,
       "tags": 0,
-      "links": 24
+      "links": 26
     },
     "09 碎记/YAML在markdown里面可以用来做什么.md": {
       "size": 158,
@@ -2625,9 +2625,9 @@
       "links": 1
     },
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md": {
-      "size": 8301,
+      "size": 11144,
       "tags": 0,
-      "links": 162
+      "links": 190
     },
     "01 2021新教程/obsidian插件之dataview入门 by  Lillian.md": {
       "size": 111,
@@ -2647,7 +2647,7 @@
     "01 2021新教程/ob中提升编辑体验的插件.md": {
       "size": 578,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "01 2021新教程/OneDrive.md": {
       "size": 74,
@@ -2732,7 +2732,7 @@
     "01 2021新教程/Syncthing（MOC）.md": {
       "size": 370,
       "tags": 0,
-      "links": 6
+      "links": 7
     },
     "01 2021新教程/Syncthing（同步软件）.md": {
       "size": 84,
@@ -2922,7 +2922,7 @@
     "01 2021新教程/目的驱动的分类（MOC）.md": {
       "size": 450,
       "tags": 0,
-      "links": 22
+      "links": 24
     },
     "01 2021新教程/幕布.md": {
       "size": 0,
@@ -3089,21 +3089,6 @@
       "tags": 0,
       "links": 0
     },
-    "01 2021新教程/02 名词解释.md": {
-      "size": 102,
-      "tags": 0,
-      "links": 3
-    },
-    "01 2021新教程/02.01 常见的名词缩写.md": {
-      "size": 61,
-      "tags": 0,
-      "links": 4
-    },
-    "01 2021新教程/210604_111749 dataview入门教程 by 无名.md": {
-      "size": 125,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/Acronis True Image.md": {
       "size": 74,
       "tags": 0,
@@ -3267,7 +3252,7 @@
     "07 信息源与贡献者/obsidian的信息源（MOC）.md": {
       "size": 549,
       "tags": 0,
-      "links": 15
+      "links": 17
     },
     "07 信息源与贡献者/Obsidian（黑曜石）软件基础操作教程 by 蚕子.md": {
       "size": 0,
@@ -3292,7 +3277,7 @@
     "01 2021新教程/obsidian新手入门（MOC）.md": {
       "size": 1699,
       "tags": 0,
-      "links": 15
+      "links": 16
     },
     "01 2021新教程/obsidian的Bug（MOC）.md": {
       "size": 0,
@@ -3407,7 +3392,7 @@
     "05 常见问题/ob插件全列表.md": {
       "size": 0,
       "tags": 0,
-      "links": 2
+      "links": 3
     },
     "01 2021新教程/CSS权重 by 林晨熙.md": {
       "size": 0,
@@ -3649,11 +3634,6 @@
       "tags": 0,
       "links": 0
     },
-    "07 信息源与贡献者/Obsidian Roundup.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "01 2021新教程/如何查询文档的历史变更或热图（MOC）.md": {
       "size": 0,
       "tags": 0,
@@ -3734,11 +3714,6 @@
       "tags": 0,
       "links": 3
     },
-    "01 2021新教程/ob中图片插件.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
     "01 2021新教程/Image Toolkit插件.md": {
       "size": 0,
       "tags": 0,
@@ -3812,7 +3787,7 @@
     "01 2021新教程/Drag and drop block插件.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "01 2021新教程/Block reference count插件.md": {
       "size": 0,
@@ -3852,7 +3827,7 @@
     "01 2021新教程/Quick explorer（面包屑插件）.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "03 教程/Obsidian Windows 与安卓端同步 by 承志0827.md": {
       "size": 0,
@@ -3974,11 +3949,6 @@
       "tags": 0,
       "links": 1
     },
-    "01 2021新教程/风尘噗噗.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "07 信息源与贡献者/Pagenote（Chrome扩展）.md": {
       "size": 0,
       "tags": 0,
@@ -4048,19 +4018,334 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "07 信息源与贡献者/obsidian的复制增强功能与网页剪藏 by 软通达.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/ob和zotero连用（Citation插件介绍） by 软通达.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "09 碎记/202109091224如何开发ob插件.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "07 信息源与贡献者/Obsidian Roundup（ob圆桌会）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "07 信息源与贡献者/Fred.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/图片浏览增强（Image Toolkit插件介绍） by 软通达.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/ob中图片插件（MOC）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "01 2021新教程/ob使用者是怎么看待ob软件（MOC）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "01 2021新教程/一个大学生与Obsidian by Wyatt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/md格式所见即所得（oz's image in editor插件介绍2） by 软通达.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "01 2021新教程/Typora.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/kanban（看板插件）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/看板插件（Kanba插件介绍）by 软通达.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/kanban自定义任务流程 by Waytt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/OB生产力系列在OB里直接标注PDF by Johnny学.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/打造自己的工作台 by Wyatt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "07 信息源与贡献者/理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（一） by 理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Obsidian结合Zotero做读书笔记 by 理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "03 教程/自己动手组建可远程实时同步的obsidian by 理行天道.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/软通达新闻.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "01 2021新教程/obsidian中文论坛问世.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/常见的名词缩写.md": {
+      "size": 61,
+      "tags": 0,
+      "links": 4
+    },
+    "01 2021新教程/dataview入门教程 by 无名.md": {
+      "size": 125,
+      "tags": 0,
+      "links": 0
+    },
+    "05 常见问题/obsidian插件汉化项目.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Python lab（python插件）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/ob中运行python（Python lab插件介绍）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Quick explorer高效利用有限空间 by Wyatt.md": {
+      "size": 100,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/QuickAdd全攻略(一)：改變工作流程的超強外掛 by 简睿.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/QuickAdd全攻略(2)：腳本撰寫與巨集使用要點 by 简睿.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/从简睿视频总结的quickadd模板小技巧 by Lillian.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "01 2021新教程/在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何使用ob进行任务管理.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
+    },
+    "01 2021新教程/使用 Syncthing 忽略模式，用白名单的方式同步指定格式文件 by HaujetZhao.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "005 active MOC.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/Longform插件使用说明选译 by 邙洛山人.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/风尘噗噗（啊）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "01 2021新教程/玩转 Obsidian 06 如何用渐进式总结笔记，把知识交给未来的自己 by 闲者时间_王掌柜.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "03 教程/Obsidian 的 Windows 端与 Android 端数据同步 by Alex凉风.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "09 碎记/202109301552Obsidian 圆桌第一次.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/太阳.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "breadcrumbs插件演示/太阳系.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "breadcrumbs插件演示/地球.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 6
+    },
+    "breadcrumbs插件演示/银河系.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/亚洲.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 5
+    },
+    "breadcrumbs插件演示/中国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/欧洲.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
+    },
+    "breadcrumbs插件演示/英国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/法国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/俄罗斯.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/德国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/联合国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "breadcrumbs插件演示/北美洲.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "breadcrumbs插件演示/美国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "breadcrumbs插件演示/联合国常任理事国.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 5
+    },
+    "01 2021新教程/obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "01 2021新教程/如何管理ob的附件.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "01 2021新教程/如何用Billfish来管理obsidian中的附件？ by 流浪猫阿狸.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 724,
-      "Create": 575,
-      "Link": 596,
-      "Expand": 47
+      "Refactor": 760,
+      "Create": 636,
+      "Link": 651,
+      "Expand": 49
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 1,
+      "0": 3,
       "1": 7,
       "2": 0,
       "3": 0,
@@ -4068,33 +4353,33 @@
       "5": 0,
       "6": 0,
       "7": 40,
-      "8": 66,
-      "9": 96,
-      "10": 43,
-      "11": 66,
-      "12": 38,
-      "13": 54,
-      "14": 31,
-      "15": 56,
-      "16": 52,
-      "17": 164,
+      "8": 89,
+      "9": 100,
+      "10": 46,
+      "11": 76,
+      "12": 48,
+      "13": 57,
+      "14": 36,
+      "15": 64,
+      "16": 58,
+      "17": 173,
       "18": 84,
-      "19": 130,
-      "20": 533,
-      "21": 130,
-      "22": 224,
-      "23": 127
+      "19": 137,
+      "20": 543,
+      "21": 141,
+      "22": 266,
+      "23": 128
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 414,
-      "Tue": 239,
-      "Wed": 169,
-      "Thu": 149,
-      "Fri": 139,
+      "Mon": 425,
+      "Tue": 244,
+      "Wed": 178,
+      "Thu": 215,
+      "Fri": 163,
       "Sat": 0,
-      "Sun": 832
+      "Sun": 871
     }
   },
   "recentCommits": {
@@ -4146,62 +4431,93 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/PDF和EPUB标注（Annotator插件介绍） by 软通达.md\"> PDF和EPUB标注（Annotator插件介绍） by 软通达 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/obsidian-annotator VS obsidian-markmind by 风尘噗噗.md\"> obsidian-annotator VS obsidian-markmind by 风尘噗噗 </a>",
         "<a class=\"internal-link\" href=\"07 信息源与贡献者/使用Pagenote进行网页标注并导出成md by 软通达.md\"> 使用Pagenote进行网页标注并导出成md by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/在ob中进行任务管理（Checklist插件介绍）.md\"> 在ob中进行任务管理（Checklist插件介绍） </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/在ob中进行任务管理（Checklist插件介绍）.md\"> 在ob中进行任务管理（Checklist插件介绍） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"01 2021新教程/Pasted image 20210821163017.png.md\"> Pasted image 20210821163017.png </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/增量写作插件Incremental Writing的使用步骤 by LillianWho.md\"> 增量写作插件Incremental Writing的使用步骤 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian.md\"> My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/用 Notion 实践卡片盒笔记法 by stevesun.md\"> 用 Notion 实践卡片盒笔记法 by stevesun </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/在ob中进行TODO管理（Checklist插件介绍）.md\"> 在ob中进行TODO管理（Checklist插件介绍） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202109071902.md\"> 202109071902 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Drag and drop block by LillianWho.md\"> Drag and drop block by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Supercharged Links插件 by LillianWho.md\"> Supercharged Links插件 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/文件夹图标美化icon folder by LillianWho.md\"> 文件夹图标美化icon folder by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian的间隔复习（obsidian to anki插件介绍） by 软通达.md\"> obsidian的间隔复习（obsidian to anki插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202109062200.md\"> 202109062200 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/生成目录（Tables of contents插件介绍） by 软通达.md\"> 生成目录（Tables of contents插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202109052117.md\"> 202109052117 </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/使用Pagenote进行网页标注并导出成md by 软通达.md\"> 使用Pagenote进行网页标注并导出成md by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/Pagenote（Chrome扩展）.md\"> Pagenote（Chrome扩展） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/风尘噗噗.md\"> 风尘噗噗 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian-annotator VS obsidian-markmind by 风尘噗噗.md\"> obsidian-annotator VS obsidian-markmind by 风尘噗噗 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/icon folder（美化插件）.md\"> icon folder（美化插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/如何正确认识ob图谱.md\"> 如何正确认识ob图谱 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/用OB学习唐诗300首是个什么体验 by Johnny.md\"> 用OB学习唐诗300首是个什么体验 by Johnny </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob进行拆书.md\"> 使用ob进行拆书 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Enchancing mindmap实现思维导图自由 by Wyatt.md\"> Enchancing mindmap实现思维导图自由 by Wyatt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Excalidraw在Obsidian上绘画 by Wyatt.md\"> Excalidraw在Obsidian上绘画 by Wyatt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Dataview索引神器 by Wyatt.md\"> Dataview索引神器 by Wyatt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/PDF和EPUB标注（Annotator插件介绍） by 软通达.md\"> PDF和EPUB标注（Annotator插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian辅助-随手工具-日记、搜索、剪藏、语料（四合一）功能 by 蚕子.md\"> Obsidian辅助-随手工具-日记、搜索、剪藏、语料（四合一）功能 by 蚕子 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/卡片笔记之困与秩序的重建 by LillianWho.md\"> 卡片笔记之困与秩序的重建 by LillianWho </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/英语学习中的查词（Wordnet插件介绍）.md\"> 英语学习中的查词（Wordnet插件介绍） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/QuickAdd-表格转换脚本 by Borber.md\"> QuickAdd-表格转换脚本 by Borber </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/一个Obsidian深度爱好者首次上手Text expand插件实录 by 八角经刀.md\"> 一个Obsidian深度爱好者首次上手Text expand插件实录 by 八角经刀 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md\"> 自定义侧边栏（Customizable Sidebar插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/Obsidian Windows 与安卓端同步.md\"> Obsidian Windows 与安卓端同步 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Quick explorer（面包屑插件）.md\"> Quick explorer（面包屑插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Dynamic Toc（TOC插件）.md\"> Dynamic Toc（TOC插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球.md\"> iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀.md\"> 一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀 </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/Roam highlighter（Chrome扩展）.md\"> Roam highlighter（Chrome扩展） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜.md\"> 玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/玩转 Obsidian 04 为什么推荐使用 Obsidian 做知识管理 by 王掌柜.md\"> 玩转 Obsidian 04 为什么推荐使用 Obsidian 做知识管理 by 王掌柜 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Block reference count插件.md\"> Block reference count插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Drag and drop block插件.md\"> Drag and drop block插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Copy block link插件.md\"> Copy block link插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/ob中提升块体验的插件.md\"> ob中提升块体验的插件 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/Obsidian与Seafile搭建自己的私有笔记 by 小z博客.md\"> Obsidian与Seafile搭建自己的私有笔记 by 小z博客 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Style setting.md\"> Style setting </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Customizable Sidebar（自定义侧边栏插件）.md\"> Customizable Sidebar（自定义侧边栏插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀.md\"> 教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Hypothesis软件.md\"> Hypothesis软件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/稍后阅读软件.md\"> 稍后阅读软件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Readwise软件.md\"> Readwise软件 </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202108282201.md\"> 202108282201 </a>"
+        "<a class=\"internal-link\" href=\"09 碎记/202110011608.md\"> 202110011608 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何用Billfish来管理obsidian中的附件？ by 流浪猫阿狸.md\"> 如何用Billfish来管理obsidian中的附件？ by 流浪猫阿狸 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何管理ob的附件.md\"> 如何管理ob的附件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊.md\"> obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/联合国常任理事国.md\"> 联合国常任理事国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/美国.md\"> 美国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/北美洲.md\"> 北美洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/联合国.md\"> 联合国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/德国.md\"> 德国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/俄罗斯.md\"> 俄罗斯 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/法国.md\"> 法国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/英国.md\"> 英国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/欧洲.md\"> 欧洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/中国.md\"> 中国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/亚洲.md\"> 亚洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/银河系.md\"> 银河系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/地球.md\"> 地球 </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202109301552.md\"> 202109301552 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊.md\"> 在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊 </a>",
+        "<a class=\"internal-link\" href=\"03 教程/Obsidian 的 Windows 端与 Android 端数据同步 by Alex凉风.md\"> Obsidian 的 Windows 端与 Android 端数据同步 by Alex凉风 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/玩转 Obsidian 06 如何用渐进式总结笔记，把知识交给未来的自己 by 闲者时间_王掌柜.md\"> 玩转 Obsidian 06 如何用渐进式总结笔记，把知识交给未来的自己 by 闲者时间_王掌柜 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Longform插件使用说明选译 by 邙洛山人.md\"> Longform插件使用说明选译 by 邙洛山人 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/Parent Note.md\"> Parent Note </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳.md\"> 太阳 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"005 active MOC.md\"> 005 active MOC </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/使用 Syncthing 忽略模式，用白名单的方式同步指定格式文件 by HaujetZhao.md\"> 使用 Syncthing 忽略模式，用白名单的方式同步指定格式文件 by HaujetZhao </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何使用ob进行任务管理.md\"> 如何使用ob进行任务管理 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊.md\"> 在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/简睿.md\"> 简睿 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/从简睿视频总结的quickadd模板小技巧 by Lillian.md\"> 从简睿视频总结的quickadd模板小技巧 by Lillian </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/QuickAdd全攻略(2)：腳本撰寫與巨集使用要點 by 简睿.md\"> QuickAdd全攻略(2)：腳本撰寫與巨集使用要點 by 简睿 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/QuickAdd全攻略(一)：改變工作流程的超強外掛 by 简睿.md\"> QuickAdd全攻略(一)：改變工作流程的超強外掛 by 简睿 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸.md\"> obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Quick explorer高效利用有限空间 by Wyatt.md\"> Quick explorer高效利用有限空间 by Wyatt </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/ob中运行python（Python lab插件介绍）.md\"> ob中运行python（Python lab插件介绍） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Python lab plugin（python插件）.md\"> Python lab plugin（python插件） </a>",
+        "<a class=\"internal-link\" href=\"05 常见问题/obsidian插件汉化项目.md\"> obsidian插件汉化项目 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian中文社区出现.md\"> obsidian中文社区出现 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/软通达新闻.md\"> 软通达新闻 </a>",
+        "<a class=\"internal-link\" href=\"03 教程/自己动手组建可远程实时同步的obsidian by 理行天道.md\"> 自己动手组建可远程实时同步的obsidian by 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian结合Zotero做读书笔记 by 理行天道.md\"> Obsidian结合Zotero做读书笔记 by 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道.md\"> 介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道.md\"> 介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（一） by 理行天道.md\"> 介绍DataviewJS把Obsidian插件使用的一般过程讲透（一） by 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"07 信息源与贡献者/理行天道.md\"> 理行天道 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/打造自己的工作台 by Wyatt.md\"> 打造自己的工作台 by Wyatt </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/OB生产力系列在OB里直接标注PDF by Johnny学.md\"> OB生产力系列在OB里直接标注PDF by Johnny学 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/kanban自定义任务流程 by Waytt.md\"> kanban自定义任务流程 by Waytt </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/看板插件（Kanba插件介绍）by 软通达.md\"> 看板插件（Kanba插件介绍）by 软通达 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md\"> 开发者接受采访 Building Community in Obsidian with Licat </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202110011608Building Community in Obsidian with Licat.md\"> 202110011608Building Community in Obsidian with Licat </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/我的知识树.md\"> 我的知识树 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳.md\"> 太阳 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/我的知识树.md\"> 我的知识树 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系1.md\"> 太阳系1 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳.md\"> 太阳 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳2.md\"> 太阳2 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202109301552Obsidian 圆桌第一次.md\"> 202109301552Obsidian 圆桌第一次 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/风尘噗噗（啊）.md\"> 风尘噗噗（啊） </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系1.md\"> 太阳系1 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系1.md\"> 太阳系1 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Python lab（python插件）.md\"> Python lab（python插件） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Python lab （python插件）.md\"> Python lab （python插件） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/dataview入门教程 by 无名.md\"> dataview入门教程 by 无名 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/常见的名词缩写.md\"> 常见的名词缩写 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/名词解释.md\"> 名词解释 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian中文论坛问世.md\"> obsidian中文论坛问世 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian中文论坛出现.md\"> obsidian中文论坛出现 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/ob中图片插件（MOC）.md\"> ob中图片插件（MOC） </a>",
+        "<a class=\"internal-link\" href=\"07 信息源与贡献者/Obsidian Roundup（ob圆桌会）.md\"> Obsidian Roundup（ob圆桌会） </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202109091224如何开发ob插件.md\"> 202109091224如何开发ob插件 </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202109091224如何开发插件.md\"> 202109091224如何开发插件 </a>",
+        "<a class=\"internal-link\" href=\"09 碎记/202109091224开发插件.md\"> 202109091224开发插件 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/在ob中进行任务管理（Checklist插件介绍）.md\"> 在ob中进行任务管理（Checklist插件介绍） </a>",
         "<a class=\"internal-link\" href=\"09 碎记/202109071902测试Checklist插件.md\"> 202109071902测试Checklist插件 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/obsidian的间隔复习（obsidian to anki插件介绍） by Jackiexiao.md\"> obsidian的间隔复习（obsidian to anki插件介绍） by Jackiexiao </a>",
@@ -4223,36 +4539,7 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/悬浮工具栏 （cMenu插件介绍） by 软通达.md\"> 悬浮工具栏 （cMenu插件介绍） by 软通达 </a>",
         "<a class=\"internal-link\" href=\"03 教程/Obsidian Windows 与安卓端同步 by 承志0827.md\"> Obsidian Windows 与安卓端同步 by 承志0827 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Style setting（调整主题插件）.md\"> Style setting（调整主题插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Quick Add（模板插件）.md\"> Quick Add（模板插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Hypothesis（软件）.md\"> Hypothesis（软件） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202108282201测试Activity Logger in ob分享.md\"> 202108282201测试Activity Logger in ob分享 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Activity logger插件.md\"> Activity logger插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Activity logger.md\"> Activity logger </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob阅读电子书（PDF等）.md\"> 使用ob阅读电子书（PDF等） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/Mind map（思维导图插件）.md\"> Mind map（思维导图插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Tag wrangler（标签修改插件）.md\"> Tag wrangler（标签修改插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/tag wrangler（标签修改插件）.md\"> tag wrangler（标签修改插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Banners题图插件.md\"> Banners题图插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/如何使用ob进行长文写作和增量写作.md\"> 如何使用ob进行长文写作和增量写作 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Tracker插件.md\"> Tracker插件 </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/好燃（八角经刀）.md\"> 好燃（八角经刀） </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/markdown-clipper（Chrome扩展） by enrico-kaack.md\"> markdown-clipper（Chrome扩展） by enrico-kaack </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/MarkDownload（Chrome扩展） by deathau.md\"> MarkDownload（Chrome扩展） by deathau </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/可能是 Obsidian 最完美的主题 by 胸毛齐腰.md\"> 可能是 Obsidian 最完美的主题 by 胸毛齐腰 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/可能是 Obsidian 最完美的主题  by 胸毛齐腰.md\"> 可能是 Obsidian 最完美的主题  by 胸毛齐腰 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（MOC）.md\"> 以ob为主的工作流（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（）（MOC）.md\"> 以ob为主的工作流（）（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（workflow）（MOC）.md\"> 以ob为主的工作流（workflow）（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Day Planners——高效日清单 by Wyatt.md\"> Day Planners——高效日清单 by Wyatt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Day Planners——高效日清单by Wyatt.md\"> Day Planners——高效日清单by Wyatt </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/MOC.md\"> MOC </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/MOC定义与论述.md\"> MOC定义与论述 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/PhD Research & Study in Obsidian by Keep Productive （内有机翻中文）.md\"> PhD Research & Study in Obsidian by Keep Productive （内有机翻中文） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/PhD Research & Study in Obsidian by Keep Productive （内有中文）.md\"> PhD Research & Study in Obsidian by Keep Productive （内有中文） </a>",
-        "<a class=\"internal-link\" href=\"03 教程/obsidian中的表格操作（MOC）.md\"> obsidian中的表格操作（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Mark mind（思维导图插件）.md\"> Mark mind（思维导图插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Markdown prettify（md格式优化插件）.md\"> Markdown prettify（md格式优化插件） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Anki.md\"> Anki </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/Quick Add（模板插件）.md\"> Quick Add（模板插件） </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Obsidian 的 YAML Front matter 介绍 by Bon.md\"> Obsidian 的 YAML Front matter 介绍 by Bon </a>",
@@ -4267,6 +4554,10 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/2021年新教程.md\"> 2021年新教程 </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/我的知识树.md\"> 我的知识树 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/简睿.md\"> 简睿 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/名词解释.md\"> 名词解释 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Pasted image 20210821163017.png.md\"> Pasted image 20210821163017.png </a>",
         "<a class=\"internal-link\" href=\"07 信息源与贡献者/Wyatt.md\"> Wyatt </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/如何使用ob进行增量写作.md\"> 如何使用ob进行增量写作 </a>",
@@ -4313,64 +4604,60 @@
         "<a class=\"internal-link\" href=\"02 名词解释/软件工具（MOC）.md\"> 软件工具（MOC） </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/如何双开ob.md\"> 如何双开ob </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/如何删除冗余的图片（MOC）.md\"> 如何删除冗余的图片（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/如何快速替换文字（MOC）.md\"> 如何快速替换文字（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/如何备份ob文件（版本控制）（MOC）.md\"> 如何备份ob文件（版本控制）（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/清除不使用的图片（Clear unused images插件介绍） by 软达通.md\"> 清除不使用的图片（Clear unused images插件介绍） by 软达通 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/迁移性.md\"> 迁移性 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/幕布.md\"> 幕布 </a>"
+        "<a class=\"internal-link\" href=\"02 名词解释/如何快速替换文字（MOC）.md\"> 如何快速替换文字（MOC） </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/ZK笔记法（MOC）.md\"> ZK笔记法（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（MOC）.md\"> 以ob为主的工作流（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/202109062200测试目录Tables of contents.md\"> 202109062200测试目录Tables of contents </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/如何进行网页剪藏（MOC）.md\"> 如何进行网页剪藏（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/风尘噗噗.md\"> 风尘噗噗 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob阅读电子书（PDF等）.md\"> 使用ob阅读电子书（PDF等） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian-annotator VS obsidian-markmind by 风尘噗噗.md\"> obsidian-annotator VS obsidian-markmind by 风尘噗噗 </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md\"> 爱好者QQ群中活跃的贡献者（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/使用ob进行拆书.md\"> 使用ob进行拆书 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/如何正确认识ob图谱.md\"> 如何正确认识ob图谱 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何管理ob的附件.md\"> 如何管理ob的附件 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/PDF和EPUB标注（Annotator插件介绍） by 软通达.md\"> PDF和EPUB标注（Annotator插件介绍） by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/亚洲.md\"> 亚洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/联合国常任理事国.md\"> 联合国常任理事国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/地球.md\"> 地球 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/欧洲.md\"> 欧洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/联合国.md\"> 联合国 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/北美洲.md\"> 北美洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/地球.md\"> 地球 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/亚洲.md\"> 亚洲 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳.md\"> 太阳 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/PDF和EPUB标注（Annotator插件介绍） by 软通达.md\"> PDF和EPUB标注（Annotator插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"03 教程/如何同步obsidian文件（MOC）.md\"> 如何同步obsidian文件（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/笔记方法论（MOC）.md\"> 笔记方法论（MOC） </a>",
+        "<a class=\"internal-link\" href=\"07 信息源与贡献者/obsidian的信息源（MOC）.md\"> obsidian的信息源（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"03 教程/如何将Excel表格转md（MOC）.md\"> 如何将Excel表格转md（MOC） </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系1.md\"> 太阳系1 </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Syncthing（MOC）.md\"> Syncthing（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/如何使用ob进行任务管理.md\"> 如何使用ob进行任务管理 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/从简睿视频总结的quickadd模板小技巧 by Lillian.md\"> 从简睿视频总结的quickadd模板小技巧 by Lillian </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"05 常见问题/ob插件全列表.md\"> ob插件全列表 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/2021年新教程.md\"> 2021年新教程 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/软通达新闻.md\"> 软通达新闻 </a>",
         "<a class=\"internal-link\" href=\"03 教程/如何同步obsidian文件（MOC）.md\"> 如何同步obsidian文件（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（MOC）.md\"> 以ob为主的工作流（MOC） </a>",
-        "<a class=\"internal-link\" href=\"07 信息源与贡献者/如何进行网页剪藏（MOC）.md\"> 如何进行网页剪藏（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/ob中提升块体验的插件.md\"> ob中提升块体验的插件 </a>",
-        "<a class=\"internal-link\" href=\"03 教程/如何同步obsidian文件（MOC）.md\"> 如何同步obsidian文件（MOC） </a>",
+        "<a class=\"internal-link\" href=\"07 信息源与贡献者/obsidian的信息源（MOC）.md\"> obsidian的信息源（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀.md\"> 教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/md格式所见即所得（oz's image in editor插件介绍2） by 软通达.md\"> md格式所见即所得（oz's image in editor插件介绍2） by 软通达 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/md格式所见即所得（oz's image in editor插件介绍2） by 软通达.md\"> md格式所见即所得（oz's image in editor插件介绍2） by 软通达 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Readwise软件.md\"> Readwise软件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/如何查询文档的历史变更或热图（MOC）.md\"> 如何查询文档的历史变更或热图（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/目的驱动的分类（MOC）.md\"> 目的驱动的分类（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/ob中图片插件.md\"> ob中图片插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/卡片笔记写作法（How to take smart notes 中文版）.md\"> 卡片笔记写作法（How to take smart notes 中文版） </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/obsidian新手入门（MOC）.md\"> obsidian新手入门（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/ob使用者是怎么看待ob软件（MOC）.md\"> ob使用者是怎么看待ob软件（MOC） </a>",
+        "<a class=\"internal-link\" href=\"07 信息源与贡献者/爱好者QQ群中活跃的贡献者（MOC）.md\"> 爱好者QQ群中活跃的贡献者（MOC） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Drag and drop block插件.md\"> Drag and drop block插件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Quick explorer（面包屑插件）.md\"> Quick explorer（面包屑插件） </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/ob中提升编辑体验的插件.md\"> ob中提升编辑体验的插件 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"09 碎记/202109071902测试Checklist插件.md\"> 202109071902测试Checklist插件 </a>"
@@ -4411,7 +4698,10 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/Alfred插件.md\"> Alfred插件 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Activity logger插件.md\"> Activity logger插件 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Text expand插件.md\"> Text expand插件 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Readwise（稍后阅读插件）.md\"> Readwise（稍后阅读插件） </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/Readwise（稍后阅读插件）.md\"> Readwise（稍后阅读插件） </a>",
+        "<a class=\"internal-link\" href=\"10 演示文件夹/breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/太阳系.md\"> 太阳系 </a>",
+        "<a class=\"internal-link\" href=\"breadcrumbs插件演示/联合国.md\"> 联合国 </a>"
       ]
     }
   },

@@ -1,8 +1,6 @@
 [
   "obsidian-commits",
   "recent-files-obsidian",
-  "dataview",
-  "obsidian-image-auto-upload-plugin",
   "oz-image-plugin",
   "find-unlinked-files",
   "table-extended",
@@ -12,5 +10,8 @@
   "customizable-sidebar",
   "cm-chs-patch",
   "obsidian-plugin-toc",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "obsidian-image-toolkit",
+  "breadcrumbs",
+  "dataview"
 ]

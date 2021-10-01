@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a7d92e72bb456b2",
+        "id": "57cbe1e41a79bfe1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+            "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "工作流",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195,
-    "collapsed": true
+    "width": 186
   },
   "right": {
     "id": "d1099c8434716628",
@@ -71,6 +70,7 @@
       {
         "id": "7eba79828c876cf8",
         "type": "tabs",
+        "dimension": 53.16091954022988,
         "children": [
           {
             "id": "4337befee945cf80",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,12 +99,30 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "ebc6225b46c42f37",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "828a20306c5d8832",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "90e8023c13058471",
         "type": "tabs",
+        "dimension": 46.83908045977012,
         "children": [
           {
             "id": "88ed39b655f9d3d5",
@@ -112,14 +130,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -140,27 +158,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 340
   },
-  "active": "9a7d92e72bb456b2",
+  "active": "57cbe1e41a79bfe1",
   "lastOpenFiles": [
+    "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
+    "01 2021新教程/如何用Billfish来管理obsidian中的附件？ by 流浪猫阿狸.md",
+    "01 2021新教程/如何管理ob的附件.md",
+    "01 2021新教程/目的驱动的分类（MOC）.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸.md",
-    "01 2021新教程/Citation插件.md",
-    "01 2021新教程/增量写作插件Incremental Writing的使用步骤 by LillianWho.md",
-    "01 2021新教程/Pasted image 20210821163017.png.md",
-    "01 2021新教程/以ob为主的工作流（MOC）.md",
-    "01 2021新教程/My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian.md",
-    "01 2021新教程/用 Notion 实践卡片盒笔记法 by stevesun.md",
-    "01 2021新教程/ZK笔记法（MOC）.md",
-    "01 2021新教程/知识卡片.md"
+    "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md",
+    "01 2021新教程/CSS主题（MOC）.md",
+    "01 2021新教程/obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊.md",
+    "01 2021新教程/在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊.md",
+    "01 2021新教程/Syncthing中转服务器 by 淳帅二代.md"
   ]
 }
