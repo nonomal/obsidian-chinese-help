@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "57cbe1e41a79bfe1",
+        "id": "444ffc35b88b9651",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
+            "file": "01 2021新教程/Booknote插件.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "工作流",
+                "query": "analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 186
+    "width": 273
   },
   "right": {
     "id": "d1099c8434716628",
@@ -70,7 +70,7 @@
       {
         "id": "7eba79828c876cf8",
         "type": "tabs",
-        "dimension": 53.16091954022988,
+        "dimension": 29.239766081871345,
         "children": [
           {
             "id": "4337befee945cf80",
@@ -86,43 +86,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
+                "file": "01 2021新教程/Booknote插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "62e8c70dff594082",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebc6225b46c42f37",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "828a20306c5d8832",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "90e8023c13058471",
         "type": "tabs",
-        "dimension": 46.83908045977012,
+        "dimension": 70.76023391812866,
         "children": [
           {
             "id": "88ed39b655f9d3d5",
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
+                "file": "01 2021新教程/Booknote插件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,28 +133,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md"
+                "file": "01 2021新教程/Booknote插件.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 425
   },
-  "active": "57cbe1e41a79bfe1",
+  "active": "444ffc35b88b9651",
   "lastOpenFiles": [
-    "09 碎记/开发者接受采访 Building Community in Obsidian with Licat.md",
-    "01 2021新教程/如何用Billfish来管理obsidian中的附件？ by 流浪猫阿狸.md",
-    "01 2021新教程/如何管理ob的附件.md",
-    "01 2021新教程/目的驱动的分类（MOC）.md",
+    "01 2021新教程/Booknote插件.md",
+    "01 2021新教程/使用ob阅读电子书（PDF等）.md",
+    "01 2021新教程/Excalidraw在Obsidian上绘画 by Wyatt.md",
+    "09 碎记/202112031518obsidian开箱即用库插件征求表.md",
+    "09 碎记/202112030953ob年度插件和主题.md",
+    "08 高阶教程/如何插入脚注.md",
+    "01 2021新教程/Image Toolkit插件.md",
+    "01 2021新教程/Vale（语法检查插件）.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "06 ob官方帮助文档（节选）/ob官方帮助文档（MOC）.md",
-    "01 2021新教程/CSS主题（MOC）.md",
-    "01 2021新教程/obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊.md",
-    "01 2021新教程/在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊.md",
-    "01 2021新教程/Syncthing中转服务器 by 淳帅二代.md"
+    "01 2021新教程/如何安装并使用booknote插件 by Cuman.md"
   ]
 }

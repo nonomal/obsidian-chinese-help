@@ -1,17 +1,11 @@
 [
   "obsidian-commits",
   "recent-files-obsidian",
-  "oz-image-plugin",
-  "find-unlinked-files",
   "table-extended",
   "obsidian-incremental-writing",
   "obsidian-annotator",
   "obsidian-activity-logger",
-  "customizable-sidebar",
   "cm-chs-patch",
   "obsidian-plugin-toc",
-  "obsidian-checklist-plugin",
-  "obsidian-image-toolkit",
-  "breadcrumbs",
-  "dataview"
+  "obsidian-image-toolkit"
 ]
