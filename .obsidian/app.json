@@ -6,5 +6,7 @@
   "readableLineLength": false,
   "promptDelete": false,
   "autoConvertHtml": false,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "legacyEditor": false
 }

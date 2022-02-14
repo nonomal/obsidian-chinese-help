@@ -2,8 +2,6 @@
   "theme": "moonstone",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "首行缩进"
-  ],
-  "cssTheme": ""
+  "enabledCssSnippets": [],
+  "cssTheme": "Blue Topaz"
 }

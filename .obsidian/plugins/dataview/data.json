@@ -1,0 +1,6 @@
+{
+  "renderNullAs": "-",
+  "warnOnEmptyResult": true,
+  "inlineQueryPrefix": "=",
+  "refreshInterval": 500
+}

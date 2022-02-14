@@ -1,11 +1,8 @@
 [
-  "obsidian-commits",
   "recent-files-obsidian",
-  "table-extended",
-  "obsidian-incremental-writing",
   "obsidian-annotator",
-  "obsidian-activity-logger",
   "cm-chs-patch",
-  "obsidian-plugin-toc",
-  "obsidian-image-toolkit"
+  "dataview",
+  "breadcrumbs",
+  "templater-obsidian"
 ]

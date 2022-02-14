@@ -1,136 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Booknote插件",
-      "path": "01 2021新教程/Booknote插件.md"
+      "basename": "Pasted image 20220120092853",
+      "path": "Attachment/Pasted image 20220120092853.png"
     },
     {
-      "basename": "使用ob阅读电子书（PDF等）",
-      "path": "01 2021新教程/使用ob阅读电子书（PDF等）.md"
+      "basename": "Pasted image 20220120092841",
+      "path": "Attachment/Pasted image 20220120092841.png"
     },
     {
-      "basename": "Excalidraw在Obsidian上绘画 by Wyatt",
-      "path": "01 2021新教程/Excalidraw在Obsidian上绘画 by Wyatt.md"
+      "basename": "Pasted image 20220120092903",
+      "path": "Attachment/Pasted image 20220120092903.png"
     },
     {
-      "basename": "202112031518obsidian开箱即用库插件征求表",
-      "path": "09 碎记/202112031518obsidian开箱即用库插件征求表.md"
+      "basename": "Pasted image 20220120092927",
+      "path": "Attachment/Pasted image 20220120092927.png"
     },
     {
-      "basename": "202112030953ob年度插件和主题",
-      "path": "09 碎记/202112030953ob年度插件和主题.md"
+      "basename": "自动移动文件位置（Auto note mover插件介绍） by 软通达",
+      "path": "01 2021新教程/自动移动文件位置（Auto note mover插件介绍） by 软通达.md"
     },
     {
-      "basename": "如何插入脚注",
-      "path": "08 高阶教程/如何插入脚注.md"
+      "basename": "Auto note mover（自动移动文件位置插件）",
+      "path": "01 2021新教程/Auto note mover（自动移动文件位置插件）.md"
     },
     {
-      "basename": "Image Toolkit插件",
-      "path": "01 2021新教程/Image Toolkit插件.md"
-    },
-    {
-      "basename": "Vale（语法检查插件）",
-      "path": "01 2021新教程/Vale（语法检查插件）.md"
+      "basename": "快速输入日期（Natural Language Dates插件介绍）by软通达",
+      "path": "01 2021新教程/快速输入日期（Natural Language Dates插件介绍）by软通达.md"
     },
     {
       "basename": "Obsidian插件列表与教程（MOC）",
       "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
     },
     {
-      "basename": "如何安装并使用booknote插件 by Cuman",
-      "path": "01 2021新教程/如何安装并使用booknote插件 by Cuman.md"
+      "basename": "Sidekick（自动推荐插件）",
+      "path": "01 2021新教程/Sidekick（自动推荐插件）.md"
     },
     {
-      "basename": "Catalyst用户如何下载obsidian内测版本",
-      "path": "01 2021新教程/Catalyst用户如何下载obsidian内测版本.md"
+      "basename": "ob中以自动为名的插件",
+      "path": "01 2021新教程/ob中以自动为名的插件.md"
     },
     {
-      "basename": "PDF、office文档等批注（Booknote插件） by 软通达",
-      "path": "01 2021新教程/PDF、office文档等批注（Booknote插件） by 软通达.md"
+      "basename": "auto complete（自动填充插件）",
+      "path": "01 2021新教程/auto complete（自动填充插件）.md"
     },
     {
-      "basename": "如何备份ob文件（版本控制）（MOC）",
-      "path": "01 2021新教程/如何备份ob文件（版本控制）（MOC）.md"
+      "basename": "目的驱动的分类（MOC）",
+      "path": "01 2021新教程/目的驱动的分类（MOC）.md"
     },
     {
-      "basename": "如何成为insider（内测者）",
-      "path": "01 2021新教程/如何成为insider（内测者）.md"
+      "basename": "Templater时间戳模板",
+      "path": "Templater/Templater时间戳模板.md"
     },
     {
-      "basename": "购买obsidian的服务",
-      "path": "01 2021新教程/购买obsidian的服务.md"
-    },
-    {
-      "basename": "CSS主题（MOC）",
-      "path": "01 2021新教程/CSS主题（MOC）.md"
-    },
-    {
-      "basename": "本人对obsidian新手的建议",
-      "path": "01 2021新教程/本人对obsidian新手的建议.md"
-    },
-    {
-      "basename": "obsidian新手入门（MOC）",
-      "path": "01 2021新教程/obsidian新手入门（MOC）.md"
-    },
-    {
-      "basename": "我的Obsidian入门之旅 by 二丫讲梵",
-      "path": "01 2021新教程/我的Obsidian入门之旅 by 二丫讲梵.md"
-    },
-    {
-      "basename": "Obsidian 入门：从第一个文档开始 by LillianWho",
-      "path": "01 2021新教程/Obsidian 入门：从第一个文档开始 by LillianWho.md"
-    },
-    {
-      "basename": "Leaflet插件说明（中文翻译版） by 宏沉一笑",
-      "path": "01 2021新教程/Leaflet插件说明（中文翻译版） by 宏沉一笑.md"
-    },
-    {
-      "basename": "Leaflet地图插件",
-      "path": "01 2021新教程/Leaflet地图插件.md"
-    },
-    {
-      "basename": "ob中图片插件（MOC）",
-      "path": "01 2021新教程/ob中图片插件（MOC）.md"
-    },
-    {
-      "basename": "释放图谱的力量——KG笔记法 by Ryooo",
-      "path": "01 2021新教程/释放图谱的力量——KG笔记法 by Ryooo.md"
-    },
-    {
-      "basename": "如何使用ob的图谱功能",
-      "path": "01 2021新教程/如何使用ob的图谱功能.md"
-    },
-    {
-      "basename": "图谱真的没用吗？知识图谱视角下的双链笔记 by Ryooo",
-      "path": "07 信息源与贡献者/图谱真的没用吗？知识图谱视角下的双链笔记 by Ryooo.md"
-    },
-    {
-      "basename": "2021年推荐3款obsidian的CSS主题 by 软通达",
-      "path": "01 2021新教程/2021年推荐3款obsidian的CSS主题 by 软通达.md"
-    },
-    {
-      "basename": "Blue Topaz(蓝色托帕石)",
-      "path": "09 碎记/Blue Topaz(蓝色托帕石).md"
-    },
-    {
-      "basename": "minimal（极简主题）",
-      "path": "09 碎记/minimal（极简主题）.md"
-    },
-    {
-      "basename": "Yin and Yang",
-      "path": "01 2021新教程/Yin and Yang.md"
-    },
-    {
-      "basename": "Calibre配合Obsidian管理和阅读电子书  by 阿狸的blog",
-      "path": "01 2021新教程/Calibre配合Obsidian管理和阅读电子书  by 阿狸的blog.md"
-    },
-    {
-      "basename": "calibre（插件）",
-      "path": "01 2021新教程/calibre（插件）.md"
-    },
-    {
-      "basename": "Obsidian Roundup（ob圆桌会）",
-      "path": "07 信息源与贡献者/Obsidian Roundup（ob圆桌会）.md"
+      "basename": "树叶笔记法",
+      "path": "01 2021新教程/树叶笔记法.md"
     },
     {
       "basename": "笔记方法论（MOC）",
@@ -141,64 +65,140 @@
       "path": "01 2021新教程/ZK笔记法（MOC）.md"
     },
     {
-      "basename": "iOS端obsidian同步的方案 by 软通达",
-      "path": "03 教程/iOS端obsidian同步的方案 by 软通达.md"
+      "basename": "卢曼笔记法",
+      "path": "01 2021新教程/卢曼笔记法.md"
     },
     {
-      "basename": "软通达新闻",
-      "path": "01 2021新教程/软通达新闻.md"
+      "basename": "Thinking Maps（利用obsidian-Excalidraw手绘思维导图）",
+      "path": "01 2021新教程/Thinking Maps（利用obsidian-Excalidraw手绘思维导图）.md"
     },
     {
-      "basename": "如何插入文件",
-      "path": "03 教程/如何插入文件.md"
+      "basename": "如何开发ob插件",
+      "path": "09 碎记/如何开发ob插件.md"
     },
     {
-      "basename": "如何插入图片",
-      "path": "03 教程/如何插入图片.md"
+      "basename": "在ob中通过Templater为新建页添加模板信息 by 软通达",
+      "path": "01 2021新教程/在ob中通过Templater为新建页添加模板信息 by 软通达.md"
     },
     {
-      "basename": "Isaac láoshī",
-      "path": "03 教程/Isaac láoshī.md"
+      "basename": "模板（核心插件",
+      "path": "01 2021新教程/模板（核心插件.md"
     },
     {
-      "basename": "介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道",
-      "path": "01 2021新教程/介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道.md"
+      "basename": "ZK卡片（核心插件）",
+      "path": "01 2021新教程/ZK卡片（核心插件）.md"
     },
     {
-      "basename": "Livesync（同步插件）",
-      "path": "01 2021新教程/Livesync（同步插件）.md"
+      "basename": "Templater（模板增强插件）",
+      "path": "01 2021新教程/Templater（模板增强插件）.md"
     },
     {
-      "basename": "Setting up iOS git-based syncing with mobile app (using Working Copy) by rsteele",
-      "path": "03 教程/Setting up iOS git-based syncing with mobile app (using Working Copy) by rsteele.md"
+      "basename": "Advanced uri插件",
+      "path": "01 2021新教程/Advanced uri插件.md"
     },
     {
-      "basename": "如何同步obsidian文件（MOC）",
-      "path": "03 教程/如何同步obsidian文件（MOC）.md"
+      "basename": "incremental Writing（增量写作插件）",
+      "path": "01 2021新教程/incremental Writing（增量写作插件）.md"
     },
     {
-      "basename": "Working copy",
-      "path": "01 2021新教程/Working copy.md"
+      "basename": "增强ob的日记（Daily Note）插件",
+      "path": "01 2021新教程/增强ob的日记（Daily Note）插件.md"
     },
     {
-      "basename": "如何与同步软件连用",
-      "path": "08 高阶教程/如何与同步软件连用.md"
+      "basename": "日记插件（Daily Note）",
+      "path": "01 2021新教程/日记插件（Daily Note）.md"
     },
     {
-      "basename": "Remotely save（同步插件）",
-      "path": "01 2021新教程/Remotely save（同步插件）.md"
+      "basename": "快捷插入模板（Hotkeys for templates插件介绍）by 软通达",
+      "path": "01 2021新教程/快捷插入模板（Hotkeys for templates插件介绍）by 软通达.md"
     },
     {
-      "basename": "为什么无法查看和下载社区插件和主题（MOC）",
-      "path": "05 常见问题/为什么无法查看和下载社区插件和主题（MOC）.md"
+      "basename": "Natural Language Dates（自然语言日期插件）",
+      "path": "01 2021新教程/Natural Language Dates（自然语言日期插件）.md"
     },
     {
-      "basename": "使用腾讯云搭建Syncthing来同步obsidian by 软通达",
-      "path": "03 教程/使用腾讯云搭建Syncthing来同步obsidian by 软通达.md"
+      "basename": "Dataview插件",
+      "path": "01 2021新教程/Dataview插件.md"
     },
     {
-      "basename": "FolderSync（同步软件）",
-      "path": "03 教程/FolderSync（同步软件）.md"
+      "basename": "餐巾纸盒子",
+      "path": "01 2021新教程/餐巾纸盒子.md"
+    },
+    {
+      "basename": "使用ob发布服务的站点",
+      "path": "01 2021新教程/使用ob发布服务的站点.md"
+    },
+    {
+      "basename": "寻找孤立文件（Find unlinked files插件介绍）by 软通达",
+      "path": "01 2021新教程/寻找孤立文件（Find unlinked files插件介绍）by 软通达.md"
+    },
+    {
+      "basename": "Find unlinked files（寻找孤立文件）",
+      "path": "01 2021新教程/Find unlinked files（寻找孤立文件）.md"
+    },
+    {
+      "basename": "Hotkeys for templates（插件）",
+      "path": "01 2021新教程/Hotkeys for templates（插件）.md"
+    },
+    {
+      "basename": "只有经过思考链接才有意义 by 风尘噗噗啊",
+      "path": "01 2021新教程/只有经过思考链接才有意义 by 风尘噗噗啊.md"
+    },
+    {
+      "basename": "以ob为主的工作流（MOC）",
+      "path": "01 2021新教程/以ob为主的工作流（MOC）.md"
+    },
+    {
+      "basename": "还在找完美的笔记软件？不妨先听我说说 by 真不瓤来",
+      "path": "01 2021新教程/还在找完美的笔记软件？不妨先听我说说 by 真不瓤来.md"
+    },
+    {
+      "basename": "pPhrasebank语料库插件",
+      "path": "01 2021新教程/pPhrasebank语料库插件.md"
+    },
+    {
+      "basename": "Blue topaz 主题用法示例 by Cuman",
+      "path": "01 2021新教程/Blue topaz 主题用法示例 by Cuman.md"
+    },
+    {
+      "basename": "CSS主题（MOC）",
+      "path": "01 2021新教程/CSS主题（MOC）.md"
+    },
+    {
+      "basename": "总结-阅读及笔记工作流程 by 一只小胖子",
+      "path": "01 2021新教程/总结-阅读及笔记工作流程 by 一只小胖子.md"
+    },
+    {
+      "basename": "Master Obsidian Quickly by Jeremy",
+      "path": "07 信息源与贡献者/Master Obsidian Quickly by Jeremy.md"
+    },
+    {
+      "basename": "ob使用教材（书籍）",
+      "path": "07 信息源与贡献者/ob使用教材（书籍）.md"
+    },
+    {
+      "basename": "obsidian的信息源（MOC）",
+      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
+    },
+    {
+      "basename": "obsidian的juggl插件正式发布了 by 白马王子的马",
+      "path": "01 2021新教程/obsidian的juggl插件正式发布了 by 白马王子的马.md"
+    },
+    {
+      "basename": "ob使用者的心路历程",
+      "path": "01 2021新教程/ob使用者的心路历程.md"
+    },
+    {
+      "basename": "2021年新教程",
+      "path": "01 2021新教程/2021年新教程.md"
+    },
+    {
+      "basename": "本人对obsidian新手的建议（2022版本） by 软通达",
+      "path": "01 2021新教程/本人对obsidian新手的建议（2022版本） by 软通达.md"
+    },
+    {
+      "basename": "坚持卡片笔记 300 天是怎样的体验？by 吴刚 From 合桃派",
+      "path": "01 2021新教程/坚持卡片笔记 300 天是怎样的体验？by 吴刚 From 合桃派.md"
     }
   ],
   "omittedPaths": [],
