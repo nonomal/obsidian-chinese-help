@@ -4,13 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "afa5adae347ac4a9",
+        "id": "03b9029c0e383c12",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachment/Pasted image 20220120092853.png"
-          }
+            "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "1290ff84f6ad3f91",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 2021新教程/对比不同版本文本差异（Sync version history插件介绍） by 软通达.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
         }
       }
     ],
@@ -38,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原文链接",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "d1099c8434716628",
@@ -84,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Pasted image 20220120092853.png",
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Pasted image 20220120092853.png",
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,27 +151,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Pasted image 20220120092853.png"
+                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 425
   },
-  "active": "afa5adae347ac4a9",
+  "active": "03b9029c0e383c12",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20220120092853.png",
-    "Attachment/Pasted image 20220120092841.png",
-    "Attachment/Pasted image 20220120092903.png",
-    "Attachment/Pasted image 20220120092927.png",
-    "01 2021新教程/自动移动文件位置（Auto note mover插件介绍） by 软通达.md",
-    "01 2021新教程/Auto note mover（自动移动文件位置插件）.md",
-    "01 2021新教程/快速输入日期（Natural Language Dates插件介绍）by软通达.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/Sidekick（自动推荐插件）.md",
-    "01 2021新教程/ob中以自动为名的插件.md"
+    "01 2021新教程/基于Quicker动作可视化学习Dataview插件检索语法 by 蚕子.md",
+    "01 2021新教程/对比不同版本文本差异（Sync version history插件介绍） by 软通达.md",
+    "01 2021新教程/文件恢复（File Recovery，核心插件）.md",
+    "03 教程/如何同步obsidian文件（MOC）.md",
+    "01 2021新教程/同步（sync核心插件）.md",
+    "01 2021新教程/悬浮编辑（Hover editor插件介绍）by 软通达.md",
+    "01 2021新教程/Sync version history（对比插件）.md",
+    "01 2021新教程/Obsidian使用Remotely Save 和阿里云 OSS 实现多平台同步 by zm.md",
+    "01 2021新教程/Remotely save（同步插件）.md"
   ]
 }

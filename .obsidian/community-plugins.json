@@ -4,5 +4,6 @@
   "cm-chs-patch",
   "dataview",
   "breadcrumbs",
-  "templater-obsidian"
+  "templater-obsidian",
+  "remotely-save"
 ]
