@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "Regex Pipeline（正则插件）",
+      "path": "01 2021新教程/Regex Pipeline（正则插件）.md"
+    },
+    {
       "basename": "Obsidian插件列表与教程（MOC）",
       "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
     },
     {
-      "basename": "基于Quicker动作可视化学习Dataview插件检索语法 by 蚕子",
-      "path": "01 2021新教程/基于Quicker动作可视化学习Dataview插件检索语法 by 蚕子.md"
+      "basename": "Kity mind（百度脑图插件）",
+      "path": "01 2021新教程/Kity mind（百度脑图插件）.md"
     },
     {
-      "basename": "对比不同版本文本差异（Sync version history插件介绍） by 软通达",
-      "path": "01 2021新教程/对比不同版本文本差异（Sync version history插件介绍） by 软通达.md"
+      "basename": "Block reference count（计算块引用插件）",
+      "path": "01 2021新教程/Block reference count（计算块引用插件）.md"
     },
     {
-      "basename": "文件恢复（File Recovery，核心插件）",
-      "path": "01 2021新教程/文件恢复（File Recovery，核心插件）.md"
+      "basename": "使用ob发布服务的站点",
+      "path": "01 2021新教程/使用ob发布服务的站点.md"
     },
     {
-      "basename": "如何同步obsidian文件（MOC）",
-      "path": "03 教程/如何同步obsidian文件（MOC）.md"
+      "basename": "Obsidian-Dataview文档（中文翻译版）  by 性别只有一个字",
+      "path": "01 2021新教程/Obsidian-Dataview文档（中文翻译版）  by 性别只有一个字.md"
     },
     {
-      "basename": "同步（sync核心插件）",
-      "path": "01 2021新教程/同步（sync核心插件）.md"
+      "basename": "Enhancing export（增强导出插件）",
+      "path": "01 2021新教程/Enhancing export（增强导出插件）.md"
     },
     {
-      "basename": "悬浮编辑（Hover editor插件介绍）by 软通达",
-      "path": "01 2021新教程/悬浮编辑（Hover editor插件介绍）by 软通达.md"
+      "basename": "自定义Callouts样式 by 软通达",
+      "path": "01 2021新教程/自定义Callouts样式 by 软通达.md"
     },
     {
-      "basename": "Sync version history（对比插件）",
-      "path": "01 2021新教程/Sync version history（对比插件）.md"
+      "basename": "obsidian主题设置",
+      "path": "01 2021新教程/obsidian主题设置.md"
     },
     {
-      "basename": "Obsidian使用Remotely Save 和阿里云 OSS 实现多平台同步 by zm",
-      "path": "01 2021新教程/Obsidian使用Remotely Save 和阿里云 OSS 实现多平台同步 by zm.md"
+      "basename": "Callout语法",
+      "path": "01 2021新教程/Callout语法.md"
     },
     {
-      "basename": "Remotely save（同步插件）",
-      "path": "01 2021新教程/Remotely save（同步插件）.md"
+      "basename": "查看本页的参考文献（Pandoc reference list插件介绍） by 软通达",
+      "path": "01 2021新教程/查看本页的参考文献（Pandoc reference list插件介绍） by 软通达.md"
     },
     {
-      "basename": "如何使用ob进行间隔复习",
-      "path": "01 2021新教程/如何使用ob进行间隔复习.md"
+      "basename": "Pandoc reference list（科研辅助插件）",
+      "path": "01 2021新教程/Pandoc reference list（科研辅助插件）.md"
     },
     {
-      "basename": "Anki Sync（间隔复习插件）",
-      "path": "01 2021新教程/Anki Sync（间隔复习插件）.md"
+      "basename": "obsidian中文教程",
+      "path": "01 2021新教程/obsidian中文教程.md"
     },
     {
-      "basename": "AnkiBridge（间隔复习插件）",
-      "path": "01 2021新教程/AnkiBridge（间隔复习插件）.md"
+      "basename": "关于教程的更新",
+      "path": "01 2021新教程/关于教程的更新.md"
     },
     {
-      "basename": "Review（间隔复习插件）",
-      "path": "01 2021新教程/Review（间隔复习插件）.md"
-    },
-    {
-      "basename": "Obsidian通过Remotely save插件实现坚果云同步 by BCS",
-      "path": "01 2021新教程/Obsidian通过Remotely save插件实现坚果云同步 by BCS.md"
-    },
-    {
-      "basename": "Obsidian 同步 Remotely Save S3 配置指南 by 恐咖兵糖",
-      "path": "01 2021新教程/Obsidian 同步 Remotely Save S3 配置指南 by 恐咖兵糖.md"
-    },
-    {
-      "basename": "remotely插件搭配腾讯云cos教程 by 八宝周",
-      "path": "01 2021新教程/remotely插件搭配腾讯云cos教程 by 八宝周.md"
+      "basename": "给科研人的开箱即用库 by sheldonxxd",
+      "path": "09 碎记/给科研人的开箱即用库 by sheldonxxd.md"
     },
     {
       "basename": "ob开箱即用库",
       "path": "09 碎记/ob开箱即用库.md"
     },
     {
-      "basename": "Obsidian&Logseq开箱即用库 by  及时春雨",
-      "path": "09 碎记/Obsidian&Logseq开箱即用库 by  及时春雨.md"
+      "basename": "做一张有用的卡片，然后从一张卡片到一个知识库 by 李参",
+      "path": "01 2021新教程/做一张有用的卡片，然后从一张卡片到一个知识库 by 李参.md"
     },
     {
-      "basename": "Obsidian与Marginnote 3互通联动 by 维客笔记",
-      "path": "01 2021新教程/Obsidian与Marginnote 3互通联动 by 维客笔记.md"
+      "basename": "ZK笔记法（MOC）",
+      "path": "01 2021新教程/ZK笔记法（MOC）.md"
     },
     {
-      "basename": "最舒服的Obsidian第三方多端同步 by 维客笔记",
-      "path": "01 2021新教程/最舒服的Obsidian第三方多端同步 by 维客笔记.md"
+      "basename": "笔记方法论（MOC）",
+      "path": "01 2021新教程/笔记方法论（MOC）.md"
     },
     {
-      "basename": "维客笔记",
-      "path": "07 信息源与贡献者/维客笔记.md"
+      "basename": "知识卡片",
+      "path": "01 2021新教程/知识卡片.md"
     },
     {
-      "basename": "obsidian的信息源（MOC）",
-      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
-    },
-    {
-      "basename": "Marginnote companion插件",
-      "path": "01 2021新教程/Marginnote companion插件.md"
-    },
-    {
-      "basename": "ob插件全列表",
-      "path": "05 常见问题/ob插件全列表.md"
-    },
-    {
-      "basename": "nothingislost",
-      "path": "01 2021新教程/nothingislost.md"
-    },
-    {
-      "basename": "快捷插入模板（Hotkeys for templates插件介绍）by 软通达",
-      "path": "01 2021新教程/快捷插入模板（Hotkeys for templates插件介绍）by 软通达.md"
-    },
-    {
-      "basename": "Hover editor（悬浮编辑插件）",
-      "path": "01 2021新教程/Hover editor（悬浮编辑插件）.md"
-    },
-    {
-      "basename": "ZH增强编辑插件",
-      "path": "01 2021新教程/ZH增强编辑插件.md"
-    },
-    {
-      "basename": "为什么无法查看和下载社区插件和主题（MOC）",
-      "path": "05 常见问题/为什么无法查看和下载社区插件和主题（MOC）.md"
-    },
-    {
-      "basename": "BRAT抢先体验未上架外掛 by 简睿",
-      "path": "01 2021新教程/BRAT抢先体验未上架外掛 by 简睿.md"
-    },
-    {
-      "basename": "视觉化表格编辑器(Markdown Table Editor) by 简睿",
-      "path": "01 2021新教程/视觉化表格编辑器(Markdown Table Editor) by 简睿.md"
-    },
-    {
-      "basename": "Markdown Formatting Assistant（md格式插件）",
-      "path": "01 2021新教程/Markdown Formatting Assistant（md格式插件）.md"
-    },
-    {
-      "basename": "Markdown Table Editor（表格插件）",
-      "path": "01 2021新教程/Markdown Table Editor（表格插件）.md"
-    },
-    {
-      "basename": "Obsidian Remotely Save 插件实现电脑和移动端同步 by yaozhuwa",
-      "path": "01 2021新教程/Obsidian Remotely Save 插件实现电脑和移动端同步 by yaozhuwa.md"
-    },
-    {
-      "basename": "PDF阅读笔记工作流的最佳实践 by fishyer",
-      "path": "01 2021新教程/PDF阅读笔记工作流的最佳实践 by fishyer.md"
+      "basename": "回归 Obsidian 的纯与真 by 屋边星光",
+      "path": "01 2021新教程/回归 Obsidian 的纯与真 by 屋边星光.md"
     },
     {
       "basename": "以ob为主的工作流（MOC）",
       "path": "01 2021新教程/以ob为主的工作流（MOC）.md"
     },
     {
-      "basename": "通过Templater提高ob移动端启动速度",
-      "path": "01 2021新教程/通过Templater提高ob移动端启动速度.md"
+      "basename": "如何安装并使用booknote插件 by Cuman",
+      "path": "01 2021新教程/如何安装并使用booknote插件 by Cuman.md"
     },
     {
-      "basename": "TfTHacker",
-      "path": "01 2021新教程/TfTHacker.md"
+      "basename": "自动导入标注到 Obsidian（不使用同步助手方案）by Kenshin",
+      "path": "01 2021新教程/自动导入标注到 Obsidian（不使用同步助手方案）by Kenshin.md"
     },
     {
-      "basename": "obsidian移动端（MOC）",
-      "path": "01 2021新教程/obsidian移动端（MOC）.md"
+      "basename": "2022年4月obsidian发布服务的阶段性总结 by 软通达",
+      "path": "01 2021新教程/2022年4月obsidian发布服务的阶段性总结 by 软通达.md"
     },
     {
-      "basename": "使用VSC批量替换Obsidian库中的字符  by 软通达",
-      "path": "01 2021新教程/使用VSC批量替换Obsidian库中的字符  by 软通达.md"
+      "basename": "obsius（第三方发布插件）",
+      "path": "01 2021新教程/obsius（第三方发布插件）.md"
     },
     {
-      "basename": "使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀",
-      "path": "01 2021新教程/使用Emeditor批量替换Obsidian所有文档指定字符_批量添加删除双链 by 八角经刀.md"
+      "basename": "Obsidian 发布服务",
+      "path": "01 2021新教程/Obsidian 发布服务.md"
     },
     {
-      "basename": "如何快速替换文字（MOC）",
-      "path": "01 2021新教程/如何快速替换文字（MOC）.md"
+      "basename": "obsidian教育和非盈利用户折扣",
+      "path": "01 2021新教程/obsidian教育和非盈利用户折扣.md"
     },
     {
-      "basename": "快速启动obsidian by TfTHacker",
-      "path": "09 碎记/快速启动obsidian by TfTHacker.md"
+      "basename": "购买obsidian的服务",
+      "path": "01 2021新教程/购买obsidian的服务.md"
     },
     {
-      "basename": "第三方同步插件（Remotely save介绍） by 软通达",
-      "path": "01 2021新教程/第三方同步插件（Remotely save介绍） by 软通达.md"
+      "basename": "如何以微信购买obsidian的同步、发布服务和insider",
+      "path": "09 碎记/如何以微信购买obsidian的同步、发布服务和insider.md"
     },
     {
-      "basename": "安装测试版插件（obsidian42-BRAT插件介绍） by 软通达",
-      "path": "01 2021新教程/安装测试版插件（obsidian42-BRAT插件介绍） by 软通达.md"
+      "basename": "一键发布Obsidian本地笔记到web by BCS",
+      "path": "01 2021新教程/一键发布Obsidian本地笔记到web by BCS.md"
     },
     {
-      "basename": "Spaced repetition插件用法说明 by LillianWho",
-      "path": "01 2021新教程/Spaced repetition插件用法说明 by LillianWho.md"
+      "basename": "Wordpress（第三方发布插件）",
+      "path": "01 2021新教程/Wordpress（第三方发布插件）.md"
     },
     {
-      "basename": "我对obsidian演示库和开箱即用库的思考",
-      "path": "09 碎记/我对obsidian演示库和开箱即用库的思考.md"
+      "basename": "mkdocs（第三方发布插件）",
+      "path": "01 2021新教程/mkdocs（第三方发布插件）.md"
     },
     {
-      "basename": "obsidian开箱即用库 by 落山鸡",
-      "path": "09 碎记/obsidian开箱即用库 by 落山鸡.md"
+      "basename": "Zotero desktop connector插件",
+      "path": "01 2021新教程/Zotero desktop connector插件.md"
     },
     {
-      "basename": "obsidian garden（演示库）by tanepiper",
-      "path": "01 2021新教程/obsidian garden（演示库）by tanepiper.md"
+      "basename": "卡片盒筆記：最高效思考筆記術（How to take smart notes 繁体中文版）",
+      "path": "01 2021新教程/卡片盒筆記：最高效思考筆記術（How to take smart notes 繁体中文版）.md"
+    },
+    {
+      "basename": "How to take smart notes",
+      "path": "01 2021新教程/How to take smart notes.md"
+    },
+    {
+      "basename": "用obsdiain模拟thebrain（基于Excalidraw和Breadcrumb）",
+      "path": "01 2021新教程/用obsdiain模拟thebrain（基于Excalidraw和Breadcrumb）.md"
+    },
+    {
+      "basename": "Local REST API支持其他主机访问配置 by 宏沉一笑",
+      "path": "01 2021新教程/Local REST API支持其他主机访问配置 by 宏沉一笑.md"
+    },
+    {
+      "basename": "让 Obsidian local REST API 插件和 Memos 联用起来 by Bon",
+      "path": "01 2021新教程/让 Obsidian local REST API 插件和 Memos 联用起来 by Bon.md"
+    },
+    {
+      "basename": "Local REST插件",
+      "path": "01 2021新教程/Local REST插件.md"
+    },
+    {
+      "basename": "obsidian的Bug（MOC）",
+      "path": "01 2021新教程/obsidian的Bug（MOC）.md"
+    },
+    {
+      "basename": "基于bibnotes插件实现zotero和obsidian联动 by 阿狸的Blog",
+      "path": "01 2021新教程/基于bibnotes插件实现zotero和obsidian联动 by 阿狸的Blog.md"
+    },
+    {
+      "basename": "Bibnotes（Zotero插件）",
+      "path": "01 2021新教程/Bibnotes（Zotero插件）.md"
+    },
+    {
+      "basename": "Obsidian中的notion表格（Notion like tables插件介绍） by BCS",
+      "path": "01 2021新教程/Obsidian中的notion表格（Notion like tables插件介绍） by BCS.md"
+    },
+    {
+      "basename": "ob插件全列表",
+      "path": "05 常见问题/ob插件全列表.md"
+    },
+    {
+      "basename": "Notion like tables（表格增强插件）",
+      "path": "01 2021新教程/Notion like tables（表格增强插件）.md"
+    },
+    {
+      "basename": "2021年新教程",
+      "path": "01 2021新教程/2021年新教程.md"
+    },
+    {
+      "basename": "基于ELL扩展获得YouTube双语字幕时间戳并在Obsidian中复用 by 彭文波",
+      "path": "01 2021新教程/基于ELL扩展获得YouTube双语字幕时间戳并在Obsidian中复用 by 彭文波.md"
+    },
+    {
+      "basename": "用ob学英语基于Templater和Spaced repetition by 软通达",
+      "path": "01 2021新教程/用ob学英语基于Templater和Spaced repetition by 软通达.md"
+    },
+    {
+      "basename": "使用ob进行英语学习（MOC）",
+      "path": "01 2021新教程/使用ob进行英语学习（MOC）.md"
     }
   ],
   "omittedPaths": [],

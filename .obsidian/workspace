@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "03b9029c0e383c12",
+        "id": "4f228307b0ef4bb8",
         "type": "leaf",
+        "dimension": 42.872117400419285,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -18,17 +19,16 @@
         }
       },
       {
-        "id": "1290ff84f6ad3f91",
+        "id": "c7897b82090a383b",
         "type": "leaf",
-        "pinned": true,
+        "dimension": 57.127882599580715,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 2021新教程/对比不同版本文本差异（Sync version history插件介绍） by 软通达.md",
+            "file": "01 2021新教程/Regex Pipeline（正则插件）.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 273,
-    "collapsed": true
+    "width": 273
   },
   "right": {
     "id": "d1099c8434716628",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+                "file": "01 2021新教程/Regex Pipeline（正则插件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+                "file": "01 2021新教程/Regex Pipeline（正则插件）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,28 +150,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+                "file": "01 2021新教程/Regex Pipeline（正则插件）.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 425
+    "width": 247
   },
-  "active": "03b9029c0e383c12",
+  "active": "c7897b82090a383b",
   "lastOpenFiles": [
+    "01 2021新教程/Regex Pipeline（正则插件）.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/基于Quicker动作可视化学习Dataview插件检索语法 by 蚕子.md",
-    "01 2021新教程/对比不同版本文本差异（Sync version history插件介绍） by 软通达.md",
-    "01 2021新教程/文件恢复（File Recovery，核心插件）.md",
-    "03 教程/如何同步obsidian文件（MOC）.md",
-    "01 2021新教程/同步（sync核心插件）.md",
-    "01 2021新教程/悬浮编辑（Hover editor插件介绍）by 软通达.md",
-    "01 2021新教程/Sync version history（对比插件）.md",
-    "01 2021新教程/Obsidian使用Remotely Save 和阿里云 OSS 实现多平台同步 by zm.md",
-    "01 2021新教程/Remotely save（同步插件）.md"
+    "01 2021新教程/Kity mind（百度脑图插件）.md",
+    "01 2021新教程/Block reference count（计算块引用插件）.md",
+    "01 2021新教程/使用ob发布服务的站点.md",
+    "01 2021新教程/Obsidian-Dataview文档（中文翻译版）  by 性别只有一个字.md",
+    "01 2021新教程/Enhancing export（增强导出插件）.md",
+    "01 2021新教程/自定义Callouts样式 by 软通达.md",
+    "01 2021新教程/obsidian主题设置.md",
+    "01 2021新教程/Callout语法.md"
   ]
 }
