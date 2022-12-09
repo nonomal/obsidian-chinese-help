@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 2021新教程/如何自动发布obsidian库或logseq库为网站 by  fishyer.md",
+            "file": "01 2021新教程/使用ob发布服务的站点.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 2021新教程/如何自动发布obsidian库或logseq库为网站 by  fishyer.md",
+                "file": "01 2021新教程/使用ob发布服务的站点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/如何自动发布obsidian库或logseq库为网站 by  fishyer.md",
+                "file": "01 2021新教程/使用ob发布服务的站点.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/如何自动发布obsidian库或logseq库为网站 by  fishyer.md"
+                "file": "01 2021新教程/使用ob发布服务的站点.md"
               }
             }
           }
@@ -157,19 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 357
   },
   "active": "46b098cf61ad728c",
   "lastOpenFiles": [
-    "01 2021新教程/如何自动发布obsidian库或logseq库为网站 by  fishyer.md",
-    "01 2021新教程/2022年4月obsidian发布服务的阶段性总结 by 软通达.md",
-    "07 信息源与贡献者/awesome obsidian by kmaasrud.md",
-    "07 信息源与贡献者/obsidian的信息源（MOC）.md",
-    "01 2021新教程/Obsidian 发布服务.md",
-    "01 2021新教程/购买obsidian的服务.md",
-    "01 2021新教程/发布（publish核心插件）.md",
-    "01 2021新教程/Translator（依托有道云的字典插件）.md",
+    "09 碎记/人生管理系统 (LMS，开箱即用库） by ChenInDe.md",
+    "09 碎记/ob开箱即用库.md",
+    "01 2021新教程/使用ob发布服务的站点.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "01 2021新教程/使用ob进行英语学习（MOC）.md"
+    "09 碎记/BCS’s Vault for Researchers（科研人的开箱即用库） by BCS.md",
+    "01 2021新教程/双向连接的论述（MOC）.md",
+    "01 2021新教程/双向连接(moc).md",
+    "01 2021新教程/双向链接.md",
+    "01 2021新教程/双链.md",
+    "01 2021新教程/obsidian hub（ob发布站点）.md"
   ]
 }

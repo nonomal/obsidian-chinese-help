@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "6101aedacb9b27b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c047eba3d61d34dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64af33589799ccbb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "教程地图（白板）.canvas",
+                "viewState": {
+                  "x": 30.54853943829272,
+                  "y": -16.92558698518227,
+                  "zoom": -0.3333333333333332,
+                  "snapToGrid": false
+                }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc55d976855eab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65c1f80858b074d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3597f79c5b27c9af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db7e8c6ccaa604de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "插件 数量",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26d092c2d390f458",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d1099c8434716628",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eba79828c876cf8",
+        "type": "tabs",
+        "dimension": 43.1064572425829,
+        "children": [
+          {
+            "id": "4337befee945cf80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "412338f7fb295d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "教程地图（白板）.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "90e8023c13058471",
+        "type": "tabs",
+        "dimension": 56.8935427574171,
+        "children": [
+          {
+            "id": "88ed39b655f9d3d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "教程地图（白板）.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f3df5a973f22523",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db51fe1a0df17835",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "教程地图（白板）.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "64af33589799ccbb",
+  "lastOpenFiles": [
+    "01 2021新教程/购买obsidian的服务.md",
+    "教程地图（白板）.canvas",
+    "01 2021新教程/2022年4月obsidian发布服务的阶段性总结 by 软通达.md",
+    "01 2021新教程/Github publisher（第三方发布插件）.md",
+    "01 2021新教程/下载ob中文教程.md",
+    "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
+    "01 2021新教程/obsidian新手入门（MOC）.md",
+    "找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker.md",
+    "01 2021新教程/以ob为主的工作流（MOC）.md",
+    "01 2021新教程/我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian.md"
+  ]
+}

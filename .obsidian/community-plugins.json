@@ -1,10 +1,8 @@
 [
+  "obsidian-image-auto-upload-plugin",
   "recent-files-obsidian",
-  "obsidian-annotator",
-  "cm-chs-patch",
-  "dataview",
-  "breadcrumbs",
+  "obsidian-float-toc-plugin",
+  "obsidian-commits",
   "templater-obsidian",
-  "remotely-save",
-  "obsidian-float-toc-plugin"
+  "cm-chs-patch"
 ]

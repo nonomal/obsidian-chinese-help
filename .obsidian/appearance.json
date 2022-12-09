@@ -1,7 +1,5 @@
 {
-  "theme": "moonstone",
-  "baseFontSize": 20,
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [],
-  "cssTheme": "Blue Topaz"
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone"
 }

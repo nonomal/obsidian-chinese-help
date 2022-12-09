@@ -1,12 +1,5 @@
 {
-  "obsidianCss": false,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "Attachment",
-  "readableLineLength": false,
-  "promptDelete": false,
   "autoConvertHtml": false,
-  "livePreview": true,
-  "defaultViewMode": "preview",
-  "legacyEditor": false
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
