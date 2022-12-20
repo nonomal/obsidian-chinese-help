@@ -1,12 +1,152 @@
 {
   "recentFiles": [
     {
+      "basename": "ob 1.1.8版本公开发布，白板功能正式实装",
+      "path": "ob 1.1.8版本公开发布，白板功能正式实装.md"
+    },
+    {
+      "basename": "Canvas randomnote（白板插件）",
+      "path": "Canvas randomnote（白板插件）.md"
+    },
+    {
+      "basename": "Canvas Presentation(白板插件 )",
+      "path": "Canvas Presentation(白板插件 ).md"
+    },
+    {
+      "basename": "Link Nodes In Canvas（白板插件）",
+      "path": "Link Nodes In Canvas（白板插件）.md"
+    },
+    {
+      "basename": "Canvas MindMap(白板插件)",
+      "path": "Canvas MindMap(白板插件).md"
+    },
+    {
+      "basename": "Obsidian插件列表与教程（MOC）",
+      "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+    },
+    {
       "basename": "教程地图（白板）",
       "path": "教程地图（白板）.canvas"
     },
     {
+      "basename": "了解 Obsidian Catalyst by 青柠学术",
+      "path": "了解 Obsidian Catalyst by 青柠学术.md"
+    },
+    {
+      "basename": "bramses-highly-opinionated-vault-2023 by bramses",
+      "path": "bramses-highly-opinionated-vault-2023 by bramses.md"
+    },
+    {
+      "basename": "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术",
+      "path": "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术.md"
+    },
+    {
+      "basename": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达",
+      "path": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达.md"
+    },
+    {
+      "basename": "Text Generator（AI写作插件）",
+      "path": "Text Generator（AI写作插件）.md"
+    },
+    {
+      "basename": "ob开箱即用库",
+      "path": "09 碎记/ob开箱即用库.md"
+    },
+    {
+      "basename": "自定义侧边栏（Customizable Sidebar插件介绍） by 软通达",
+      "path": "01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md"
+    },
+    {
+      "basename": "Commander插件",
+      "path": "01 2021新教程/Commander插件.md"
+    },
+    {
+      "basename": "Customizable Sidebar（自定义侧边栏插件）",
+      "path": "01 2021新教程/Customizable Sidebar（自定义侧边栏插件）.md"
+    },
+    {
+      "basename": "Better Command Palette（命令插件）",
+      "path": "01 2021新教程/Better Command Palette（命令插件）.md"
+    },
+    {
+      "basename": "Mindmap nextgen （思维导图插件）",
+      "path": "Mindmap nextgen （思维导图插件）.md"
+    },
+    {
+      "basename": "Tree edit(树形写作插件)",
+      "path": "01 2021新教程/Tree edit(树形写作插件).md"
+    },
+    {
+      "basename": "Dataview插件的quicker动作 by 李考凡",
+      "path": "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md"
+    },
+    {
+      "basename": "负性玻色子",
+      "path": "负性玻色子.md"
+    },
+    {
+      "basename": "obsidian的信息源（MOC）",
+      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
+    },
+    {
+      "basename": "Markdown实现块级引用双向链接的探索 by D",
+      "path": "09 碎记/Markdown实现块级引用双向链接的探索 by D.md"
+    },
+    {
+      "basename": "D",
+      "path": "07 信息源与贡献者/D.md"
+    },
+    {
+      "basename": "为什么markdown语法加粗失效",
+      "path": "05 常见问题/为什么markdown语法加粗失效.md"
+    },
+    {
+      "basename": "202012090835Markdown语言是一种标记语言",
+      "path": "09 碎记/202012090835Markdown语言是一种标记语言.md"
+    },
+    {
+      "basename": "Obsidian的白板比Heptabase好吗 by 风尘噗噗",
+      "path": "Obsidian的白板比Heptabase好吗 by 风尘噗噗.md"
+    },
+    {
+      "basename": "obsidian42 strange new worlds  （计算引用插件）",
+      "path": "01 2021新教程/obsidian42 strange new worlds  （计算引用插件）.md"
+    },
+    {
+      "basename": "Block reference count（计算块引用插件）",
+      "path": "01 2021新教程/Block reference count（计算块引用插件）.md"
+    },
+    {
+      "basename": "如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽",
+      "path": "如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽.md"
+    },
+    {
+      "basename": "使用ob进行视频学习",
+      "path": "01 2021新教程/使用ob进行视频学习.md"
+    },
+    {
+      "basename": "用Obsidian学习英文 Language Learner by 简睿",
+      "path": "用Obsidian学习英文 Language Learner by 简睿.md"
+    },
+    {
+      "basename": "Language learner（类LingQ英语学习插件）",
+      "path": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
+    },
+    {
       "basename": "购买obsidian的服务",
       "path": "01 2021新教程/购买obsidian的服务.md"
+    },
+    {
+      "basename": "白板插件（Canvas）",
+      "path": "白板插件（Canvas）.md"
+    },
+    {
+      "basename": "Obsidian 插件 Easy Typing 极大地提升中文用户在OB中的编辑体验 by 咬猪娃",
+      "path": "Obsidian 插件 Easy Typing 极大地提升中文用户在OB中的编辑体验 by 咬猪娃.md"
+    },
+    {
+      "basename": "Easy Typing（编辑增强插件）",
+      "path": "Easy Typing（编辑增强插件）.md"
     },
     {
       "basename": "2022年4月obsidian发布服务的阶段性总结 by 软通达",
@@ -19,10 +159,6 @@
     {
       "basename": "下载ob中文教程",
       "path": "01 2021新教程/下载ob中文教程.md"
-    },
-    {
-      "basename": "Obsidian插件列表与教程（MOC）",
-      "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
     },
     {
       "basename": "obsidian新手入门（MOC）",
@@ -57,148 +193,12 @@
       "path": "Various complements插件.md"
     },
     {
-      "basename": "obsidian的信息源（MOC）",
-      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
-    },
-    {
       "basename": "New Bullet With Time（在列表中添加时间的插件）",
       "path": "New Bullet With Time（在列表中添加时间的插件）.md"
     },
     {
       "basename": "Johnny学",
       "path": "07 信息源与贡献者/Johnny学.md"
-    },
-    {
-      "basename": "Obsidian插件周刊 by 二丫讲梵",
-      "path": "07 信息源与贡献者/Obsidian插件周刊 by 二丫讲梵.md"
-    },
-    {
-      "basename": "白板插件（Canvas）",
-      "path": "白板插件（Canvas）.md"
-    },
-    {
-      "basename": "简悦开箱即用库 by Kenshin",
-      "path": "01 2021新教程/简悦开箱即用库 by Kenshin.md"
-    },
-    {
-      "basename": "使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin",
-      "path": "09 碎记/使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin.md"
-    },
-    {
-      "basename": "How to take smart notes",
-      "path": "01 2021新教程/How to take smart notes.md"
-    },
-    {
-      "basename": "Local REST插件",
-      "path": "01 2021新教程/Local REST插件.md"
-    },
-    {
-      "basename": "第三方同步插件（Remotely save介绍） by 软通达",
-      "path": "01 2021新教程/第三方同步插件（Remotely save介绍） by 软通达.md"
-    },
-    {
-      "basename": "Linter（格式刷插件）",
-      "path": "Linter（格式刷插件）.md"
-    },
-    {
-      "basename": "Relation Pane插件",
-      "path": "01 2021新教程/Relation Pane插件.md"
-    },
-    {
-      "basename": "Pasted image 20221103103812",
-      "path": "Attachment/Pasted image 20221103103812.png"
-    },
-    {
-      "basename": "Pasted image 20221120170740",
-      "path": "Attachment/Pasted image 20221120170740.png"
-    },
-    {
-      "basename": "005 active MOC",
-      "path": "01 2021新教程/005 active MOC.md"
-    },
-    {
-      "basename": "obsidian的里程碑版本",
-      "path": "01 2021新教程/obsidian的里程碑版本.md"
-    },
-    {
-      "basename": "人工智能插件",
-      "path": "01 2021新教程/人工智能插件.md"
-    },
-    {
-      "basename": "Surfing(Html浏览插件)",
-      "path": "01 2021新教程/Surfing(Html浏览插件).md"
-    },
-    {
-      "basename": "OmniSearch（检索增强插件）",
-      "path": "01 2021新教程/OmniSearch（检索增强插件）.md"
-    },
-    {
-      "basename": "简睿学堂 107 Obsidian全方位搜寻",
-      "path": "01 2021新教程/简睿学堂 107 Obsidian全方位搜寻.md"
-    },
-    {
-      "basename": "ob笔记分享列表",
-      "path": "02 ob笔记分享/ob笔记分享列表.md"
-    },
-    {
-      "basename": "Md实用标签 by LincZero",
-      "path": "01 2021新教程/Md实用标签 by LincZero.md"
-    },
-    {
-      "basename": "LincZero",
-      "path": "01 2021新教程/LincZero.md"
-    },
-    {
-      "basename": "简睿",
-      "path": "07 信息源与贡献者/简睿.md"
-    },
-    {
-      "basename": "Obsidian Onboarding by Danny Hatcher",
-      "path": "01 2021新教程/Obsidian Onboarding by Danny Hatcher.md"
-    },
-    {
-      "basename": "DB FOLDER（数据插件）",
-      "path": "01 2021新教程/DB FOLDER（数据插件）.md"
-    },
-    {
-      "basename": "简睿学堂 106 奇异新世界插件",
-      "path": "01 2021新教程/简睿学堂 106 奇异新世界插件.md"
-    },
-    {
-      "basename": "Strange New Worlds 插件",
-      "path": "01 2021新教程/Strange New Worlds 插件.md"
-    },
-    {
-      "basename": "把Obsidian当网页浏览器是什么体验 by Cuman",
-      "path": "01 2021新教程/把Obsidian当网页浏览器是什么体验 by Cuman.md"
-    },
-    {
-      "basename": "把ob当做一个浏览器（Another Web browser插件介绍） by 软通达",
-      "path": "01 2021新教程/把ob当做一个浏览器（Another Web browser插件介绍） by 软通达.md"
-    },
-    {
-      "basename": "ObsiDOOM（游戏）",
-      "path": "01 2021新教程/ObsiDOOM（游戏）.md"
-    },
-    {
-      "basename": "AI Text Generation （AI写作插件）",
-      "path": "01 2021新教程/AI Text Generation （AI写作插件）.md"
-    },
-    {
-      "basename": "202009131331卡片法的践行者-吴晗",
-      "path": "09 碎记/202009131331卡片法的践行者-吴晗.md"
-    },
-    {
-      "basename": "卢曼序号",
-      "path": "01 2021新教程/卢曼序号.md"
-    },
-    {
-      "basename": "卢曼卡片",
-      "path": "01 2021新教程/卢曼卡片.md"
-    },
-    {
-      "basename": "卡片写作软件",
-      "path": "01 2021新教程/卡片写作软件.md"
     }
   ],
   "omittedPaths": [],
