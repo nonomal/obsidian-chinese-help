@@ -21,28 +21,8 @@
       "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
     },
     {
-      "basename": "教程地图（白板）",
-      "path": "教程地图（白板）.canvas"
-    },
-    {
-      "basename": "Canvas Block Reference（白板块引用插件）",
-      "path": "Canvas Block Reference（白板块引用插件）.md"
-    },
-    {
-      "basename": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达",
-      "path": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md"
-    },
-    {
-      "basename": "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛",
-      "path": "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md"
-    },
-    {
       "basename": "树叶笔记法",
       "path": "01 2021新教程/树叶笔记法.md"
-    },
-    {
-      "basename": "Canvas Hole（白板插件）",
-      "path": "Canvas Hole（白板插件）.md"
     },
     {
       "basename": "obsidian的里程碑版本",
@@ -61,42 +41,6 @@
       "path": "01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md"
     },
     {
-      "basename": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达",
-      "path": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达.md"
-    },
-    {
-      "basename": "Canvas randomnote（白板插件）",
-      "path": "Canvas randomnote（白板插件）.md"
-    },
-    {
-      "basename": "Canvas Presentation(白板插件 )",
-      "path": "Canvas Presentation(白板插件 ).md"
-    },
-    {
-      "basename": "Link Nodes In Canvas（白板插件）",
-      "path": "Link Nodes In Canvas（白板插件）.md"
-    },
-    {
-      "basename": "Canvas MindMap(白板插件)",
-      "path": "Canvas MindMap(白板插件).md"
-    },
-    {
-      "basename": "了解 Obsidian Catalyst by 青柠学术",
-      "path": "了解 Obsidian Catalyst by 青柠学术.md"
-    },
-    {
-      "basename": "bramses-highly-opinionated-vault-2023 by bramses",
-      "path": "bramses-highly-opinionated-vault-2023 by bramses.md"
-    },
-    {
-      "basename": "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术",
-      "path": "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术.md"
-    },
-    {
-      "basename": "Text Generator（AI写作插件）",
-      "path": "Text Generator（AI写作插件）.md"
-    },
-    {
       "basename": "ob开箱即用库",
       "path": "09 碎记/ob开箱即用库.md"
     },
@@ -113,16 +57,8 @@
       "path": "01 2021新教程/Better Command Palette（命令插件）.md"
     },
     {
-      "basename": "Mindmap nextgen （思维导图插件）",
-      "path": "Mindmap nextgen （思维导图插件）.md"
-    },
-    {
       "basename": "Tree edit(树形写作插件)",
       "path": "01 2021新教程/Tree edit(树形写作插件).md"
-    },
-    {
-      "basename": "负性玻色子",
-      "path": "负性玻色子.md"
     },
     {
       "basename": "obsidian的信息源（MOC）",
@@ -145,10 +81,6 @@
       "path": "09 碎记/202012090835Markdown语言是一种标记语言.md"
     },
     {
-      "basename": "Obsidian的白板比Heptabase好吗 by 风尘噗噗",
-      "path": "Obsidian的白板比Heptabase好吗 by 风尘噗噗.md"
-    },
-    {
       "basename": "obsidian42 strange new worlds  （计算引用插件）",
       "path": "01 2021新教程/obsidian42 strange new worlds  （计算引用插件）.md"
     },
@@ -157,32 +89,12 @@
       "path": "01 2021新教程/Block reference count（计算块引用插件）.md"
     },
     {
-      "basename": "如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽",
-      "path": "如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽.md"
-    },
-    {
       "basename": "使用ob进行视频学习",
       "path": "01 2021新教程/使用ob进行视频学习.md"
     },
     {
-      "basename": "用Obsidian学习英文 Language Learner by 简睿",
-      "path": "用Obsidian学习英文 Language Learner by 简睿.md"
-    },
-    {
       "basename": "购买obsidian的服务",
       "path": "01 2021新教程/购买obsidian的服务.md"
-    },
-    {
-      "basename": "白板插件（Canvas）",
-      "path": "白板插件（Canvas）.md"
-    },
-    {
-      "basename": "Obsidian 插件 Easy Typing 极大地提升中文用户在OB中的编辑体验 by 咬猪娃",
-      "path": "Obsidian 插件 Easy Typing 极大地提升中文用户在OB中的编辑体验 by 咬猪娃.md"
-    },
-    {
-      "basename": "Easy Typing（编辑增强插件）",
-      "path": "Easy Typing（编辑增强插件）.md"
     },
     {
       "basename": "2022年4月obsidian发布服务的阶段性总结 by 软通达",

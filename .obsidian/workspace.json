@@ -12,12 +12,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -26,12 +22,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -40,16 +32,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "教程地图（白板）.canvas",
-                "viewState": {
-                  "x": -191.13067098697326,
-                  "y": -11.467131237854476,
-                  "zoom": -0.749172912942186,
-                  "snapToGrid": false
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
