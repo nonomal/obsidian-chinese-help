@@ -28,33 +28,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ob 1.1.8版本公开发布，白板功能正式实装.md",
+                "file": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d260077ac1d29060",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "db08fb17351a4afe",
+            "id": "d59d9f3d52c00b3e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "教程地图（白板）.canvas",
+                "viewState": {
+                  "x": -191.13067098697326,
+                  "y": -11.467131237854476,
+                  "zoom": -0.749172912942186,
+                  "snapToGrid": false
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "aa98e132fdb83b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canvas randomnote（白板插件）.md",
+                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "侧边栏",
+                "query": "bon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ob 1.1.8版本公开发布，白板功能正式实装.md",
+                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ob 1.1.8版本公开发布，白板功能正式实装.md",
+                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ob 1.1.8版本公开发布，白板功能正式实装.md"
+                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
               }
             }
           }
@@ -198,17 +210,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "00afdbd982279e14",
+  "active": "aa98e132fdb83b07",
   "lastOpenFiles": [
-    "Canvas randomnote（白板插件）.md",
-    "ob 1.1.8版本公开发布，白板功能正式实装.md",
-    "Canvas Presentation(白板插件 ).md",
-    "Link Nodes In Canvas（白板插件）.md",
-    "Canvas MindMap(白板插件).md",
+    "01 2021新教程/Memos插件开发者自述 by Bon.md",
+    "07 信息源与贡献者/Boninall.md",
+    "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
     "教程地图（白板）.canvas",
-    "了解 Obsidian Catalyst by 青柠学术.md",
-    "bramses-highly-opinionated-vault-2023 by bramses.md",
-    "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术.md"
+    "Canvas Block Reference（白板块引用插件）.md",
+    "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md",
+    "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md",
+    "01 2021新教程/树叶笔记法.md",
+    "Canvas Hole（白板插件）.md"
   ]
 }

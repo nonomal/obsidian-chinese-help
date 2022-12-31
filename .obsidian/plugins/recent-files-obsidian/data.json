@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "ob 1.1.8版本公开发布，白板功能正式实装",
-      "path": "ob 1.1.8版本公开发布，白板功能正式实装.md"
+      "basename": "Language learner（类LingQ英语学习插件）",
+      "path": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
+    },
+    {
+      "basename": "Memos插件开发者自述 by Bon",
+      "path": "01 2021新教程/Memos插件开发者自述 by Bon.md"
+    },
+    {
+      "basename": "Boninall",
+      "path": "07 信息源与贡献者/Boninall.md"
+    },
+    {
+      "basename": "Dataview插件的quicker动作 by 李考凡",
+      "path": "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md"
+    },
+    {
+      "basename": "Obsidian插件列表与教程（MOC）",
+      "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
+    },
+    {
+      "basename": "教程地图（白板）",
+      "path": "教程地图（白板）.canvas"
+    },
+    {
+      "basename": "Canvas Block Reference（白板块引用插件）",
+      "path": "Canvas Block Reference（白板块引用插件）.md"
+    },
+    {
+      "basename": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达",
+      "path": "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md"
+    },
+    {
+      "basename": "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛",
+      "path": "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md"
+    },
+    {
+      "basename": "树叶笔记法",
+      "path": "01 2021新教程/树叶笔记法.md"
+    },
+    {
+      "basename": "Canvas Hole（白板插件）",
+      "path": "Canvas Hole（白板插件）.md"
+    },
+    {
+      "basename": "obsidian的里程碑版本",
+      "path": "01 2021新教程/obsidian的里程碑版本.md"
+    },
+    {
+      "basename": "theBrain免费替代品excalibrain上手尝鲜 by 玉树芝兰",
+      "path": "01 2021新教程/theBrain免费替代品excalibrain上手尝鲜 by 玉树芝兰.md"
+    },
+    {
+      "basename": "Excalidraw插件",
+      "path": "01 2021新教程/Excalidraw插件.md"
+    },
+    {
+      "basename": "自定义侧边栏（Customizable Sidebar插件介绍） by 软通达",
+      "path": "01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md"
+    },
+    {
+      "basename": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达",
+      "path": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达.md"
     },
     {
       "basename": "Canvas randomnote（白板插件）",
@@ -21,14 +81,6 @@
       "path": "Canvas MindMap(白板插件).md"
     },
     {
-      "basename": "Obsidian插件列表与教程（MOC）",
-      "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
-    },
-    {
-      "basename": "教程地图（白板）",
-      "path": "教程地图（白板）.canvas"
-    },
-    {
       "basename": "了解 Obsidian Catalyst by 青柠学术",
       "path": "了解 Obsidian Catalyst by 青柠学术.md"
     },
@@ -41,20 +93,12 @@
       "path": "GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术.md"
     },
     {
-      "basename": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达",
-      "path": "将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达.md"
-    },
-    {
       "basename": "Text Generator（AI写作插件）",
       "path": "Text Generator（AI写作插件）.md"
     },
     {
       "basename": "ob开箱即用库",
       "path": "09 碎记/ob开箱即用库.md"
-    },
-    {
-      "basename": "自定义侧边栏（Customizable Sidebar插件介绍） by 软通达",
-      "path": "01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md"
     },
     {
       "basename": "Commander插件",
@@ -75,10 +119,6 @@
     {
       "basename": "Tree edit(树形写作插件)",
       "path": "01 2021新教程/Tree edit(树形写作插件).md"
-    },
-    {
-      "basename": "Dataview插件的quicker动作 by 李考凡",
-      "path": "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md"
     },
     {
       "basename": "负性玻色子",
@@ -129,10 +169,6 @@
       "path": "用Obsidian学习英文 Language Learner by 简睿.md"
     },
     {
-      "basename": "Language learner（类LingQ英语学习插件）",
-      "path": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
-    },
-    {
       "basename": "购买obsidian的服务",
       "path": "01 2021新教程/购买obsidian的服务.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "obsidian新手入门（MOC）",
       "path": "01 2021新教程/obsidian新手入门（MOC）.md"
-    },
-    {
-      "basename": "找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker",
-      "path": "找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker.md"
-    },
-    {
-      "basename": "以ob为主的工作流（MOC）",
-      "path": "01 2021新教程/以ob为主的工作流（MOC）.md"
-    },
-    {
-      "basename": "我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian",
-      "path": "01 2021新教程/我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian.md"
-    },
-    {
-      "basename": "笔记方法论（MOC）",
-      "path": "01 2021新教程/笔记方法论（MOC）.md"
-    },
-    {
-      "basename": "2022年的ob使用总结 by 软通达",
-      "path": "01 2021新教程/2022年的ob使用总结 by 软通达.md"
-    },
-    {
-      "basename": "Furigana（注音插件）",
-      "path": "01 2021新教程/Furigana（注音插件）.md"
-    },
-    {
-      "basename": "Various complements插件",
-      "path": "Various complements插件.md"
-    },
-    {
-      "basename": "New Bullet With Time（在列表中添加时间的插件）",
-      "path": "New Bullet With Time（在列表中添加时间的插件）.md"
-    },
-    {
-      "basename": "Johnny学",
-      "path": "07 信息源与贡献者/Johnny学.md"
     }
   ],
   "omittedPaths": [],

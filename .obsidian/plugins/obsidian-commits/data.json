@@ -2612,7 +2612,7 @@
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md": {
       "size": 19756,
       "tags": 0,
-      "links": 388
+      "links": 391
     },
     "01 2021新教程/obsidian插件之dataview入门 by  Lillian.md": {
       "size": 111,
@@ -6199,11 +6199,6 @@
       "tags": 0,
       "links": 0
     },
-    "ob 1.1.8版本公开发布，白板功能正式实装.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 5
-    },
     "Canvas MindMap(白板插件).md": {
       "size": 0,
       "tags": 0,
@@ -6218,14 +6213,34 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md": {
+      "size": 2597,
+      "tags": 0,
+      "links": 7
+    },
+    "Canvas Hole（白板插件）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Canvas Block Reference（白板块引用插件）.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1487,
-      "Create": 1020,
-      "Link": 1484,
-      "Expand": 73
+      "Refactor": 1488,
+      "Create": 1023,
+      "Link": 1489,
+      "Expand": 75
     }
   },
   "dailyCommits": {
@@ -6235,21 +6250,21 @@
       "2": 0,
       "3": 0,
       "4": 0,
-      "5": 7,
+      "5": 8,
       "6": 0,
       "7": 40,
       "8": 114,
       "9": 139,
-      "10": 71,
+      "10": 73,
       "11": 84,
       "12": 52,
-      "13": 64,
-      "14": 41,
+      "13": 68,
+      "14": 43,
       "15": 440,
       "16": 83,
       "17": 1391,
       "18": 98,
-      "19": 150,
+      "19": 152,
       "20": 570,
       "21": 189,
       "22": 375,
@@ -6259,9 +6274,9 @@
   "weeklyCommits": {
     "/": {
       "Mon": 458,
-      "Tue": 366,
-      "Wed": 589,
-      "Thu": 271,
+      "Tue": 368,
+      "Wed": 594,
+      "Thu": 275,
       "Fri": 207,
       "Sat": 0,
       "Sun": 2173
@@ -6270,6 +6285,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md\"> ob 1.1.8版本公开发布，白板功能正式实装 by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装.md\"> ob 1.1.8版本公开发布，白板功能正式实装 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（MOC）.md\"> 以ob为主的工作流（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/2022年的ob总结 by 软通达.md\"> 2022年的ob总结 by 软通达 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/2022年的ob总结 by 软通达.md\"> 2022年的ob总结 by 软通达 </a>",
@@ -6318,11 +6335,12 @@
         "<a class=\"internal-link\" href=\"02 名词解释/寻找孤立文件（Find unlinked files插件介绍）.md\"> 寻找孤立文件（Find unlinked files插件介绍） </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/寻找孤立文件（Find unlinked files插件介绍）.md\"> 寻找孤立文件（Find unlinked files插件介绍） </a>",
         "<a class=\"internal-link\" href=\"02 名词解释/obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达.md\"> obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达 </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
-        "<a class=\"internal-link\" href=\"02 名词解释/如何备份ob文件（版本控制）（MOC）.md\"> 如何备份ob文件（版本控制）（MOC） </a>",
-        "<a class=\"internal-link\" href=\"06 ob官方帮助文档（节选）/格式化你的笔记 by ob官方.md\"> 格式化你的笔记 by ob官方 </a>"
+        "<a class=\"internal-link\" href=\"02 名词解释/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Canvas Block Reference（白板块引用插件）.md\"> Canvas Block Reference（白板块引用插件） </a>",
+        "<a class=\"internal-link\" href=\"知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md\"> 知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛 </a>",
+        "<a class=\"internal-link\" href=\"Canvas Hole（白板插件）.md\"> Canvas Hole（白板插件） </a>",
         "<a class=\"internal-link\" href=\"Canvas randomnote（白板插件）.md\"> Canvas randomnote（白板插件） </a>",
         "<a class=\"internal-link\" href=\"Canvas Presentation(白板插件 ).md\"> Canvas Presentation(白板插件 ) </a>",
         "<a class=\"internal-link\" href=\"Canvas MindMap(白板插件).md\"> Canvas MindMap(白板插件) </a>",
@@ -6370,12 +6388,10 @@
         "<a class=\"internal-link\" href=\"Dataview插件的quicker助手.md\"> Dataview插件的quicker助手 </a>",
         "<a class=\"internal-link\" href=\"the_great_learning 基于memos的obsidian开箱即用库 by  傲骄笔记.md\"> the_great_learning 基于memos的obsidian开箱即用库 by  傲骄笔记 </a>",
         "<a class=\"internal-link\" href=\"XMind&Obsidian联用库 by 及时春雨.md\"> XMind&Obsidian联用库 by 及时春雨 </a>",
-        "<a class=\"internal-link\" href=\"动漫-蓝色监狱.md\"> 动漫-蓝色监狱 </a>",
-        "<a class=\"internal-link\" href=\"使用docker安装obsidian，使其web化并能进行协同.md\"> 使用docker安装obsidian，使其web化并能进行协同 </a>",
-        "<a class=\"internal-link\" href=\"Flowershow.md\"> Flowershow </a>",
-        "<a class=\"internal-link\" href=\"每日笔记、日程管理、工作复盘 by 二一的笔记.md\"> 每日笔记、日程管理、工作复盘 by 二一的笔记 </a>"
+        "<a class=\"internal-link\" href=\"动漫-蓝色监狱.md\"> 动漫-蓝色监狱 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md\"> ob 1.1.8版本公开发布，白板功能正式实装 by 软通达 </a>",
         "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装.md\"> ob 1.1.8版本公开发布，白板功能正式实装 </a>",
         "<a class=\"internal-link\" href=\"GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术.md\"> GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术 </a>",
         "<a class=\"internal-link\" href=\"GPT-3 驱动下的 Obsidian AI 辅助写作插件 by  青柠学术 （Text Generator）.md\"> GPT-3 驱动下的 Obsidian AI 辅助写作插件 by  青柠学术 （Text Generator） </a>",
@@ -6425,8 +6441,7 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/Checklist（TODO插件）.md\"> Checklist（TODO插件） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Better Command Palette（命令插件）.md\"> Better Command Palette（命令插件） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Basic Dataview Query Builder by s-blu.md\"> Basic Dataview Query Builder by s-blu </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Android手机上剪藏笔记到Obsidian by 老苏.md\"> Android手机上剪藏笔记到Obsidian by 老苏 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/AI Text Generation （AI写作插件）.md\"> AI Text Generation （AI写作插件） </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/Android手机上剪藏笔记到Obsidian by 老苏.md\"> Android手机上剪藏笔记到Obsidian by 老苏 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Obsidian 的 YAML Front matter 介绍 by Bon.md\"> Obsidian 的 YAML Front matter 介绍 by Bon </a>",
@@ -6510,6 +6525,11 @@
         "<a class=\"internal-link\" href=\"02 名词解释/使用ob进行英语学习（MOC）.md\"> 使用ob进行英语学习（MOC） </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md\"> ob 1.1.8版本公开发布，白板功能正式实装 by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
+        "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md\"> ob 1.1.8版本公开发布，白板功能正式实装 by 软通达 </a>",
+        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装.md\"> ob 1.1.8版本公开发布，白板功能正式实装 </a>",
         "<a class=\"internal-link\" href=\"ob 1.1.8版本公开发布，白板功能正式实装.md\"> ob 1.1.8版本公开发布，白板功能正式实装 </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
@@ -6555,12 +6575,7 @@
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian插件列表与教程（MOC）.md\"> Obsidian插件列表与教程（MOC） </a>",
         "<a class=\"internal-link\" href=\"09 碎记/ob开箱即用库.md\"> ob开箱即用库 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/同步（sync核心插件）.md\"> 同步（sync核心插件） </a>",
-        "<a class=\"internal-link\" href=\"09 碎记/ob开箱即用库.md\"> ob开箱即用库 </a>",
-        "<a class=\"internal-link\" href=\"使用docker安装obsidian，使其web化并能进行协同.md\"> 使用docker安装obsidian，使其web化并能进行协同 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/Obsidian 发布服务.md\"> Obsidian 发布服务 </a>",
-        "<a class=\"internal-link\" href=\"01 2021新教程/以ob为主的工作流（MOC）.md\"> 以ob为主的工作流（MOC） </a>",
-        "<a class=\"internal-link\" href=\"每日笔记、日程管理、工作复盘 by 二一的笔记.md\"> 每日笔记、日程管理、工作复盘 by 二一的笔记 </a>"
+        "<a class=\"internal-link\" href=\"01 2021新教程/同步（sync核心插件）.md\"> 同步（sync核心插件） </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"09 碎记/202109071902测试Checklist插件.md\"> 202109071902测试Checklist插件 </a>",
