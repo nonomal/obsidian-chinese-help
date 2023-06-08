@@ -1,116 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Language learner（类LingQ英语学习插件）",
-      "path": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
-    },
-    {
-      "basename": "Memos插件开发者自述 by Bon",
-      "path": "01 2021新教程/Memos插件开发者自述 by Bon.md"
-    },
-    {
-      "basename": "Boninall",
-      "path": "07 信息源与贡献者/Boninall.md"
-    },
-    {
-      "basename": "Dataview插件的quicker动作 by 李考凡",
-      "path": "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md"
+      "basename": "Longform使用指南 by 内蒙古的阿萨克Isaac",
+      "path": "Longform使用指南 by 内蒙古的阿萨克Isaac.md"
     },
     {
       "basename": "Obsidian插件列表与教程（MOC）",
       "path": "01 2021新教程/Obsidian插件列表与教程（MOC）.md"
     },
     {
-      "basename": "树叶笔记法",
-      "path": "01 2021新教程/树叶笔记法.md"
+      "basename": "Longform（长文写作插件）",
+      "path": "01 2021新教程/Longform（长文写作插件）.md"
     },
     {
-      "basename": "obsidian的里程碑版本",
-      "path": "01 2021新教程/obsidian的里程碑版本.md"
+      "basename": "使用ob发布服务的站点",
+      "path": "01 2021新教程/使用ob发布服务的站点.md"
     },
     {
-      "basename": "theBrain免费替代品excalibrain上手尝鲜 by 玉树芝兰",
-      "path": "01 2021新教程/theBrain免费替代品excalibrain上手尝鲜 by 玉树芝兰.md"
-    },
-    {
-      "basename": "Excalidraw插件",
-      "path": "01 2021新教程/Excalidraw插件.md"
-    },
-    {
-      "basename": "自定义侧边栏（Customizable Sidebar插件介绍） by 软通达",
-      "path": "01 2021新教程/自定义侧边栏（Customizable Sidebar插件介绍） by 软通达.md"
-    },
-    {
-      "basename": "ob开箱即用库",
-      "path": "09 碎记/ob开箱即用库.md"
-    },
-    {
-      "basename": "Commander插件",
-      "path": "01 2021新教程/Commander插件.md"
-    },
-    {
-      "basename": "Customizable Sidebar（自定义侧边栏插件）",
-      "path": "01 2021新教程/Customizable Sidebar（自定义侧边栏插件）.md"
-    },
-    {
-      "basename": "Better Command Palette（命令插件）",
-      "path": "01 2021新教程/Better Command Palette（命令插件）.md"
-    },
-    {
-      "basename": "Tree edit(树形写作插件)",
-      "path": "01 2021新教程/Tree edit(树形写作插件).md"
-    },
-    {
-      "basename": "obsidian的信息源（MOC）",
-      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
-    },
-    {
-      "basename": "Markdown实现块级引用双向链接的探索 by D",
-      "path": "09 碎记/Markdown实现块级引用双向链接的探索 by D.md"
-    },
-    {
-      "basename": "D",
-      "path": "07 信息源与贡献者/D.md"
-    },
-    {
-      "basename": "为什么markdown语法加粗失效",
-      "path": "05 常见问题/为什么markdown语法加粗失效.md"
-    },
-    {
-      "basename": "202012090835Markdown语言是一种标记语言",
-      "path": "09 碎记/202012090835Markdown语言是一种标记语言.md"
-    },
-    {
-      "basename": "obsidian42 strange new worlds  （计算引用插件）",
-      "path": "01 2021新教程/obsidian42 strange new worlds  （计算引用插件）.md"
-    },
-    {
-      "basename": "Block reference count（计算块引用插件）",
-      "path": "01 2021新教程/Block reference count（计算块引用插件）.md"
-    },
-    {
-      "basename": "使用ob进行视频学习",
-      "path": "01 2021新教程/使用ob进行视频学习.md"
-    },
-    {
-      "basename": "购买obsidian的服务",
-      "path": "01 2021新教程/购买obsidian的服务.md"
+      "basename": "Obsidian 发布服务",
+      "path": "01 2021新教程/Obsidian 发布服务.md"
     },
     {
       "basename": "2022年4月obsidian发布服务的阶段性总结 by 软通达",
       "path": "01 2021新教程/2022年4月obsidian发布服务的阶段性总结 by 软通达.md"
     },
     {
-      "basename": "Github publisher（第三方发布插件）",
-      "path": "01 2021新教程/Github publisher（第三方发布插件）.md"
+      "basename": "利用 Github Gist 快速分享 Obsidian 笔记 from utgd",
+      "path": "利用 Github Gist 快速分享 Obsidian 笔记 from utgd.md"
     },
     {
-      "basename": "下载ob中文教程",
-      "path": "01 2021新教程/下载ob中文教程.md"
+      "basename": "发布（publish核心插件）",
+      "path": "01 2021新教程/发布（publish核心插件）.md"
     },
     {
-      "basename": "obsidian新手入门（MOC）",
-      "path": "01 2021新教程/obsidian新手入门（MOC）.md"
+      "basename": "Obsidian配置 by 猫老大",
+      "path": "01 2021新教程/Obsidian配置 by 猫老大.md"
+    },
+    {
+      "basename": "win7用户不能成功安装最新的ob安装包",
+      "path": "win7用户不能成功安装最新的ob安装包.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "01 2021新教程/Electron.md"
+    },
+    {
+      "basename": "以ob为主的工作流（MOC）",
+      "path": "01 2021新教程/以ob为主的工作流（MOC）.md"
+    },
+    {
+      "basename": "obsidian的信息源（MOC）",
+      "path": "07 信息源与贡献者/obsidian的信息源（MOC）.md"
+    },
+    {
+      "basename": "如何进行网页剪藏（MOC）",
+      "path": "07 信息源与贡献者/如何进行网页剪藏（MOC）.md"
+    },
+    {
+      "basename": "五彩划线",
+      "path": "五彩划线.md"
+    },
+    {
+      "basename": "如何剪藏网页到obsidian（2023年4月阶段性总结）",
+      "path": "如何剪藏网页到obsidian（2023年4月阶段性总结）.md"
+    },
+    {
+      "basename": "2022年3月如何安装obsidian插件（阶段性总结）",
+      "path": "01 2021新教程/2022年3月如何安装obsidian插件（阶段性总结）.md"
+    },
+    {
+      "basename": "为什么无法查看和下载社区插件和主题（MOC）",
+      "path": "05 常见问题/为什么无法查看和下载社区插件和主题（MOC）.md"
+    },
+    {
+      "basename": "本人对obsidian新手的建议（2022版本） by 软通达",
+      "path": "01 2021新教程/本人对obsidian新手的建议（2022版本） by 软通达.md"
+    },
+    {
+      "basename": "基于MAKE插件的开箱即用库 by Nathan",
+      "path": "基于MAKE插件的开箱即用库 by Nathan.md"
+    },
+    {
+      "basename": "ob开箱即用库",
+      "path": "09 碎记/ob开箱即用库.md"
+    },
+    {
+      "basename": "心理学312双链笔记系统 by 王旰",
+      "path": "心理学312双链笔记系统 by 王旰.md"
+    },
+    {
+      "basename": "Daily Stats（每日字数统计插件）",
+      "path": "01 2021新教程/Daily Stats（每日字数统计插件）.md"
+    },
+    {
+      "basename": "Obsidian zotero（Zotero插件）",
+      "path": "01 2021新教程/Obsidian zotero（Zotero插件）.md"
+    },
+    {
+      "basename": "如何与zotero连用",
+      "path": "08 高阶教程/如何与zotero连用.md"
+    },
+    {
+      "basename": "ob主题和插件的开发者文档（ob官方）",
+      "path": "ob主题和插件的开发者文档（ob官方）.md"
+    },
+    {
+      "basename": "obsidan插件开发与翻译",
+      "path": "obsidan插件开发与翻译.md"
+    },
+    {
+      "basename": "为什么markdown语法加粗失效",
+      "path": "05 常见问题/为什么markdown语法加粗失效.md"
+    },
+    {
+      "basename": "Ultimate Todoist Sync for Obsidian",
+      "path": "Ultimate Todoist Sync for Obsidian.md"
+    },
+    {
+      "basename": "时间管理（GTD）",
+      "path": "时间管理（GTD）.md"
+    },
+    {
+      "basename": "日记增强插件(todo 管理) 作者自述 by die4passion",
+      "path": "01 2021新教程/日记增强插件(todo 管理) 作者自述 by die4passion.md"
+    },
+    {
+      "basename": "Obsidian zotero开发者自述 by Aidenlx",
+      "path": "01 2021新教程/Obsidian zotero开发者自述 by Aidenlx.md"
+    },
+    {
+      "basename": "如何安装zotero插件",
+      "path": "08 高阶教程/如何安装zotero插件.md"
+    },
+    {
+      "basename": "Q群资源分享渠道",
+      "path": "01 2021新教程/Q群资源分享渠道.md"
+    },
+    {
+      "basename": "使用本地图床优化obsidian的文件管理",
+      "path": "使用本地图床优化obsidian的文件管理.md"
+    },
+    {
+      "basename": "202008271209",
+      "path": "Attachment/202008271209.png"
+    },
+    {
+      "basename": "为什么在编辑界面原本分行的文字为何在预览界面就全部变成一行了",
+      "path": "05 常见问题/为什么在编辑界面原本分行的文字为何在预览界面就全部变成一行了.md"
+    },
+    {
+      "basename": "202008271035",
+      "path": "Attachment/202008271035.png"
+    },
+    {
+      "basename": "obsidian中文教程",
+      "path": "01 2021新教程/obsidian中文教程.md"
+    },
+    {
+      "basename": "图床工具",
+      "path": "01 2021新教程/图床工具.md"
+    },
+    {
+      "basename": "简悦开箱即用库 by Kenshin",
+      "path": "01 2021新教程/简悦开箱即用库 by Kenshin.md"
+    },
+    {
+      "basename": "obsidian同步服务（设置篇） by 软通达",
+      "path": "03 教程/obsidian同步服务（设置篇） by 软通达.md"
+    },
+    {
+      "basename": "如何同步obsidian文件（MOC）",
+      "path": "03 教程/如何同步obsidian文件（MOC）.md"
+    },
+    {
+      "basename": "2022年3月如何同步obsidian文件（阶段性总结）",
+      "path": "03 教程/2022年3月如何同步obsidian文件（阶段性总结）.md"
+    },
+    {
+      "basename": "书签插件（Bookmarks插件）",
+      "path": "书签插件（Bookmarks插件）.md"
+    },
+    {
+      "basename": "毛线剪藏",
+      "path": "01 2021新教程/毛线剪藏.md"
+    },
+    {
+      "basename": "如何安装并使用booknote插件 by Cuman",
+      "path": "01 2021新教程/如何安装并使用booknote插件 by Cuman.md"
+    },
+    {
+      "basename": "Booknote插件",
+      "path": "01 2021新教程/Booknote插件.md"
+    },
+    {
+      "basename": "WRITING A NOVEL IN MARKDOWN by pdworkman",
+      "path": "WRITING A NOVEL IN MARKDOWN by pdworkman.md"
+    },
+    {
+      "basename": "如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽",
+      "path": "01 2021新教程/如何用好Obsidian进行视频教程学习 by 一条小何波浪宽又宽.md"
     }
   ],
   "omittedPaths": [],

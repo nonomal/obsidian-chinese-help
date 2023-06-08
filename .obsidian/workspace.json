@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c047eba3d61d34dc",
+        "id": "029ed9df195b0bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "a57836050c8bde18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "00afdbd982279e14",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "d59d9f3d52c00b3e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "aa98e132fdb83b07",
+            "id": "43da7d1a01859b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
+                "file": "Longform使用指南 by 内蒙古的阿萨克Isaac.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,13 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7b77b85bb6ebf746",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "d1099c8434716628",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
+                "file": "Longform使用指南 by 内蒙古的阿萨克Isaac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +122,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md",
+                "file": "Longform使用指南 by 内蒙古的阿萨克Isaac.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -173,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 2021新教程/Language learner（类LingQ英语学习插件）.md"
+                "file": "Longform使用指南 by 内蒙古的阿萨克Isaac.md"
               }
             }
           }
@@ -181,30 +158,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "publish:发布更改": false
     }
   },
-  "active": "aa98e132fdb83b07",
+  "active": "43da7d1a01859b24",
   "lastOpenFiles": [
-    "01 2021新教程/Memos插件开发者自述 by Bon.md",
-    "07 信息源与贡献者/Boninall.md",
-    "01 2021新教程/Dataview插件的quicker动作 by 李考凡.md",
     "01 2021新教程/Obsidian插件列表与教程（MOC）.md",
-    "教程地图（白板）.canvas",
-    "Canvas Block Reference（白板块引用插件）.md",
-    "ob 1.1.8版本公开发布，白板功能正式实装 by 软通达.md",
-    "知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛.md",
-    "01 2021新教程/树叶笔记法.md",
-    "Canvas Hole（白板插件）.md"
+    "Longform使用指南 by 内蒙古的阿萨克Isaac.md",
+    "01 2021新教程/Longform（长文写作插件）.md",
+    "01 2021新教程/使用ob发布服务的站点.md",
+    "01 2021新教程/Obsidian 发布服务.md",
+    "01 2021新教程/2022年4月obsidian发布服务的阶段性总结 by 软通达.md",
+    "利用 Github Gist 快速分享 Obsidian 笔记 from utgd.md",
+    "01 2021新教程/发布（publish核心插件）.md",
+    "01 2021新教程/餐巾纸盒子.md",
+    "01 2021新教程/Obsidian配置 by 猫老大.md",
+    "01 2021新教程/猫老大的小站台.md",
+    "win7用户不能成功安装最新的ob安装包.md",
+    "01 2021新教程/Electron.md",
+    "01 2021新教程/以ob为主的工作流（MOC）.md",
+    "07 信息源与贡献者/obsidian的信息源（MOC）.md",
+    "07 信息源与贡献者/如何进行网页剪藏（MOC）.md",
+    "五彩划线.md",
+    "如何剪藏网页到obsidian（2023年4月阶段性总结）.md",
+    "01 2021新教程/2022年3月如何安装obsidian插件（阶段性总结）.md",
+    "05 常见问题/为什么无法查看和下载社区插件和主题（MOC）.md",
+    "01 2021新教程/本人对obsidian新手的建议（2022版本） by 软通达.md",
+    "基于MAKE插件的开箱即用库 by Nathan.md",
+    "09 碎记/ob开箱即用库.md",
+    "心理学312双链笔记系统 by 王旰.md",
+    "01 2021新教程/Daily Stats（每日字数统计插件）.md",
+    "01 2021新教程/Obsidian zotero（Zotero插件）.md",
+    "Attachment/202008271209.png",
+    "Attachment/202008271035.png",
+    "Pasted image 20230426210652.png",
+    "WuCai/2023/04",
+    "WuCai/2023",
+    "WuCai"
   ]
 }

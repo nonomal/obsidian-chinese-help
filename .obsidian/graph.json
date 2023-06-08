@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "名词卡片",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.48713235294118,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749498,
+  "scale": 0.05932617187500053,
   "close": true
 }
